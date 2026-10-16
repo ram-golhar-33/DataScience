@@ -15,18 +15,17 @@ A field project that analyses the sales records of a local grocery shop to find 
 1. [Project Overview](#project-overview)
 2. [Problem Statement](#problem-statement)
 3. [Objectives](#objectives)
-4. [Team](#team)
-5. [Dataset](#dataset)
-6. [Tools and Technologies](#tools-and-technologies)
-7. [Project Structure](#project-structure)
-8. [Methodology](#methodology)
-9. [How to Run](#how-to-run)
-10. [Output Files](#output-files)
-11. [Key Findings](#key-findings)
-12. [Recommendations](#recommendations)
-13. [Power BI Dashboard](#power-bi-dashboard)
-14. [Future Scope](#future-scope)
-15. [Acknowledgement](#acknowledgement)
+4. [Dataset](#dataset)
+5. [Tools and Technologies](#tools-and-technologies)
+6. [Project Structure](#project-structure)
+7. [Methodology](#methodology)
+8. [How to Run](#how-to-run)
+9. [Output Files](#output-files)
+10. [Key Findings](#key-findings)
+11. [Recommendations](#recommendations)
+12. [Power BI Dashboard](#power-bi-dashboard)
+13. [Future Scope](#future-scope)
+14. [Acknowledgement](#acknowledgement)
 
 ---
 
@@ -56,15 +55,6 @@ The owner of a local grocery shop does not know clearly which products give the 
 - Study sales trends by month, weekday, category, payment method and customer type.
 - Present the findings through tables, Excel reports and a Power BI dashboard.
 - Suggest practical ways to improve sales and inventory management.
-
-## Team
-
-| Name | Role |
-|---|---|
-| Payal Awaghade | Student |
-| Mitali Chavan | Student |
-| Dipali Lande | Student |
-| Prof. Shaheen Shaikh | Mentor |
 
 ## Dataset
 
