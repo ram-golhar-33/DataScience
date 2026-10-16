@@ -1,3 +1,22 @@
+"""
+Local Business Sales Analysis - Grocery Shop
+Data period : 3 July 2026 to 20 September 2026 (1500 records)
+Students    : Payal Awaghade, Mitali Chavan, Dipali Lande
+Mentor      : Prof. Shaheen Shaikh
+
+Produces these reports plus recommendations:
+    1. Total Sales            4. Sales Trend (weekly and monthly)
+    2. Best-Selling Products  5. Top Revenue Products
+    3. Category-wise Sales    6. Quantity Sold
+
+Input  : D:\\DS\\local_business_sales_analysis_1500_records.csv
+Output : D:\\DS\\sales_cleaned.csv, D:\\DS\\sales_summary.xlsx
+         D:\\DS\\output\\  (one CSV / TXT file per report)
+
+Install once : pip install pandas openpyxl
+Run          : cd D:\\DS   then   python sales_analysis.py
+"""
+
 import os
 import sys
 
@@ -6,7 +25,7 @@ from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 from openpyxl.utils import get_column_letter
 
 # ----------------------------- CONFIGURATION -----------------------------
-DATA_PATH = r"D:\DS\local_business_sales_analysis_2000_records.csv"
+DATA_PATH = r"D:\DS\local_business_sales_analysis_1500_records.csv"
 MAIN_DIR = r"D:\DS"
 OUT_DIR = r"D:\DS\output"
 TOP_N = 10
@@ -76,12 +95,26 @@ def category_report(df: pd.DataFrame) -> pd.DataFrame:
     return t.round(2)
 
 
-def trend_report(df: pd.DataFrame) -> pd.DataFrame:
-    """4. Sales Trend - monthly sales with change % and 3-month moving average."""
-    m = df.groupby("Year_Month")["Total_Sales_INR"].sum().to_frame("Total_Sales")
-    m["Change_%_vs_Previous_Month"] = m["Total_Sales"].pct_change() * 100
-    m["3_Month_Moving_Avg"] = m["Total_Sales"].rolling(3).mean()
-    return m.round(2)
+def weekly_trend_report(df: pd.DataFrame) -> pd.DataFrame:
+    """4a. Sales Trend (weekly) - 7-day blocks counted from the first date in the data."""
+    daily = df.groupby("Date")["Total_Sales_INR"].sum().reset_index()
+    daily["Week_No"] = (daily["Date"] - df["Date"].min()).dt.days // 7 + 1
+    t = daily.groupby("Week_No").agg(Week_Start=("Date", "min"), Week_End=("Date", "max"),
+                                     Days=("Date", "count"), Total_Sales=("Total_Sales_INR", "sum"))
+    t["Avg_Daily_Sales"] = t["Total_Sales"] / t["Days"]
+    t["Change_%_vs_Previous_Week"] = t["Avg_Daily_Sales"].pct_change() * 100
+    t["Week_Start"] = t["Week_Start"].dt.strftime("%Y-%m-%d")
+    t["Week_End"] = t["Week_End"].dt.strftime("%Y-%m-%d")
+    return t.round(2)
+
+
+def monthly_trend_report(df: pd.DataFrame) -> pd.DataFrame:
+    """4b. Sales Trend (monthly) - average daily sales is used because July and September are part months."""
+    daily = df.groupby(["Year_Month", "Date"])["Total_Sales_INR"].sum().reset_index()
+    t = daily.groupby("Year_Month").agg(Days=("Date", "count"), Total_Sales=("Total_Sales_INR", "sum"))
+    t["Avg_Daily_Sales"] = t["Total_Sales"] / t["Days"]
+    t["Change_%_vs_Previous_Month"] = t["Avg_Daily_Sales"].pct_change() * 100
+    return t.round(2)
 
 
 def top_revenue_report(df: pd.DataFrame) -> pd.DataFrame:
@@ -103,7 +136,7 @@ def quantity_report(df: pd.DataFrame) -> pd.DataFrame:
     return t.round(2)
 
 
-def recommendations(df, products, categories, trend) -> str:
+def recommendations(df, categories, weekly) -> str:
     """Data-driven recommendations for sales and inventory management."""
     total = df["Total_Sales_INR"].sum()
     sales_by_product = df.groupby("Product_Name")["Total_Sales_INR"].sum().sort_values(ascending=False)
@@ -113,15 +146,17 @@ def recommendations(df, products, categories, trend) -> str:
     weekday = daily.groupby(daily.index.day_name()).mean()
     pay = df.groupby("Payment_Method")["Total_Sales_INR"].sum()
     walk_in = df[df["Customer_Type"] == "Walk-in"]["Total_Sales_INR"].sum() / total * 100
+    full_weeks = weekly[weekly["Days"] == 7]
+    best_w, low_w = full_weeks["Avg_Daily_Sales"].idxmax(), full_weeks["Avg_Daily_Sales"].idxmin()
     return (
         "RECOMMENDATIONS\n"
         f"1. Keep the top revenue products always in stock: {top5}.\n"
         f"2. {categories.index[0]} is the strongest category "
         f"({categories['Share_%'].iloc[0]:.1f}% of sales); protect its supply and pricing.\n"
-        f"3. Increase stock before {weekday.idxmax()} and weekends; keep lower stock on {weekday.idxmin()}.\n"
+        f"3. Increase stock before {weekday.idxmax()} (highest average daily sales); keep lower stock on {weekday.idxmin()}.\n"
         f"4. Offer bundle deals or discounts on slow products: {low5}.\n"
-        f"5. Plan extra stock for the best month ({trend['Total_Sales'].idxmax()}) "
-        f"and reduce orders in the weakest month ({trend['Total_Sales'].idxmin()}).\n"
+        f"5. Plan extra stock for strong weeks like Week {best_w} ({weekly.loc[best_w, 'Week_Start']} to "
+        f"{weekly.loc[best_w, 'Week_End']}) and reduce orders in weak weeks like Week {low_w}.\n"
         f"6. Walk-in customers give {walk_in:.1f}% of sales; start loyalty offers to make them regular.\n"
         f"7. {pay.idxmax()} is the most used payment method ({pay.max() / pay.sum() * 100:.1f}%); promote digital payments.\n"
         "8. Reorder class A products weekly, class B every two weeks and class C monthly."
@@ -162,12 +197,12 @@ def main() -> None:
         "1_Total_Sales": total_sales_report(df),
         "2_Best_Selling_Products": best_selling_report(df),
         "3_Category_wise_Sales": category_report(df),
-        "4_Sales_Trend": trend_report(df),
+        "4a_Sales_Trend_Weekly": weekly_trend_report(df),
+        "4b_Sales_Trend_Monthly": monthly_trend_report(df),
         "5_Top_Revenue_Products": top_revenue_report(df),
         "6_Quantity_Sold": quantity_report(df),
     }
-    advice = recommendations(df, reports["2_Best_Selling_Products"],
-                             reports["3_Category_wise_Sales"], reports["4_Sales_Trend"])
+    advice = recommendations(df, reports["3_Category_wise_Sales"], reports["4a_Sales_Trend_Weekly"])
 
     # print every report and save it as its own file
     for name, table in reports.items():

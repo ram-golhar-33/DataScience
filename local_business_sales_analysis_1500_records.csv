@@ -1,0 +1,1501 @@
+﻿Invoice_ID,Date,Year,Month,Month_Number,Day,Product_ID,Product_Name,Category,Quantity,Unit_Price_INR,Discount_Percent,Total_Sales_INR,Payment_Method,Customer_Type
+INV-00001,2026-07-03,2026,July,7,Friday,P010,Milk 1L,Dairy,2,61.13,2,119.81,UPI,Regular
+INV-00002,2026-07-03,2026,July,7,Friday,P025,Instant Noodles,Packaged Food,1,14.45,2,14.16,UPI,Walk-in
+INV-00003,2026-07-03,2026,July,7,Friday,P019,Banana Dozen,Fruits,3,60.65,0,181.95,UPI,Walk-in
+INV-00004,2026-07-03,2026,July,7,Friday,P005,Sugar 1kg,Essentials,3,48.81,0,146.43,Cash,Walk-in
+INV-00005,2026-07-03,2026,July,7,Friday,P026,Chilli Powder 200g,Spices,1,59.76,0,59.76,Cash,Regular
+INV-00006,2026-07-03,2026,July,7,Friday,P008,Tea 250g,Beverages,5,126.34,0,631.7,Cash,Walk-in
+INV-00007,2026-07-03,2026,July,7,Friday,P006,Salt 1kg,Essentials,2,23.28,0,46.56,UPI,Walk-in
+INV-00008,2026-07-03,2026,July,7,Friday,P024,Toothpaste,Personal Care,2,71.23,5,135.34,UPI,Walk-in
+INV-00009,2026-07-03,2026,July,7,Friday,P001,Rice 5kg,Grains,2,314.76,0,629.52,UPI,Walk-in
+INV-00010,2026-07-03,2026,July,7,Friday,P010,Milk 1L,Dairy,4,65.07,2,255.07,UPI,Regular
+INV-00011,2026-07-03,2026,July,7,Friday,P027,Turmeric Powder 200g,Spices,5,49.43,0,247.15,UPI,Regular
+INV-00012,2026-07-03,2026,July,7,Friday,P010,Milk 1L,Dairy,2,65.71,5,124.85,Debit/Credit Card,Walk-in
+INV-00013,2026-07-03,2026,July,7,Friday,P015,Potato 1kg,Vegetables,1,32.14,0,32.14,Cash,Regular
+INV-00014,2026-07-03,2026,July,7,Friday,P001,Rice 5kg,Grains,2,315.0,0,630.0,UPI,Walk-in
+INV-00015,2026-07-03,2026,July,7,Friday,P014,Biscuits Pack,Snacks,2,31.17,10,56.11,Cash,Walk-in
+INV-00016,2026-07-03,2026,July,7,Friday,P018,Apples 1kg,Fruits,6,146.5,5,835.05,Cash,Walk-in
+INV-00017,2026-07-03,2026,July,7,Friday,P007,Sunflower Oil 1L,Oil & Ghee,3,148.77,0,446.31,Cash,Walk-in
+INV-00018,2026-07-03,2026,July,7,Friday,P025,Instant Noodles,Packaged Food,6,15.81,0,94.86,Cash,Walk-in
+INV-00019,2026-07-04,2026,July,7,Saturday,P009,Coffee 100g,Beverages,1,109.72,0,109.72,UPI,Walk-in
+INV-00020,2026-07-04,2026,July,7,Saturday,P020,Bath Soap,Personal Care,10,37.13,0,371.3,Debit/Credit Card,Walk-in
+INV-00021,2026-07-04,2026,July,7,Saturday,P010,Milk 1L,Dairy,1,61.32,0,61.32,Cash,Walk-in
+INV-00022,2026-07-04,2026,July,7,Saturday,P013,Bread,Bakery,1,42.12,0,42.12,Cash,Walk-in
+INV-00023,2026-07-04,2026,July,7,Saturday,P014,Biscuits Pack,Snacks,1,30.11,0,30.11,Debit/Credit Card,Walk-in
+INV-00024,2026-07-04,2026,July,7,Saturday,P010,Milk 1L,Dairy,3,64.69,2,190.19,UPI,Regular
+INV-00025,2026-07-04,2026,July,7,Saturday,P025,Instant Noodles,Packaged Food,1,15.78,10,14.2,UPI,Walk-in
+INV-00026,2026-07-04,2026,July,7,Saturday,P023,Dishwash Liquid,Home Care,10,89.13,5,846.73,Debit/Credit Card,Regular
+INV-00027,2026-07-04,2026,July,7,Saturday,P014,Biscuits Pack,Snacks,5,30.34,2,148.67,Cash,Walk-in
+INV-00028,2026-07-04,2026,July,7,Saturday,P018,Apples 1kg,Fruits,2,145.63,0,291.26,Cash,Walk-in
+INV-00029,2026-07-04,2026,July,7,Saturday,P019,Banana Dozen,Fruits,5,57.66,0,288.3,UPI,Regular
+INV-00030,2026-07-04,2026,July,7,Saturday,P029,Cold Drink 750ml,Beverages,1,47.69,0,47.69,UPI,Walk-in
+INV-00031,2026-07-04,2026,July,7,Saturday,P004,Moong Dal 1kg,Pulses,6,151.82,0,910.92,Cash,Walk-in
+INV-00032,2026-07-04,2026,July,7,Saturday,P011,Curd 500g,Dairy,6,38.18,0,229.08,Cash,Regular
+INV-00033,2026-07-04,2026,July,7,Saturday,P004,Moong Dal 1kg,Pulses,1,149.81,0,149.81,UPI,Walk-in
+INV-00034,2026-07-04,2026,July,7,Saturday,P024,Toothpaste,Personal Care,5,70.19,2,343.93,UPI,Regular
+INV-00035,2026-07-04,2026,July,7,Saturday,P011,Curd 500g,Dairy,1,38.1,2,37.34,Cash,Walk-in
+INV-00036,2026-07-04,2026,July,7,Saturday,P002,Wheat Flour 5kg,Grains,3,267.02,0,801.06,Debit/Credit Card,Walk-in
+INV-00037,2026-07-04,2026,July,7,Saturday,P029,Cold Drink 750ml,Beverages,1,45.57,0,45.57,UPI,Walk-in
+INV-00038,2026-07-04,2026,July,7,Saturday,P026,Chilli Powder 200g,Spices,1,60.0,0,60.0,Cash,Regular
+INV-00039,2026-07-04,2026,July,7,Saturday,P015,Potato 1kg,Vegetables,3,31.45,0,94.35,Debit/Credit Card,Walk-in
+INV-00040,2026-07-04,2026,July,7,Saturday,P030,Eggs 6 Pack,Dairy & Eggs,6,50.83,0,304.98,Cash,Walk-in
+INV-00041,2026-07-04,2026,July,7,Saturday,P024,Toothpaste,Personal Care,6,68.63,0,411.78,UPI,Regular
+INV-00042,2026-07-05,2026,July,7,Sunday,P005,Sugar 1kg,Essentials,1,49.48,0,49.48,UPI,Walk-in
+INV-00043,2026-07-05,2026,July,7,Sunday,P008,Tea 250g,Beverages,8,127.77,0,1022.16,Cash,Walk-in
+INV-00044,2026-07-05,2026,July,7,Sunday,P010,Milk 1L,Dairy,1,64.39,0,64.39,Cash,Walk-in
+INV-00045,2026-07-05,2026,July,7,Sunday,P025,Instant Noodles,Packaged Food,2,15.42,0,30.84,Cash,Regular
+INV-00046,2026-07-05,2026,July,7,Sunday,P015,Potato 1kg,Vegetables,4,30.88,0,123.52,UPI,Walk-in
+INV-00047,2026-07-05,2026,July,7,Sunday,P022,Detergent 1kg,Home Care,1,106.4,0,106.4,Cash,Regular
+INV-00048,2026-07-05,2026,July,7,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,3,151.47,0,454.41,UPI,Walk-in
+INV-00049,2026-07-05,2026,July,7,Sunday,P020,Bath Soap,Personal Care,2,39.23,0,78.46,UPI,Regular
+INV-00050,2026-07-05,2026,July,7,Sunday,P001,Rice 5kg,Grains,5,310.92,0,1554.6,Cash,Walk-in
+INV-00051,2026-07-05,2026,July,7,Sunday,P009,Coffee 100g,Beverages,1,111.26,0,111.26,UPI,Regular
+INV-00052,2026-07-05,2026,July,7,Sunday,P030,Eggs 6 Pack,Dairy & Eggs,3,48.61,0,145.83,UPI,Walk-in
+INV-00053,2026-07-05,2026,July,7,Sunday,P029,Cold Drink 750ml,Beverages,2,44.67,0,89.34,Debit/Credit Card,Walk-in
+INV-00054,2026-07-05,2026,July,7,Sunday,P025,Instant Noodles,Packaged Food,2,15.31,10,27.56,Cash,Regular
+INV-00055,2026-07-05,2026,July,7,Sunday,P008,Tea 250g,Beverages,4,125.22,0,500.88,UPI,Walk-in
+INV-00056,2026-07-05,2026,July,7,Sunday,P025,Instant Noodles,Packaged Food,5,15.23,10,68.54,UPI,Walk-in
+INV-00057,2026-07-05,2026,July,7,Sunday,P011,Curd 500g,Dairy,1,37.75,5,35.86,Cash,Walk-in
+INV-00058,2026-07-05,2026,July,7,Sunday,P011,Curd 500g,Dairy,2,37.05,5,70.4,Debit/Credit Card,Regular
+INV-00059,2026-07-05,2026,July,7,Sunday,P024,Toothpaste,Personal Care,5,71.32,5,338.77,UPI,Walk-in
+INV-00060,2026-07-05,2026,July,7,Sunday,P005,Sugar 1kg,Essentials,1,48.56,0,48.56,UPI,Walk-in
+INV-00061,2026-07-05,2026,July,7,Sunday,P021,Shampoo 180ml,Personal Care,3,123.78,0,371.34,UPI,Walk-in
+INV-00062,2026-07-05,2026,July,7,Sunday,P017,Tomato 1kg,Vegetables,3,42.9,0,128.7,Debit/Credit Card,Regular
+INV-00063,2026-07-05,2026,July,7,Sunday,P005,Sugar 1kg,Essentials,1,47.62,0,47.62,Debit/Credit Card,Walk-in
+INV-00064,2026-07-05,2026,July,7,Sunday,P025,Instant Noodles,Packaged Food,3,15.25,0,45.75,Cash,Walk-in
+INV-00065,2026-07-06,2026,July,7,Monday,P022,Detergent 1kg,Home Care,2,101.94,5,193.69,Cash,Walk-in
+INV-00066,2026-07-06,2026,July,7,Monday,P006,Salt 1kg,Essentials,1,22.73,0,22.73,UPI,Regular
+INV-00067,2026-07-06,2026,July,7,Monday,P029,Cold Drink 750ml,Beverages,8,44.77,2,351.0,Debit/Credit Card,Walk-in
+INV-00068,2026-07-06,2026,July,7,Monday,P019,Banana Dozen,Fruits,4,63.11,0,252.44,Debit/Credit Card,Walk-in
+INV-00069,2026-07-06,2026,July,7,Monday,P011,Curd 500g,Dairy,4,36.94,2,144.8,UPI,Regular
+INV-00070,2026-07-06,2026,July,7,Monday,P001,Rice 5kg,Grains,8,324.74,2,2545.96,Cash,Walk-in
+INV-00071,2026-07-06,2026,July,7,Monday,P026,Chilli Powder 200g,Spices,2,58.96,0,117.92,UPI,Regular
+INV-00072,2026-07-06,2026,July,7,Monday,P029,Cold Drink 750ml,Beverages,5,47.19,0,235.95,UPI,Regular
+INV-00073,2026-07-06,2026,July,7,Monday,P010,Milk 1L,Dairy,2,61.37,0,122.74,Cash,Walk-in
+INV-00074,2026-07-06,2026,July,7,Monday,P012,Butter 100g,Dairy,1,57.04,0,57.04,Debit/Credit Card,Walk-in
+INV-00075,2026-07-06,2026,July,7,Monday,P023,Dishwash Liquid,Home Care,4,88.43,0,353.72,Cash,Walk-in
+INV-00076,2026-07-06,2026,July,7,Monday,P022,Detergent 1kg,Home Care,1,102.56,0,102.56,UPI,Walk-in
+INV-00077,2026-07-06,2026,July,7,Monday,P001,Rice 5kg,Grains,2,309.76,0,619.52,UPI,Walk-in
+INV-00078,2026-07-06,2026,July,7,Monday,P030,Eggs 6 Pack,Dairy & Eggs,2,48.42,0,96.84,UPI,Walk-in
+INV-00079,2026-07-06,2026,July,7,Monday,P009,Coffee 100g,Beverages,10,109.58,0,1095.8,UPI,Regular
+INV-00080,2026-07-06,2026,July,7,Monday,P005,Sugar 1kg,Essentials,3,47.44,0,142.32,UPI,Walk-in
+INV-00081,2026-07-06,2026,July,7,Monday,P012,Butter 100g,Dairy,1,58.44,2,57.27,UPI,Walk-in
+INV-00082,2026-07-06,2026,July,7,Monday,P002,Wheat Flour 5kg,Grains,2,274.11,0,548.22,Cash,Walk-in
+INV-00083,2026-07-07,2026,July,7,Tuesday,P012,Butter 100g,Dairy,1,55.81,0,55.81,Debit/Credit Card,Walk-in
+INV-00084,2026-07-07,2026,July,7,Tuesday,P026,Chilli Powder 200g,Spices,2,59.33,5,112.73,UPI,Regular
+INV-00085,2026-07-07,2026,July,7,Tuesday,P005,Sugar 1kg,Essentials,6,47.13,0,282.78,Cash,Walk-in
+INV-00086,2026-07-07,2026,July,7,Tuesday,P003,Toor Dal 1kg,Pulses,3,163.21,0,489.63,Cash,Walk-in
+INV-00087,2026-07-07,2026,July,7,Tuesday,P022,Detergent 1kg,Home Care,1,106.45,0,106.45,UPI,Regular
+INV-00088,2026-07-07,2026,July,7,Tuesday,P025,Instant Noodles,Packaged Food,4,14.65,10,52.74,UPI,Walk-in
+INV-00089,2026-07-07,2026,July,7,Tuesday,P007,Sunflower Oil 1L,Oil & Ghee,1,153.69,0,153.69,Debit/Credit Card,Walk-in
+INV-00090,2026-07-07,2026,July,7,Tuesday,P021,Shampoo 180ml,Personal Care,5,124.27,5,590.28,Debit/Credit Card,Walk-in
+INV-00091,2026-07-07,2026,July,7,Tuesday,P017,Tomato 1kg,Vegetables,2,42.83,0,85.66,UPI,Regular
+INV-00092,2026-07-07,2026,July,7,Tuesday,P028,Peanuts 500g,Snacks,1,75.76,2,74.24,Cash,Walk-in
+INV-00093,2026-07-07,2026,July,7,Tuesday,P017,Tomato 1kg,Vegetables,2,40.71,0,81.42,Debit/Credit Card,Walk-in
+INV-00094,2026-07-07,2026,July,7,Tuesday,P004,Moong Dal 1kg,Pulses,5,141.28,0,706.4,Cash,Walk-in
+INV-00095,2026-07-07,2026,July,7,Tuesday,P006,Salt 1kg,Essentials,1,21.87,0,21.87,UPI,Walk-in
+INV-00096,2026-07-07,2026,July,7,Tuesday,P028,Peanuts 500g,Snacks,2,78.75,0,157.5,UPI,Regular
+INV-00097,2026-07-07,2026,July,7,Tuesday,P014,Biscuits Pack,Snacks,1,30.78,0,30.78,UPI,Walk-in
+INV-00098,2026-07-07,2026,July,7,Tuesday,P003,Toor Dal 1kg,Pulses,4,173.08,5,657.7,UPI,Walk-in
+INV-00099,2026-07-07,2026,July,7,Tuesday,P018,Apples 1kg,Fruits,2,155.28,0,310.56,Debit/Credit Card,Regular
+INV-00100,2026-07-07,2026,July,7,Tuesday,P005,Sugar 1kg,Essentials,2,49.82,0,99.64,Cash,Walk-in
+INV-00101,2026-07-07,2026,July,7,Tuesday,P010,Milk 1L,Dairy,3,65.11,0,195.33,Cash,Walk-in
+INV-00102,2026-07-07,2026,July,7,Tuesday,P003,Toor Dal 1kg,Pulses,2,161.63,0,323.26,UPI,Regular
+INV-00103,2026-07-07,2026,July,7,Tuesday,P006,Salt 1kg,Essentials,2,21.28,0,42.56,Cash,Walk-in
+INV-00104,2026-07-08,2026,July,7,Wednesday,P027,Turmeric Powder 200g,Spices,3,46.66,5,132.98,UPI,Walk-in
+INV-00105,2026-07-08,2026,July,7,Wednesday,P002,Wheat Flour 5kg,Grains,3,259.29,0,777.87,Debit/Credit Card,Walk-in
+INV-00106,2026-07-08,2026,July,7,Wednesday,P020,Bath Soap,Personal Care,3,36.81,0,110.43,Cash,Walk-in
+INV-00107,2026-07-08,2026,July,7,Wednesday,P016,Onion 1kg,Vegetables,1,38.63,0,38.63,Cash,Walk-in
+INV-00108,2026-07-08,2026,July,7,Wednesday,P026,Chilli Powder 200g,Spices,8,59.22,0,473.76,Cash,Walk-in
+INV-00109,2026-07-08,2026,July,7,Wednesday,P011,Curd 500g,Dairy,1,36.55,0,36.55,Debit/Credit Card,Walk-in
+INV-00110,2026-07-08,2026,July,7,Wednesday,P018,Apples 1kg,Fruits,3,150.44,0,451.32,UPI,Walk-in
+INV-00111,2026-07-08,2026,July,7,Wednesday,P012,Butter 100g,Dairy,4,56.4,0,225.6,Debit/Credit Card,Walk-in
+INV-00112,2026-07-08,2026,July,7,Wednesday,P005,Sugar 1kg,Essentials,1,48.24,0,48.24,Cash,Regular
+INV-00113,2026-07-08,2026,July,7,Wednesday,P024,Toothpaste,Personal Care,2,69.14,10,124.45,Cash,Walk-in
+INV-00114,2026-07-08,2026,July,7,Wednesday,P014,Biscuits Pack,Snacks,2,28.87,0,57.74,UPI,Walk-in
+INV-00115,2026-07-08,2026,July,7,Wednesday,P006,Salt 1kg,Essentials,3,22.33,0,66.99,Debit/Credit Card,Walk-in
+INV-00116,2026-07-08,2026,July,7,Wednesday,P012,Butter 100g,Dairy,1,59.52,0,59.52,Cash,Regular
+INV-00117,2026-07-08,2026,July,7,Wednesday,P016,Onion 1kg,Vegetables,1,39.62,5,37.64,Debit/Credit Card,Walk-in
+INV-00118,2026-07-08,2026,July,7,Wednesday,P009,Coffee 100g,Beverages,5,112.89,0,564.45,Cash,Regular
+INV-00119,2026-07-08,2026,July,7,Wednesday,P019,Banana Dozen,Fruits,10,61.67,0,616.7,UPI,Walk-in
+INV-00120,2026-07-08,2026,July,7,Wednesday,P013,Bread,Bakery,2,40.85,0,81.7,Cash,Walk-in
+INV-00121,2026-07-08,2026,July,7,Wednesday,P012,Butter 100g,Dairy,6,55.79,5,318.0,Cash,Walk-in
+INV-00122,2026-07-08,2026,July,7,Wednesday,P003,Toor Dal 1kg,Pulses,8,158.47,5,1204.37,Cash,Walk-in
+INV-00123,2026-07-08,2026,July,7,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,2,145.37,0,290.74,Cash,Walk-in
+INV-00124,2026-07-08,2026,July,7,Wednesday,P014,Biscuits Pack,Snacks,5,31.42,0,157.1,Cash,Walk-in
+INV-00125,2026-07-09,2026,July,7,Thursday,P003,Toor Dal 1kg,Pulses,1,159.88,10,143.89,Cash,Walk-in
+INV-00126,2026-07-09,2026,July,7,Thursday,P017,Tomato 1kg,Vegetables,2,41.25,0,82.5,Cash,Walk-in
+INV-00127,2026-07-09,2026,July,7,Thursday,P023,Dishwash Liquid,Home Care,2,89.24,0,178.48,Cash,Walk-in
+INV-00128,2026-07-09,2026,July,7,Thursday,P029,Cold Drink 750ml,Beverages,1,43.58,0,43.58,Cash,Regular
+INV-00129,2026-07-09,2026,July,7,Thursday,P008,Tea 250g,Beverages,2,129.77,0,259.54,UPI,Walk-in
+INV-00130,2026-07-09,2026,July,7,Thursday,P006,Salt 1kg,Essentials,5,22.59,0,112.95,Cash,Walk-in
+INV-00131,2026-07-09,2026,July,7,Thursday,P017,Tomato 1kg,Vegetables,1,42.77,0,42.77,UPI,Walk-in
+INV-00132,2026-07-09,2026,July,7,Thursday,P002,Wheat Flour 5kg,Grains,2,265.69,0,531.38,Cash,Walk-in
+INV-00133,2026-07-09,2026,July,7,Thursday,P005,Sugar 1kg,Essentials,1,48.66,0,48.66,Debit/Credit Card,Walk-in
+INV-00134,2026-07-09,2026,July,7,Thursday,P004,Moong Dal 1kg,Pulses,3,149.65,0,448.95,Debit/Credit Card,Regular
+INV-00135,2026-07-09,2026,July,7,Thursday,P017,Tomato 1kg,Vegetables,1,40.73,0,40.73,Cash,Walk-in
+INV-00136,2026-07-09,2026,July,7,Thursday,P030,Eggs 6 Pack,Dairy & Eggs,2,46.84,0,93.68,Cash,Walk-in
+INV-00137,2026-07-09,2026,July,7,Thursday,P001,Rice 5kg,Grains,1,336.2,0,336.2,Cash,Regular
+INV-00138,2026-07-09,2026,July,7,Thursday,P007,Sunflower Oil 1L,Oil & Ghee,2,153.69,0,307.38,Cash,Walk-in
+INV-00139,2026-07-09,2026,July,7,Thursday,P023,Dishwash Liquid,Home Care,2,82.39,2,161.48,Debit/Credit Card,Walk-in
+INV-00140,2026-07-09,2026,July,7,Thursday,P026,Chilli Powder 200g,Spices,1,56.91,10,51.22,UPI,Regular
+INV-00141,2026-07-09,2026,July,7,Thursday,P017,Tomato 1kg,Vegetables,1,42.99,0,42.99,UPI,Walk-in
+INV-00142,2026-07-09,2026,July,7,Thursday,P004,Moong Dal 1kg,Pulses,3,142.86,10,385.72,Debit/Credit Card,Walk-in
+INV-00143,2026-07-09,2026,July,7,Thursday,P021,Shampoo 180ml,Personal Care,2,127.05,0,254.1,UPI,Walk-in
+INV-00144,2026-07-09,2026,July,7,Thursday,P017,Tomato 1kg,Vegetables,3,42.04,0,126.12,Cash,Walk-in
+INV-00145,2026-07-09,2026,July,7,Thursday,P001,Rice 5kg,Grains,2,313.66,0,627.32,UPI,Walk-in
+INV-00146,2026-07-09,2026,July,7,Thursday,P003,Toor Dal 1kg,Pulses,8,159.23,0,1273.84,UPI,Walk-in
+INV-00147,2026-07-09,2026,July,7,Thursday,P003,Toor Dal 1kg,Pulses,1,171.96,0,171.96,Cash,Regular
+INV-00148,2026-07-09,2026,July,7,Thursday,P016,Onion 1kg,Vegetables,1,40.12,0,40.12,Cash,Walk-in
+INV-00149,2026-07-09,2026,July,7,Thursday,P018,Apples 1kg,Fruits,1,156.41,0,156.41,UPI,Regular
+INV-00150,2026-07-09,2026,July,7,Thursday,P005,Sugar 1kg,Essentials,5,47.22,0,236.1,UPI,Walk-in
+INV-00151,2026-07-09,2026,July,7,Thursday,P018,Apples 1kg,Fruits,8,155.41,0,1243.28,Cash,Walk-in
+INV-00152,2026-07-09,2026,July,7,Thursday,P001,Rice 5kg,Grains,2,314.27,2,615.97,Cash,Walk-in
+INV-00153,2026-07-09,2026,July,7,Thursday,P013,Bread,Bakery,1,40.76,2,39.94,Cash,Walk-in
+INV-00154,2026-07-09,2026,July,7,Thursday,P016,Onion 1kg,Vegetables,2,37.84,0,75.68,UPI,Walk-in
+INV-00155,2026-07-09,2026,July,7,Thursday,P028,Peanuts 500g,Snacks,1,77.47,0,77.47,Cash,Walk-in
+INV-00156,2026-07-10,2026,July,7,Friday,P006,Salt 1kg,Essentials,1,22.91,0,22.91,Cash,Walk-in
+INV-00157,2026-07-10,2026,July,7,Friday,P016,Onion 1kg,Vegetables,5,38.26,0,191.3,UPI,Regular
+INV-00158,2026-07-10,2026,July,7,Friday,P001,Rice 5kg,Grains,1,338.73,0,338.73,UPI,Walk-in
+INV-00159,2026-07-10,2026,July,7,Friday,P021,Shampoo 180ml,Personal Care,6,128.77,0,772.62,UPI,Regular
+INV-00160,2026-07-10,2026,July,7,Friday,P017,Tomato 1kg,Vegetables,5,42.77,0,213.85,UPI,Walk-in
+INV-00161,2026-07-10,2026,July,7,Friday,P026,Chilli Powder 200g,Spices,3,58.42,2,171.75,UPI,Walk-in
+INV-00162,2026-07-10,2026,July,7,Friday,P009,Coffee 100g,Beverages,2,111.16,10,200.09,Cash,Walk-in
+INV-00163,2026-07-10,2026,July,7,Friday,P001,Rice 5kg,Grains,5,338.27,0,1691.35,UPI,Walk-in
+INV-00164,2026-07-10,2026,July,7,Friday,P009,Coffee 100g,Beverages,6,111.32,0,667.92,Cash,Walk-in
+INV-00165,2026-07-10,2026,July,7,Friday,P004,Moong Dal 1kg,Pulses,8,149.16,0,1193.28,Cash,Walk-in
+INV-00166,2026-07-10,2026,July,7,Friday,P015,Potato 1kg,Vegetables,2,31.55,0,63.1,UPI,Walk-in
+INV-00167,2026-07-10,2026,July,7,Friday,P023,Dishwash Liquid,Home Care,2,83.39,2,163.44,Cash,Walk-in
+INV-00168,2026-07-10,2026,July,7,Friday,P016,Onion 1kg,Vegetables,5,39.88,0,199.4,UPI,Regular
+INV-00169,2026-07-10,2026,July,7,Friday,P023,Dishwash Liquid,Home Care,5,82.58,2,404.64,UPI,Walk-in
+INV-00170,2026-07-10,2026,July,7,Friday,P022,Detergent 1kg,Home Care,2,101.84,10,183.31,Cash,Walk-in
+INV-00171,2026-07-10,2026,July,7,Friday,P028,Peanuts 500g,Snacks,1,76.61,0,76.61,UPI,Walk-in
+INV-00172,2026-07-10,2026,July,7,Friday,P029,Cold Drink 750ml,Beverages,1,47.62,0,47.62,Cash,Walk-in
+INV-00173,2026-07-11,2026,July,7,Saturday,P002,Wheat Flour 5kg,Grains,1,268.06,0,268.06,UPI,Regular
+INV-00174,2026-07-11,2026,July,7,Saturday,P015,Potato 1kg,Vegetables,1,33.14,0,33.14,Cash,Regular
+INV-00175,2026-07-11,2026,July,7,Saturday,P012,Butter 100g,Dairy,10,55.83,2,547.13,Cash,Regular
+INV-00176,2026-07-11,2026,July,7,Saturday,P011,Curd 500g,Dairy,2,37.76,0,75.52,UPI,Walk-in
+INV-00177,2026-07-11,2026,July,7,Saturday,P026,Chilli Powder 200g,Spices,10,59.71,0,597.1,Cash,Regular
+INV-00178,2026-07-11,2026,July,7,Saturday,P020,Bath Soap,Personal Care,3,38.8,10,104.76,UPI,Walk-in
+INV-00179,2026-07-11,2026,July,7,Saturday,P024,Toothpaste,Personal Care,8,71.38,0,571.04,UPI,Walk-in
+INV-00180,2026-07-11,2026,July,7,Saturday,P008,Tea 250g,Beverages,6,122.31,0,733.86,Cash,Regular
+INV-00181,2026-07-11,2026,July,7,Saturday,P026,Chilli Powder 200g,Spices,2,60.77,0,121.54,Cash,Walk-in
+INV-00182,2026-07-11,2026,July,7,Saturday,P025,Instant Noodles,Packaged Food,3,15.13,0,45.39,UPI,Walk-in
+INV-00183,2026-07-11,2026,July,7,Saturday,P015,Potato 1kg,Vegetables,3,32.63,0,97.89,Cash,Walk-in
+INV-00184,2026-07-11,2026,July,7,Saturday,P004,Moong Dal 1kg,Pulses,2,150.01,2,294.02,UPI,Walk-in
+INV-00185,2026-07-11,2026,July,7,Saturday,P022,Detergent 1kg,Home Care,1,102.57,0,102.57,UPI,Regular
+INV-00186,2026-07-11,2026,July,7,Saturday,P005,Sugar 1kg,Essentials,2,48.55,0,97.1,UPI,Regular
+INV-00187,2026-07-11,2026,July,7,Saturday,P005,Sugar 1kg,Essentials,1,47.53,0,47.53,Cash,Walk-in
+INV-00188,2026-07-11,2026,July,7,Saturday,P014,Biscuits Pack,Snacks,3,31.17,5,88.83,Debit/Credit Card,Walk-in
+INV-00189,2026-07-11,2026,July,7,Saturday,P008,Tea 250g,Beverages,2,130.41,5,247.78,Debit/Credit Card,Walk-in
+INV-00190,2026-07-11,2026,July,7,Saturday,P016,Onion 1kg,Vegetables,2,37.07,5,70.43,UPI,Regular
+INV-00191,2026-07-11,2026,July,7,Saturday,P013,Bread,Bakery,1,41.34,0,41.34,Debit/Credit Card,Walk-in
+INV-00192,2026-07-11,2026,July,7,Saturday,P012,Butter 100g,Dairy,2,60.74,0,121.48,Cash,Walk-in
+INV-00193,2026-07-11,2026,July,7,Saturday,P017,Tomato 1kg,Vegetables,2,43.24,0,86.48,Debit/Credit Card,Walk-in
+INV-00194,2026-07-11,2026,July,7,Saturday,P019,Banana Dozen,Fruits,1,60.55,0,60.55,Cash,Walk-in
+INV-00195,2026-07-11,2026,July,7,Saturday,P016,Onion 1kg,Vegetables,1,39.68,10,35.71,UPI,Regular
+INV-00196,2026-07-11,2026,July,7,Saturday,P015,Potato 1kg,Vegetables,5,33.11,0,165.55,Cash,Regular
+INV-00197,2026-07-11,2026,July,7,Saturday,P012,Butter 100g,Dairy,4,57.78,0,231.12,UPI,Walk-in
+INV-00198,2026-07-12,2026,July,7,Sunday,P002,Wheat Flour 5kg,Grains,2,265.61,2,520.6,Debit/Credit Card,Regular
+INV-00199,2026-07-12,2026,July,7,Sunday,P029,Cold Drink 750ml,Beverages,2,45.83,0,91.66,UPI,Walk-in
+INV-00200,2026-07-12,2026,July,7,Sunday,P025,Instant Noodles,Packaged Food,1,15.42,0,15.42,Cash,Walk-in
+INV-00201,2026-07-12,2026,July,7,Sunday,P014,Biscuits Pack,Snacks,1,29.22,0,29.22,Cash,Walk-in
+INV-00202,2026-07-12,2026,July,7,Sunday,P003,Toor Dal 1kg,Pulses,8,164.42,0,1315.36,UPI,Walk-in
+INV-00203,2026-07-12,2026,July,7,Sunday,P023,Dishwash Liquid,Home Care,1,88.18,0,88.18,UPI,Walk-in
+INV-00204,2026-07-12,2026,July,7,Sunday,P013,Bread,Bakery,1,39.54,0,39.54,Cash,Walk-in
+INV-00205,2026-07-12,2026,July,7,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,4,142.27,0,569.08,UPI,Regular
+INV-00206,2026-07-12,2026,July,7,Sunday,P002,Wheat Flour 5kg,Grains,1,262.71,0,262.71,UPI,Walk-in
+INV-00207,2026-07-12,2026,July,7,Sunday,P017,Tomato 1kg,Vegetables,5,42.28,0,211.4,Cash,Regular
+INV-00208,2026-07-12,2026,July,7,Sunday,P025,Instant Noodles,Packaged Food,4,14.92,0,59.68,Cash,Regular
+INV-00209,2026-07-12,2026,July,7,Sunday,P030,Eggs 6 Pack,Dairy & Eggs,3,49.27,0,147.81,Debit/Credit Card,Walk-in
+INV-00210,2026-07-12,2026,July,7,Sunday,P012,Butter 100g,Dairy,1,58.53,0,58.53,Debit/Credit Card,Walk-in
+INV-00211,2026-07-12,2026,July,7,Sunday,P015,Potato 1kg,Vegetables,2,31.05,5,59.0,UPI,Walk-in
+INV-00212,2026-07-12,2026,July,7,Sunday,P009,Coffee 100g,Beverages,2,113.94,0,227.88,UPI,Regular
+INV-00213,2026-07-12,2026,July,7,Sunday,P003,Toor Dal 1kg,Pulses,4,165.44,0,661.76,UPI,Regular
+INV-00214,2026-07-12,2026,July,7,Sunday,P028,Peanuts 500g,Snacks,2,74.17,0,148.34,UPI,Walk-in
+INV-00215,2026-07-12,2026,July,7,Sunday,P008,Tea 250g,Beverages,1,127.96,0,127.96,UPI,Walk-in
+INV-00216,2026-07-12,2026,July,7,Sunday,P022,Detergent 1kg,Home Care,8,106.88,0,855.04,Cash,Regular
+INV-00217,2026-07-13,2026,July,7,Monday,P020,Bath Soap,Personal Care,3,37.14,0,111.42,Cash,Regular
+INV-00218,2026-07-13,2026,July,7,Monday,P028,Peanuts 500g,Snacks,2,75.85,10,136.53,UPI,Regular
+INV-00219,2026-07-13,2026,July,7,Monday,P009,Coffee 100g,Beverages,3,110.11,0,330.33,UPI,Regular
+INV-00220,2026-07-13,2026,July,7,Monday,P030,Eggs 6 Pack,Dairy & Eggs,2,47.72,2,93.53,UPI,Walk-in
+INV-00221,2026-07-13,2026,July,7,Monday,P014,Biscuits Pack,Snacks,3,30.25,10,81.68,Cash,Walk-in
+INV-00222,2026-07-13,2026,July,7,Monday,P019,Banana Dozen,Fruits,1,59.78,0,59.78,Cash,Walk-in
+INV-00223,2026-07-13,2026,July,7,Monday,P010,Milk 1L,Dairy,1,64.84,0,64.84,Cash,Regular
+INV-00224,2026-07-13,2026,July,7,Monday,P024,Toothpaste,Personal Care,1,69.55,0,69.55,UPI,Walk-in
+INV-00225,2026-07-13,2026,July,7,Monday,P020,Bath Soap,Personal Care,1,38.19,0,38.19,Cash,Walk-in
+INV-00226,2026-07-13,2026,July,7,Monday,P030,Eggs 6 Pack,Dairy & Eggs,5,49.14,0,245.7,UPI,Walk-in
+INV-00227,2026-07-13,2026,July,7,Monday,P015,Potato 1kg,Vegetables,5,33.5,2,164.15,UPI,Walk-in
+INV-00228,2026-07-13,2026,July,7,Monday,P028,Peanuts 500g,Snacks,1,72.66,0,72.66,Cash,Walk-in
+INV-00229,2026-07-13,2026,July,7,Monday,P005,Sugar 1kg,Essentials,1,48.35,5,45.93,UPI,Walk-in
+INV-00230,2026-07-13,2026,July,7,Monday,P009,Coffee 100g,Beverages,2,106.99,2,209.7,Cash,Walk-in
+INV-00231,2026-07-13,2026,July,7,Monday,P004,Moong Dal 1kg,Pulses,5,152.14,0,760.7,Cash,Walk-in
+INV-00232,2026-07-13,2026,July,7,Monday,P006,Salt 1kg,Essentials,1,21.52,0,21.52,Cash,Walk-in
+INV-00233,2026-07-13,2026,July,7,Monday,P024,Toothpaste,Personal Care,1,67.39,0,67.39,Cash,Walk-in
+INV-00234,2026-07-13,2026,July,7,Monday,P006,Salt 1kg,Essentials,4,22.32,0,89.28,Debit/Credit Card,Walk-in
+INV-00235,2026-07-13,2026,July,7,Monday,P002,Wheat Flour 5kg,Grains,8,257.96,0,2063.68,UPI,Walk-in
+INV-00236,2026-07-13,2026,July,7,Monday,P001,Rice 5kg,Grains,5,334.19,0,1670.95,Cash,Walk-in
+INV-00237,2026-07-13,2026,July,7,Monday,P008,Tea 250g,Beverages,2,121.19,0,242.38,UPI,Regular
+INV-00238,2026-07-14,2026,July,7,Tuesday,P006,Salt 1kg,Essentials,1,21.77,0,21.77,UPI,Walk-in
+INV-00239,2026-07-14,2026,July,7,Tuesday,P008,Tea 250g,Beverages,3,132.38,5,377.28,Debit/Credit Card,Walk-in
+INV-00240,2026-07-14,2026,July,7,Tuesday,P020,Bath Soap,Personal Care,2,37.04,0,74.08,UPI,Walk-in
+INV-00241,2026-07-14,2026,July,7,Tuesday,P018,Apples 1kg,Fruits,10,148.27,0,1482.7,UPI,Walk-in
+INV-00242,2026-07-14,2026,July,7,Tuesday,P020,Bath Soap,Personal Care,5,39.04,0,195.2,Debit/Credit Card,Regular
+INV-00243,2026-07-14,2026,July,7,Tuesday,P018,Apples 1kg,Fruits,1,154.9,0,154.9,Debit/Credit Card,Regular
+INV-00244,2026-07-14,2026,July,7,Tuesday,P011,Curd 500g,Dairy,1,38.02,0,38.02,Cash,Walk-in
+INV-00245,2026-07-14,2026,July,7,Tuesday,P015,Potato 1kg,Vegetables,2,32.54,5,61.83,Cash,Walk-in
+INV-00246,2026-07-14,2026,July,7,Tuesday,P010,Milk 1L,Dairy,2,65.66,0,131.32,UPI,Regular
+INV-00247,2026-07-14,2026,July,7,Tuesday,P026,Chilli Powder 200g,Spices,6,59.67,0,358.02,UPI,Walk-in
+INV-00248,2026-07-14,2026,July,7,Tuesday,P028,Peanuts 500g,Snacks,10,75.1,0,751.0,Debit/Credit Card,Walk-in
+INV-00249,2026-07-14,2026,July,7,Tuesday,P010,Milk 1L,Dairy,2,63.21,10,113.78,Cash,Walk-in
+INV-00250,2026-07-14,2026,July,7,Tuesday,P007,Sunflower Oil 1L,Oil & Ghee,2,144.48,10,260.06,Debit/Credit Card,Regular
+INV-00251,2026-07-14,2026,July,7,Tuesday,P010,Milk 1L,Dairy,4,63.03,0,252.12,Cash,Regular
+INV-00252,2026-07-14,2026,July,7,Tuesday,P026,Chilli Powder 200g,Spices,2,59.85,0,119.7,UPI,Walk-in
+INV-00253,2026-07-14,2026,July,7,Tuesday,P024,Toothpaste,Personal Care,5,68.36,2,334.96,UPI,Regular
+INV-00254,2026-07-14,2026,July,7,Tuesday,P014,Biscuits Pack,Snacks,2,31.09,0,62.18,Cash,Regular
+INV-00255,2026-07-14,2026,July,7,Tuesday,P005,Sugar 1kg,Essentials,3,46.58,0,139.74,Cash,Regular
+INV-00256,2026-07-15,2026,July,7,Wednesday,P017,Tomato 1kg,Vegetables,2,43.4,10,78.12,Debit/Credit Card,Regular
+INV-00257,2026-07-15,2026,July,7,Wednesday,P003,Toor Dal 1kg,Pulses,3,162.4,5,462.84,UPI,Regular
+INV-00258,2026-07-15,2026,July,7,Wednesday,P011,Curd 500g,Dairy,4,37.35,2,146.41,Cash,Regular
+INV-00259,2026-07-15,2026,July,7,Wednesday,P017,Tomato 1kg,Vegetables,3,42.2,0,126.6,UPI,Walk-in
+INV-00260,2026-07-15,2026,July,7,Wednesday,P018,Apples 1kg,Fruits,6,152.02,5,866.51,Cash,Walk-in
+INV-00261,2026-07-15,2026,July,7,Wednesday,P026,Chilli Powder 200g,Spices,6,57.69,0,346.14,UPI,Walk-in
+INV-00262,2026-07-15,2026,July,7,Wednesday,P030,Eggs 6 Pack,Dairy & Eggs,3,48.86,0,146.58,UPI,Regular
+INV-00263,2026-07-15,2026,July,7,Wednesday,P021,Shampoo 180ml,Personal Care,1,120.84,0,120.84,Cash,Regular
+INV-00264,2026-07-15,2026,July,7,Wednesday,P013,Bread,Bakery,1,40.43,5,38.41,UPI,Regular
+INV-00265,2026-07-15,2026,July,7,Wednesday,P017,Tomato 1kg,Vegetables,4,40.5,0,162.0,Cash,Walk-in
+INV-00266,2026-07-15,2026,July,7,Wednesday,P010,Milk 1L,Dairy,5,61.13,0,305.65,Debit/Credit Card,Walk-in
+INV-00267,2026-07-15,2026,July,7,Wednesday,P016,Onion 1kg,Vegetables,2,37.25,0,74.5,UPI,Regular
+INV-00268,2026-07-15,2026,July,7,Wednesday,P020,Bath Soap,Personal Care,1,38.77,2,37.99,UPI,Walk-in
+INV-00269,2026-07-15,2026,July,7,Wednesday,P018,Apples 1kg,Fruits,2,158.97,0,317.94,UPI,Regular
+INV-00270,2026-07-16,2026,July,7,Thursday,P006,Salt 1kg,Essentials,4,21.79,0,87.16,Debit/Credit Card,Regular
+INV-00271,2026-07-16,2026,July,7,Thursday,P021,Shampoo 180ml,Personal Care,2,124.72,0,249.44,Cash,Regular
+INV-00272,2026-07-16,2026,July,7,Thursday,P026,Chilli Powder 200g,Spices,2,59.0,0,118.0,Cash,Walk-in
+INV-00273,2026-07-16,2026,July,7,Thursday,P015,Potato 1kg,Vegetables,2,32.67,0,65.34,Cash,Walk-in
+INV-00274,2026-07-16,2026,July,7,Thursday,P029,Cold Drink 750ml,Beverages,3,45.47,10,122.77,Cash,Regular
+INV-00275,2026-07-16,2026,July,7,Thursday,P010,Milk 1L,Dairy,1,62.47,0,62.47,UPI,Walk-in
+INV-00276,2026-07-16,2026,July,7,Thursday,P010,Milk 1L,Dairy,3,62.06,0,186.18,Debit/Credit Card,Walk-in
+INV-00277,2026-07-16,2026,July,7,Thursday,P001,Rice 5kg,Grains,2,338.15,0,676.3,Debit/Credit Card,Walk-in
+INV-00278,2026-07-16,2026,July,7,Thursday,P021,Shampoo 180ml,Personal Care,5,128.39,0,641.95,Debit/Credit Card,Walk-in
+INV-00279,2026-07-16,2026,July,7,Thursday,P021,Shampoo 180ml,Personal Care,5,127.96,0,639.8,UPI,Walk-in
+INV-00280,2026-07-16,2026,July,7,Thursday,P016,Onion 1kg,Vegetables,4,37.53,2,147.12,UPI,Walk-in
+INV-00281,2026-07-16,2026,July,7,Thursday,P030,Eggs 6 Pack,Dairy & Eggs,1,49.66,0,49.66,Cash,Walk-in
+INV-00282,2026-07-16,2026,July,7,Thursday,P006,Salt 1kg,Essentials,2,22.76,0,45.52,Cash,Regular
+INV-00283,2026-07-17,2026,July,7,Friday,P015,Potato 1kg,Vegetables,1,31.71,0,31.71,UPI,Regular
+INV-00284,2026-07-17,2026,July,7,Friday,P030,Eggs 6 Pack,Dairy & Eggs,10,48.0,0,480.0,UPI,Regular
+INV-00285,2026-07-17,2026,July,7,Friday,P004,Moong Dal 1kg,Pulses,2,152.2,0,304.4,UPI,Regular
+INV-00286,2026-07-17,2026,July,7,Friday,P006,Salt 1kg,Essentials,1,21.76,10,19.58,Cash,Walk-in
+INV-00287,2026-07-17,2026,July,7,Friday,P010,Milk 1L,Dairy,2,60.59,5,115.12,Cash,Walk-in
+INV-00288,2026-07-17,2026,July,7,Friday,P021,Shampoo 180ml,Personal Care,1,124.21,0,124.21,Cash,Regular
+INV-00289,2026-07-17,2026,July,7,Friday,P014,Biscuits Pack,Snacks,4,31.37,0,125.48,Cash,Walk-in
+INV-00290,2026-07-17,2026,July,7,Friday,P001,Rice 5kg,Grains,3,326.05,0,978.15,UPI,Regular
+INV-00291,2026-07-17,2026,July,7,Friday,P011,Curd 500g,Dairy,1,37.14,2,36.4,UPI,Walk-in
+INV-00292,2026-07-17,2026,July,7,Friday,P016,Onion 1kg,Vegetables,1,40.24,0,40.24,UPI,Walk-in
+INV-00293,2026-07-17,2026,July,7,Friday,P017,Tomato 1kg,Vegetables,5,44.3,0,221.5,UPI,Regular
+INV-00294,2026-07-17,2026,July,7,Friday,P010,Milk 1L,Dairy,4,62.88,0,251.52,UPI,Walk-in
+INV-00295,2026-07-17,2026,July,7,Friday,P001,Rice 5kg,Grains,3,338.04,0,1014.12,Cash,Walk-in
+INV-00296,2026-07-17,2026,July,7,Friday,P028,Peanuts 500g,Snacks,2,76.85,0,153.7,Cash,Walk-in
+INV-00297,2026-07-17,2026,July,7,Friday,P025,Instant Noodles,Packaged Food,4,15.81,0,63.24,UPI,Walk-in
+INV-00298,2026-07-17,2026,July,7,Friday,P004,Moong Dal 1kg,Pulses,1,145.98,2,143.06,UPI,Walk-in
+INV-00299,2026-07-17,2026,July,7,Friday,P019,Banana Dozen,Fruits,5,60.78,0,303.9,Cash,Walk-in
+INV-00300,2026-07-17,2026,July,7,Friday,P015,Potato 1kg,Vegetables,5,33.91,0,169.55,Cash,Regular
+INV-00301,2026-07-18,2026,July,7,Saturday,P015,Potato 1kg,Vegetables,1,31.95,10,28.76,UPI,Walk-in
+INV-00302,2026-07-18,2026,July,7,Saturday,P026,Chilli Powder 200g,Spices,1,59.65,0,59.65,UPI,Walk-in
+INV-00303,2026-07-18,2026,July,7,Saturday,P017,Tomato 1kg,Vegetables,1,41.66,0,41.66,UPI,Walk-in
+INV-00304,2026-07-18,2026,July,7,Saturday,P028,Peanuts 500g,Snacks,1,72.49,0,72.49,Cash,Walk-in
+INV-00305,2026-07-18,2026,July,7,Saturday,P010,Milk 1L,Dairy,1,62.81,0,62.81,Cash,Walk-in
+INV-00306,2026-07-18,2026,July,7,Saturday,P022,Detergent 1kg,Home Care,1,102.34,0,102.34,Cash,Walk-in
+INV-00307,2026-07-18,2026,July,7,Saturday,P023,Dishwash Liquid,Home Care,5,84.32,0,421.6,Debit/Credit Card,Walk-in
+INV-00308,2026-07-18,2026,July,7,Saturday,P030,Eggs 6 Pack,Dairy & Eggs,5,49.0,0,245.0,UPI,Regular
+INV-00309,2026-07-18,2026,July,7,Saturday,P007,Sunflower Oil 1L,Oil & Ghee,4,146.98,0,587.92,Cash,Walk-in
+INV-00310,2026-07-18,2026,July,7,Saturday,P020,Bath Soap,Personal Care,2,37.85,5,71.92,UPI,Regular
+INV-00311,2026-07-18,2026,July,7,Saturday,P011,Curd 500g,Dairy,1,38.4,10,34.56,UPI,Walk-in
+INV-00312,2026-07-18,2026,July,7,Saturday,P015,Potato 1kg,Vegetables,3,33.58,0,100.74,UPI,Walk-in
+INV-00313,2026-07-18,2026,July,7,Saturday,P001,Rice 5kg,Grains,2,314.15,0,628.3,Cash,Walk-in
+INV-00314,2026-07-18,2026,July,7,Saturday,P003,Toor Dal 1kg,Pulses,1,170.9,0,170.9,Cash,Regular
+INV-00315,2026-07-19,2026,July,7,Sunday,P011,Curd 500g,Dairy,5,38.19,0,190.95,UPI,Regular
+INV-00316,2026-07-19,2026,July,7,Sunday,P011,Curd 500g,Dairy,1,37.25,2,36.51,UPI,Walk-in
+INV-00317,2026-07-19,2026,July,7,Sunday,P017,Tomato 1kg,Vegetables,3,41.38,0,124.14,Cash,Walk-in
+INV-00318,2026-07-19,2026,July,7,Sunday,P010,Milk 1L,Dairy,1,65.03,0,65.03,UPI,Regular
+INV-00319,2026-07-19,2026,July,7,Sunday,P011,Curd 500g,Dairy,1,38.77,0,38.77,UPI,Walk-in
+INV-00320,2026-07-19,2026,July,7,Sunday,P018,Apples 1kg,Fruits,5,150.67,0,753.35,Debit/Credit Card,Walk-in
+INV-00321,2026-07-19,2026,July,7,Sunday,P003,Toor Dal 1kg,Pulses,8,158.55,0,1268.4,UPI,Walk-in
+INV-00322,2026-07-19,2026,July,7,Sunday,P005,Sugar 1kg,Essentials,2,47.3,5,89.87,Cash,Walk-in
+INV-00323,2026-07-19,2026,July,7,Sunday,P016,Onion 1kg,Vegetables,3,39.96,0,119.88,UPI,Walk-in
+INV-00324,2026-07-19,2026,July,7,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,5,140.2,0,701.0,Cash,Walk-in
+INV-00325,2026-07-19,2026,July,7,Sunday,P005,Sugar 1kg,Essentials,5,49.52,0,247.6,UPI,Walk-in
+INV-00326,2026-07-19,2026,July,7,Sunday,P017,Tomato 1kg,Vegetables,2,41.7,0,83.4,Cash,Regular
+INV-00327,2026-07-19,2026,July,7,Sunday,P016,Onion 1kg,Vegetables,1,38.11,0,38.11,Cash,Walk-in
+INV-00328,2026-07-19,2026,July,7,Sunday,P010,Milk 1L,Dairy,3,62.81,0,188.43,Cash,Walk-in
+INV-00329,2026-07-19,2026,July,7,Sunday,P016,Onion 1kg,Vegetables,1,36.92,0,36.92,UPI,Regular
+INV-00330,2026-07-19,2026,July,7,Sunday,P021,Shampoo 180ml,Personal Care,2,131.56,0,263.12,Cash,Walk-in
+INV-00331,2026-07-19,2026,July,7,Sunday,P016,Onion 1kg,Vegetables,4,36.72,5,139.54,Debit/Credit Card,Walk-in
+INV-00332,2026-07-19,2026,July,7,Sunday,P024,Toothpaste,Personal Care,1,70.97,0,70.97,UPI,Walk-in
+INV-00333,2026-07-19,2026,July,7,Sunday,P026,Chilli Powder 200g,Spices,1,58.57,0,58.57,Cash,Walk-in
+INV-00334,2026-07-19,2026,July,7,Sunday,P019,Banana Dozen,Fruits,4,59.6,0,238.4,UPI,Walk-in
+INV-00335,2026-07-19,2026,July,7,Sunday,P027,Turmeric Powder 200g,Spices,2,46.25,0,92.5,UPI,Regular
+INV-00336,2026-07-19,2026,July,7,Sunday,P013,Bread,Bakery,2,41.89,2,82.1,UPI,Walk-in
+INV-00337,2026-07-19,2026,July,7,Sunday,P028,Peanuts 500g,Snacks,2,77.12,0,154.24,UPI,Regular
+INV-00338,2026-07-19,2026,July,7,Sunday,P016,Onion 1kg,Vegetables,4,38.74,0,154.96,UPI,Walk-in
+INV-00339,2026-07-19,2026,July,7,Sunday,P004,Moong Dal 1kg,Pulses,5,140.91,0,704.55,UPI,Walk-in
+INV-00340,2026-07-19,2026,July,7,Sunday,P020,Bath Soap,Personal Care,1,37.53,0,37.53,UPI,Walk-in
+INV-00341,2026-07-20,2026,July,7,Monday,P029,Cold Drink 750ml,Beverages,6,45.64,0,273.84,Debit/Credit Card,Walk-in
+INV-00342,2026-07-20,2026,July,7,Monday,P021,Shampoo 180ml,Personal Care,1,120.15,0,120.15,Cash,Walk-in
+INV-00343,2026-07-20,2026,July,7,Monday,P029,Cold Drink 750ml,Beverages,4,46.86,0,187.44,UPI,Regular
+INV-00344,2026-07-20,2026,July,7,Monday,P002,Wheat Flour 5kg,Grains,4,271.18,0,1084.72,UPI,Walk-in
+INV-00345,2026-07-20,2026,July,7,Monday,P010,Milk 1L,Dairy,8,65.09,5,494.68,UPI,Regular
+INV-00346,2026-07-20,2026,July,7,Monday,P011,Curd 500g,Dairy,1,37.84,0,37.84,UPI,Walk-in
+INV-00347,2026-07-20,2026,July,7,Monday,P011,Curd 500g,Dairy,6,37.88,2,222.73,UPI,Walk-in
+INV-00348,2026-07-20,2026,July,7,Monday,P024,Toothpaste,Personal Care,5,69.45,0,347.25,Cash,Regular
+INV-00349,2026-07-20,2026,July,7,Monday,P029,Cold Drink 750ml,Beverages,1,44.21,0,44.21,Debit/Credit Card,Walk-in
+INV-00350,2026-07-20,2026,July,7,Monday,P014,Biscuits Pack,Snacks,1,30.19,0,30.19,UPI,Regular
+INV-00351,2026-07-20,2026,July,7,Monday,P001,Rice 5kg,Grains,8,321.85,0,2574.8,Debit/Credit Card,Walk-in
+INV-00352,2026-07-20,2026,July,7,Monday,P019,Banana Dozen,Fruits,3,59.27,0,177.81,Cash,Walk-in
+INV-00353,2026-07-20,2026,July,7,Monday,P027,Turmeric Powder 200g,Spices,1,46.65,10,41.98,Cash,Walk-in
+INV-00354,2026-07-21,2026,July,7,Tuesday,P021,Shampoo 180ml,Personal Care,2,131.9,0,263.8,Debit/Credit Card,Regular
+INV-00355,2026-07-21,2026,July,7,Tuesday,P011,Curd 500g,Dairy,1,39.32,2,38.53,UPI,Walk-in
+INV-00356,2026-07-21,2026,July,7,Tuesday,P026,Chilli Powder 200g,Spices,2,56.61,5,107.56,Cash,Walk-in
+INV-00357,2026-07-21,2026,July,7,Tuesday,P026,Chilli Powder 200g,Spices,5,59.23,10,266.53,Cash,Walk-in
+INV-00358,2026-07-21,2026,July,7,Tuesday,P027,Turmeric Powder 200g,Spices,1,50.64,0,50.64,Debit/Credit Card,Regular
+INV-00359,2026-07-21,2026,July,7,Tuesday,P006,Salt 1kg,Essentials,5,23.28,0,116.4,UPI,Regular
+INV-00360,2026-07-21,2026,July,7,Tuesday,P002,Wheat Flour 5kg,Grains,4,275.47,5,1046.79,UPI,Regular
+INV-00361,2026-07-21,2026,July,7,Tuesday,P011,Curd 500g,Dairy,1,39.32,0,39.32,UPI,Walk-in
+INV-00362,2026-07-21,2026,July,7,Tuesday,P028,Peanuts 500g,Snacks,2,77.15,0,154.3,UPI,Regular
+INV-00363,2026-07-21,2026,July,7,Tuesday,P020,Bath Soap,Personal Care,2,37.04,0,74.08,Cash,Walk-in
+INV-00364,2026-07-21,2026,July,7,Tuesday,P006,Salt 1kg,Essentials,2,21.38,0,42.76,Cash,Walk-in
+INV-00365,2026-07-21,2026,July,7,Tuesday,P030,Eggs 6 Pack,Dairy & Eggs,2,50.57,0,101.14,UPI,Regular
+INV-00366,2026-07-21,2026,July,7,Tuesday,P012,Butter 100g,Dairy,3,56.06,0,168.18,UPI,Regular
+INV-00367,2026-07-21,2026,July,7,Tuesday,P008,Tea 250g,Beverages,5,125.1,0,625.5,Cash,Walk-in
+INV-00368,2026-07-21,2026,July,7,Tuesday,P005,Sugar 1kg,Essentials,2,46.69,0,93.38,UPI,Walk-in
+INV-00369,2026-07-21,2026,July,7,Tuesday,P008,Tea 250g,Beverages,1,131.74,2,129.11,Debit/Credit Card,Regular
+INV-00370,2026-07-21,2026,July,7,Tuesday,P023,Dishwash Liquid,Home Care,2,84.9,10,152.82,Cash,Walk-in
+INV-00371,2026-07-21,2026,July,7,Tuesday,P003,Toor Dal 1kg,Pulses,4,164.78,0,659.12,Cash,Walk-in
+INV-00372,2026-07-21,2026,July,7,Tuesday,P018,Apples 1kg,Fruits,2,150.49,0,300.98,Cash,Regular
+INV-00373,2026-07-21,2026,July,7,Tuesday,P015,Potato 1kg,Vegetables,2,32.54,0,65.08,Debit/Credit Card,Walk-in
+INV-00374,2026-07-21,2026,July,7,Tuesday,P028,Peanuts 500g,Snacks,5,75.1,2,367.99,Debit/Credit Card,Walk-in
+INV-00375,2026-07-21,2026,July,7,Tuesday,P028,Peanuts 500g,Snacks,4,79.43,0,317.72,Cash,Walk-in
+INV-00376,2026-07-21,2026,July,7,Tuesday,P008,Tea 250g,Beverages,4,129.66,0,518.64,Cash,Walk-in
+INV-00377,2026-07-21,2026,July,7,Tuesday,P005,Sugar 1kg,Essentials,1,48.56,0,48.56,Cash,Walk-in
+INV-00378,2026-07-22,2026,July,7,Wednesday,P020,Bath Soap,Personal Care,1,36.74,0,36.74,Cash,Regular
+INV-00379,2026-07-22,2026,July,7,Wednesday,P016,Onion 1kg,Vegetables,1,38.33,5,36.41,UPI,Walk-in
+INV-00380,2026-07-22,2026,July,7,Wednesday,P001,Rice 5kg,Grains,1,321.27,0,321.27,Cash,Regular
+INV-00381,2026-07-22,2026,July,7,Wednesday,P025,Instant Noodles,Packaged Food,4,14.84,10,53.42,UPI,Walk-in
+INV-00382,2026-07-22,2026,July,7,Wednesday,P015,Potato 1kg,Vegetables,1,32.55,0,32.55,Cash,Walk-in
+INV-00383,2026-07-22,2026,July,7,Wednesday,P016,Onion 1kg,Vegetables,5,38.79,5,184.25,UPI,Walk-in
+INV-00384,2026-07-22,2026,July,7,Wednesday,P005,Sugar 1kg,Essentials,1,50.06,0,50.06,UPI,Walk-in
+INV-00385,2026-07-22,2026,July,7,Wednesday,P012,Butter 100g,Dairy,1,55.79,0,55.79,Debit/Credit Card,Regular
+INV-00386,2026-07-22,2026,July,7,Wednesday,P026,Chilli Powder 200g,Spices,2,59.71,2,117.03,UPI,Walk-in
+INV-00387,2026-07-22,2026,July,7,Wednesday,P001,Rice 5kg,Grains,2,335.66,0,671.32,Cash,Walk-in
+INV-00388,2026-07-22,2026,July,7,Wednesday,P018,Apples 1kg,Fruits,1,153.73,0,153.73,Debit/Credit Card,Walk-in
+INV-00389,2026-07-22,2026,July,7,Wednesday,P008,Tea 250g,Beverages,2,120.25,0,240.5,Cash,Walk-in
+INV-00390,2026-07-22,2026,July,7,Wednesday,P014,Biscuits Pack,Snacks,1,29.57,0,29.57,Cash,Walk-in
+INV-00391,2026-07-23,2026,July,7,Thursday,P021,Shampoo 180ml,Personal Care,4,120.84,0,483.36,UPI,Walk-in
+INV-00392,2026-07-23,2026,July,7,Thursday,P001,Rice 5kg,Grains,2,312.85,0,625.7,UPI,Regular
+INV-00393,2026-07-23,2026,July,7,Thursday,P028,Peanuts 500g,Snacks,5,78.39,0,391.95,UPI,Walk-in
+INV-00394,2026-07-23,2026,July,7,Thursday,P002,Wheat Flour 5kg,Grains,1,272.46,0,272.46,Cash,Regular
+INV-00395,2026-07-23,2026,July,7,Thursday,P022,Detergent 1kg,Home Care,1,101.4,0,101.4,UPI,Regular
+INV-00396,2026-07-23,2026,July,7,Thursday,P022,Detergent 1kg,Home Care,2,102.47,0,204.94,Cash,Walk-in
+INV-00397,2026-07-23,2026,July,7,Thursday,P028,Peanuts 500g,Snacks,2,79.15,0,158.3,UPI,Walk-in
+INV-00398,2026-07-23,2026,July,7,Thursday,P007,Sunflower Oil 1L,Oil & Ghee,2,146.95,0,293.9,UPI,Walk-in
+INV-00399,2026-07-23,2026,July,7,Thursday,P022,Detergent 1kg,Home Care,1,100.96,0,100.96,UPI,Regular
+INV-00400,2026-07-23,2026,July,7,Thursday,P013,Bread,Bakery,1,40.43,0,40.43,UPI,Walk-in
+INV-00401,2026-07-23,2026,July,7,Thursday,P021,Shampoo 180ml,Personal Care,2,132.45,0,264.9,Cash,Regular
+INV-00402,2026-07-23,2026,July,7,Thursday,P011,Curd 500g,Dairy,5,38.63,0,193.15,UPI,Regular
+INV-00403,2026-07-23,2026,July,7,Thursday,P017,Tomato 1kg,Vegetables,2,40.87,5,77.65,Cash,Walk-in
+INV-00404,2026-07-23,2026,July,7,Thursday,P019,Banana Dozen,Fruits,4,62.11,0,248.44,UPI,Regular
+INV-00405,2026-07-23,2026,July,7,Thursday,P029,Cold Drink 750ml,Beverages,3,45.89,0,137.67,UPI,Walk-in
+INV-00406,2026-07-23,2026,July,7,Thursday,P027,Turmeric Powder 200g,Spices,4,49.56,0,198.24,Cash,Walk-in
+INV-00407,2026-07-23,2026,July,7,Thursday,P005,Sugar 1kg,Essentials,2,47.44,0,94.88,UPI,Walk-in
+INV-00408,2026-07-23,2026,July,7,Thursday,P017,Tomato 1kg,Vegetables,4,41.23,5,156.67,Debit/Credit Card,Regular
+INV-00409,2026-07-24,2026,July,7,Friday,P025,Instant Noodles,Packaged Food,6,15.2,0,91.2,UPI,Walk-in
+INV-00410,2026-07-24,2026,July,7,Friday,P016,Onion 1kg,Vegetables,4,37.06,0,148.24,UPI,Walk-in
+INV-00411,2026-07-24,2026,July,7,Friday,P005,Sugar 1kg,Essentials,2,47.22,0,94.44,Cash,Walk-in
+INV-00412,2026-07-24,2026,July,7,Friday,P002,Wheat Flour 5kg,Grains,2,272.75,0,545.5,Cash,Walk-in
+INV-00413,2026-07-24,2026,July,7,Friday,P029,Cold Drink 750ml,Beverages,3,44.18,0,132.54,UPI,Regular
+INV-00414,2026-07-24,2026,July,7,Friday,P025,Instant Noodles,Packaged Food,4,14.47,0,57.88,Cash,Regular
+INV-00415,2026-07-24,2026,July,7,Friday,P015,Potato 1kg,Vegetables,2,33.65,5,63.93,UPI,Walk-in
+INV-00416,2026-07-24,2026,July,7,Friday,P016,Onion 1kg,Vegetables,3,39.42,2,115.89,UPI,Walk-in
+INV-00417,2026-07-24,2026,July,7,Friday,P006,Salt 1kg,Essentials,5,23.1,2,113.19,UPI,Regular
+INV-00418,2026-07-24,2026,July,7,Friday,P027,Turmeric Powder 200g,Spices,1,50.05,0,50.05,Cash,Walk-in
+INV-00419,2026-07-24,2026,July,7,Friday,P011,Curd 500g,Dairy,5,36.61,10,164.74,UPI,Walk-in
+INV-00420,2026-07-24,2026,July,7,Friday,P012,Butter 100g,Dairy,2,56.36,2,110.47,UPI,Walk-in
+INV-00421,2026-07-24,2026,July,7,Friday,P002,Wheat Flour 5kg,Grains,4,267.9,0,1071.6,Cash,Walk-in
+INV-00422,2026-07-25,2026,July,7,Saturday,P010,Milk 1L,Dairy,1,65.04,0,65.04,Debit/Credit Card,Regular
+INV-00423,2026-07-25,2026,July,7,Saturday,P002,Wheat Flour 5kg,Grains,2,260.17,5,494.32,Debit/Credit Card,Walk-in
+INV-00424,2026-07-25,2026,July,7,Saturday,P002,Wheat Flour 5kg,Grains,2,263.66,0,527.32,Cash,Walk-in
+INV-00425,2026-07-25,2026,July,7,Saturday,P022,Detergent 1kg,Home Care,1,107.82,0,107.82,UPI,Regular
+INV-00426,2026-07-25,2026,July,7,Saturday,P011,Curd 500g,Dairy,5,36.91,0,184.55,Debit/Credit Card,Walk-in
+INV-00427,2026-07-25,2026,July,7,Saturday,P018,Apples 1kg,Fruits,3,155.41,0,466.23,UPI,Walk-in
+INV-00428,2026-07-25,2026,July,7,Saturday,P026,Chilli Powder 200g,Spices,5,59.09,0,295.45,Cash,Walk-in
+INV-00429,2026-07-25,2026,July,7,Saturday,P016,Onion 1kg,Vegetables,4,38.25,0,153.0,UPI,Walk-in
+INV-00430,2026-07-25,2026,July,7,Saturday,P009,Coffee 100g,Beverages,1,113.14,0,113.14,Cash,Walk-in
+INV-00431,2026-07-25,2026,July,7,Saturday,P021,Shampoo 180ml,Personal Care,2,120.12,10,216.22,Cash,Walk-in
+INV-00432,2026-07-25,2026,July,7,Saturday,P017,Tomato 1kg,Vegetables,1,40.53,2,39.72,UPI,Walk-in
+INV-00433,2026-07-25,2026,July,7,Saturday,P023,Dishwash Liquid,Home Care,1,84.2,0,84.2,Cash,Walk-in
+INV-00434,2026-07-25,2026,July,7,Saturday,P026,Chilli Powder 200g,Spices,3,58.44,0,175.32,UPI,Walk-in
+INV-00435,2026-07-25,2026,July,7,Saturday,P012,Butter 100g,Dairy,3,56.13,0,168.39,Cash,Walk-in
+INV-00436,2026-07-25,2026,July,7,Saturday,P014,Biscuits Pack,Snacks,3,31.7,0,95.1,Cash,Walk-in
+INV-00437,2026-07-25,2026,July,7,Saturday,P028,Peanuts 500g,Snacks,1,72.27,10,65.04,UPI,Walk-in
+INV-00438,2026-07-25,2026,July,7,Saturday,P018,Apples 1kg,Fruits,4,156.35,0,625.4,UPI,Walk-in
+INV-00439,2026-07-25,2026,July,7,Saturday,P027,Turmeric Powder 200g,Spices,1,47.28,0,47.28,UPI,Regular
+INV-00440,2026-07-25,2026,July,7,Saturday,P003,Toor Dal 1kg,Pulses,2,172.97,5,328.64,Debit/Credit Card,Walk-in
+INV-00441,2026-07-25,2026,July,7,Saturday,P024,Toothpaste,Personal Care,1,65.42,5,62.15,UPI,Regular
+INV-00442,2026-07-25,2026,July,7,Saturday,P001,Rice 5kg,Grains,1,332.19,0,332.19,UPI,Walk-in
+INV-00443,2026-07-25,2026,July,7,Saturday,P021,Shampoo 180ml,Personal Care,3,122.6,0,367.8,UPI,Walk-in
+INV-00444,2026-07-25,2026,July,7,Saturday,P029,Cold Drink 750ml,Beverages,1,46.02,5,43.72,UPI,Walk-in
+INV-00445,2026-07-25,2026,July,7,Saturday,P016,Onion 1kg,Vegetables,5,38.79,0,193.95,Cash,Walk-in
+INV-00446,2026-07-25,2026,July,7,Saturday,P009,Coffee 100g,Beverages,8,113.54,0,908.32,Debit/Credit Card,Regular
+INV-00447,2026-07-25,2026,July,7,Saturday,P019,Banana Dozen,Fruits,5,59.02,5,280.35,Cash,Walk-in
+INV-00448,2026-07-25,2026,July,7,Saturday,P021,Shampoo 180ml,Personal Care,2,124.96,0,249.92,Cash,Regular
+INV-00449,2026-07-25,2026,July,7,Saturday,P011,Curd 500g,Dairy,2,38.4,0,76.8,UPI,Regular
+INV-00450,2026-07-25,2026,July,7,Saturday,P018,Apples 1kg,Fruits,2,149.61,2,293.24,Cash,Regular
+INV-00451,2026-07-25,2026,July,7,Saturday,P024,Toothpaste,Personal Care,1,66.84,2,65.5,UPI,Walk-in
+INV-00452,2026-07-26,2026,July,7,Sunday,P010,Milk 1L,Dairy,1,65.04,0,65.04,UPI,Regular
+INV-00453,2026-07-26,2026,July,7,Sunday,P017,Tomato 1kg,Vegetables,1,40.67,0,40.67,Cash,Walk-in
+INV-00454,2026-07-26,2026,July,7,Sunday,P020,Bath Soap,Personal Care,2,36.76,0,73.52,Debit/Credit Card,Regular
+INV-00455,2026-07-26,2026,July,7,Sunday,P005,Sugar 1kg,Essentials,4,48.45,0,193.8,Cash,Walk-in
+INV-00456,2026-07-26,2026,July,7,Sunday,P021,Shampoo 180ml,Personal Care,1,131.56,0,131.56,Debit/Credit Card,Regular
+INV-00457,2026-07-26,2026,July,7,Sunday,P002,Wheat Flour 5kg,Grains,4,273.33,0,1093.32,Cash,Walk-in
+INV-00458,2026-07-26,2026,July,7,Sunday,P008,Tea 250g,Beverages,1,126.99,0,126.99,Debit/Credit Card,Walk-in
+INV-00459,2026-07-26,2026,July,7,Sunday,P010,Milk 1L,Dairy,3,64.62,0,193.86,UPI,Walk-in
+INV-00460,2026-07-26,2026,July,7,Sunday,P023,Dishwash Liquid,Home Care,5,84.65,0,423.25,Debit/Credit Card,Walk-in
+INV-00461,2026-07-26,2026,July,7,Sunday,P026,Chilli Powder 200g,Spices,4,60.92,10,219.31,UPI,Regular
+INV-00462,2026-07-26,2026,July,7,Sunday,P011,Curd 500g,Dairy,1,36.84,10,33.16,Cash,Walk-in
+INV-00463,2026-07-26,2026,July,7,Sunday,P004,Moong Dal 1kg,Pulses,3,147.82,2,434.59,Debit/Credit Card,Walk-in
+INV-00464,2026-07-26,2026,July,7,Sunday,P021,Shampoo 180ml,Personal Care,2,122.4,0,244.8,Cash,Walk-in
+INV-00465,2026-07-26,2026,July,7,Sunday,P005,Sugar 1kg,Essentials,1,49.09,0,49.09,Cash,Walk-in
+INV-00466,2026-07-26,2026,July,7,Sunday,P010,Milk 1L,Dairy,1,64.03,0,64.03,Cash,Regular
+INV-00467,2026-07-26,2026,July,7,Sunday,P002,Wheat Flour 5kg,Grains,5,266.28,0,1331.4,UPI,Regular
+INV-00468,2026-07-26,2026,July,7,Sunday,P011,Curd 500g,Dairy,5,40.0,0,200.0,UPI,Regular
+INV-00469,2026-07-26,2026,July,7,Sunday,P030,Eggs 6 Pack,Dairy & Eggs,2,49.99,0,99.98,UPI,Walk-in
+INV-00470,2026-07-26,2026,July,7,Sunday,P011,Curd 500g,Dairy,1,36.69,5,34.86,Cash,Regular
+INV-00471,2026-07-26,2026,July,7,Sunday,P020,Bath Soap,Personal Care,1,36.68,0,36.68,UPI,Walk-in
+INV-00472,2026-07-26,2026,July,7,Sunday,P026,Chilli Powder 200g,Spices,3,60.77,0,182.31,Debit/Credit Card,Walk-in
+INV-00473,2026-07-26,2026,July,7,Sunday,P015,Potato 1kg,Vegetables,2,33.13,0,66.26,Cash,Walk-in
+INV-00474,2026-07-26,2026,July,7,Sunday,P010,Milk 1L,Dairy,1,65.05,0,65.05,Cash,Walk-in
+INV-00475,2026-07-26,2026,July,7,Sunday,P005,Sugar 1kg,Essentials,2,48.95,0,97.9,Cash,Walk-in
+INV-00476,2026-07-26,2026,July,7,Sunday,P003,Toor Dal 1kg,Pulses,2,174.18,0,348.36,Cash,Walk-in
+INV-00477,2026-07-26,2026,July,7,Sunday,P002,Wheat Flour 5kg,Grains,3,267.45,0,802.35,Cash,Walk-in
+INV-00478,2026-07-26,2026,July,7,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,3,150.43,0,451.29,Cash,Regular
+INV-00479,2026-07-26,2026,July,7,Sunday,P016,Onion 1kg,Vegetables,3,39.9,0,119.7,UPI,Walk-in
+INV-00480,2026-07-27,2026,July,7,Monday,P002,Wheat Flour 5kg,Grains,5,252.02,0,1260.1,Debit/Credit Card,Walk-in
+INV-00481,2026-07-27,2026,July,7,Monday,P029,Cold Drink 750ml,Beverages,5,46.02,0,230.1,UPI,Walk-in
+INV-00482,2026-07-27,2026,July,7,Monday,P002,Wheat Flour 5kg,Grains,8,271.6,10,1955.52,UPI,Regular
+INV-00483,2026-07-27,2026,July,7,Monday,P001,Rice 5kg,Grains,6,328.93,0,1973.58,Debit/Credit Card,Regular
+INV-00484,2026-07-27,2026,July,7,Monday,P027,Turmeric Powder 200g,Spices,2,50.42,10,90.76,UPI,Walk-in
+INV-00485,2026-07-27,2026,July,7,Monday,P020,Bath Soap,Personal Care,3,39.44,10,106.49,UPI,Walk-in
+INV-00486,2026-07-27,2026,July,7,Monday,P008,Tea 250g,Beverages,1,130.63,5,124.1,UPI,Walk-in
+INV-00487,2026-07-27,2026,July,7,Monday,P025,Instant Noodles,Packaged Food,1,15.18,5,14.42,Cash,Walk-in
+INV-00488,2026-07-27,2026,July,7,Monday,P010,Milk 1L,Dairy,1,59.99,0,59.99,UPI,Walk-in
+INV-00489,2026-07-27,2026,July,7,Monday,P013,Bread,Bakery,4,40.11,0,160.44,UPI,Walk-in
+INV-00490,2026-07-27,2026,July,7,Monday,P021,Shampoo 180ml,Personal Care,1,123.64,0,123.64,Debit/Credit Card,Walk-in
+INV-00491,2026-07-27,2026,July,7,Monday,P015,Potato 1kg,Vegetables,5,32.64,0,163.2,UPI,Walk-in
+INV-00492,2026-07-27,2026,July,7,Monday,P002,Wheat Flour 5kg,Grains,1,268.55,0,268.55,Debit/Credit Card,Walk-in
+INV-00493,2026-07-27,2026,July,7,Monday,P019,Banana Dozen,Fruits,5,60.09,0,300.45,UPI,Walk-in
+INV-00494,2026-07-27,2026,July,7,Monday,P003,Toor Dal 1kg,Pulses,1,159.23,0,159.23,UPI,Regular
+INV-00495,2026-07-27,2026,July,7,Monday,P020,Bath Soap,Personal Care,3,39.96,0,119.88,UPI,Walk-in
+INV-00496,2026-07-27,2026,July,7,Monday,P005,Sugar 1kg,Essentials,5,46.08,5,218.88,UPI,Walk-in
+INV-00497,2026-07-27,2026,July,7,Monday,P003,Toor Dal 1kg,Pulses,5,166.77,0,833.85,Cash,Walk-in
+INV-00498,2026-07-27,2026,July,7,Monday,P005,Sugar 1kg,Essentials,2,49.82,0,99.64,Debit/Credit Card,Regular
+INV-00499,2026-07-28,2026,July,7,Tuesday,P015,Potato 1kg,Vegetables,2,31.93,0,63.86,UPI,Walk-in
+INV-00500,2026-07-28,2026,July,7,Tuesday,P023,Dishwash Liquid,Home Care,1,82.58,2,80.93,Cash,Walk-in
+INV-00501,2026-07-28,2026,July,7,Tuesday,P027,Turmeric Powder 200g,Spices,2,50.78,0,101.56,Debit/Credit Card,Walk-in
+INV-00502,2026-07-28,2026,July,7,Tuesday,P030,Eggs 6 Pack,Dairy & Eggs,3,48.26,0,144.78,UPI,Walk-in
+INV-00503,2026-07-28,2026,July,7,Tuesday,P009,Coffee 100g,Beverages,2,109.94,2,215.48,Cash,Walk-in
+INV-00504,2026-07-28,2026,July,7,Tuesday,P022,Detergent 1kg,Home Care,1,103.78,0,103.78,Cash,Walk-in
+INV-00505,2026-07-28,2026,July,7,Tuesday,P011,Curd 500g,Dairy,5,36.57,0,182.85,Cash,Walk-in
+INV-00506,2026-07-28,2026,July,7,Tuesday,P030,Eggs 6 Pack,Dairy & Eggs,5,49.99,0,249.95,Debit/Credit Card,Walk-in
+INV-00507,2026-07-28,2026,July,7,Tuesday,P019,Banana Dozen,Fruits,1,62.11,5,59.0,UPI,Regular
+INV-00508,2026-07-28,2026,July,7,Tuesday,P021,Shampoo 180ml,Personal Care,2,130.12,5,247.23,UPI,Walk-in
+INV-00509,2026-07-28,2026,July,7,Tuesday,P026,Chilli Powder 200g,Spices,1,60.95,0,60.95,UPI,Walk-in
+INV-00510,2026-07-28,2026,July,7,Tuesday,P015,Potato 1kg,Vegetables,1,30.91,0,30.91,Cash,Walk-in
+INV-00511,2026-07-28,2026,July,7,Tuesday,P002,Wheat Flour 5kg,Grains,4,266.28,0,1065.12,Cash,Regular
+INV-00512,2026-07-28,2026,July,7,Tuesday,P010,Milk 1L,Dairy,1,61.89,0,61.89,UPI,Regular
+INV-00513,2026-07-29,2026,July,7,Wednesday,P029,Cold Drink 750ml,Beverages,2,43.24,0,86.48,Debit/Credit Card,Walk-in
+INV-00514,2026-07-29,2026,July,7,Wednesday,P022,Detergent 1kg,Home Care,4,110.81,0,443.24,Cash,Walk-in
+INV-00515,2026-07-29,2026,July,7,Wednesday,P029,Cold Drink 750ml,Beverages,1,43.89,0,43.89,UPI,Walk-in
+INV-00516,2026-07-29,2026,July,7,Wednesday,P005,Sugar 1kg,Essentials,2,47.3,0,94.6,UPI,Walk-in
+INV-00517,2026-07-29,2026,July,7,Wednesday,P002,Wheat Flour 5kg,Grains,1,268.55,0,268.55,Cash,Walk-in
+INV-00518,2026-07-29,2026,July,7,Wednesday,P016,Onion 1kg,Vegetables,3,37.49,5,106.85,Cash,Regular
+INV-00519,2026-07-29,2026,July,7,Wednesday,P006,Salt 1kg,Essentials,1,21.65,0,21.65,Cash,Walk-in
+INV-00520,2026-07-29,2026,July,7,Wednesday,P030,Eggs 6 Pack,Dairy & Eggs,10,49.15,0,491.5,UPI,Walk-in
+INV-00521,2026-07-29,2026,July,7,Wednesday,P016,Onion 1kg,Vegetables,5,36.7,0,183.5,UPI,Walk-in
+INV-00522,2026-07-29,2026,July,7,Wednesday,P020,Bath Soap,Personal Care,3,39.26,0,117.78,Debit/Credit Card,Regular
+INV-00523,2026-07-29,2026,July,7,Wednesday,P008,Tea 250g,Beverages,2,129.77,0,259.54,Cash,Walk-in
+INV-00524,2026-07-29,2026,July,7,Wednesday,P008,Tea 250g,Beverages,5,129.81,0,649.05,Cash,Walk-in
+INV-00525,2026-07-29,2026,July,7,Wednesday,P002,Wheat Flour 5kg,Grains,1,271.14,5,257.58,UPI,Regular
+INV-00526,2026-07-29,2026,July,7,Wednesday,P005,Sugar 1kg,Essentials,3,48.77,0,146.31,Cash,Regular
+INV-00527,2026-07-29,2026,July,7,Wednesday,P019,Banana Dozen,Fruits,1,62.26,0,62.26,Debit/Credit Card,Regular
+INV-00528,2026-07-29,2026,July,7,Wednesday,P014,Biscuits Pack,Snacks,3,30.11,5,85.81,UPI,Walk-in
+INV-00529,2026-07-29,2026,July,7,Wednesday,P008,Tea 250g,Beverages,6,128.93,5,734.9,Debit/Credit Card,Regular
+INV-00530,2026-07-29,2026,July,7,Wednesday,P008,Tea 250g,Beverages,3,130.38,0,391.14,UPI,Walk-in
+INV-00531,2026-07-29,2026,July,7,Wednesday,P030,Eggs 6 Pack,Dairy & Eggs,5,47.42,0,237.1,UPI,Walk-in
+INV-00532,2026-07-29,2026,July,7,Wednesday,P006,Salt 1kg,Essentials,2,23.21,5,44.1,UPI,Regular
+INV-00533,2026-07-29,2026,July,7,Wednesday,P029,Cold Drink 750ml,Beverages,10,46.35,5,440.32,UPI,Regular
+INV-00534,2026-07-30,2026,July,7,Thursday,P001,Rice 5kg,Grains,8,332.83,5,2529.51,Cash,Regular
+INV-00535,2026-07-30,2026,July,7,Thursday,P002,Wheat Flour 5kg,Grains,5,264.32,0,1321.6,Cash,Walk-in
+INV-00536,2026-07-30,2026,July,7,Thursday,P017,Tomato 1kg,Vegetables,1,42.43,0,42.43,UPI,Regular
+INV-00537,2026-07-30,2026,July,7,Thursday,P016,Onion 1kg,Vegetables,1,39.83,2,39.03,Cash,Walk-in
+INV-00538,2026-07-30,2026,July,7,Thursday,P001,Rice 5kg,Grains,2,318.9,0,637.8,Cash,Walk-in
+INV-00539,2026-07-30,2026,July,7,Thursday,P027,Turmeric Powder 200g,Spices,1,47.85,5,45.46,Debit/Credit Card,Walk-in
+INV-00540,2026-07-30,2026,July,7,Thursday,P023,Dishwash Liquid,Home Care,5,89.11,0,445.55,UPI,Regular
+INV-00541,2026-07-30,2026,July,7,Thursday,P021,Shampoo 180ml,Personal Care,4,129.62,0,518.48,UPI,Walk-in
+INV-00542,2026-07-30,2026,July,7,Thursday,P001,Rice 5kg,Grains,2,314.77,5,598.06,UPI,Walk-in
+INV-00543,2026-07-30,2026,July,7,Thursday,P021,Shampoo 180ml,Personal Care,2,132.47,0,264.94,Cash,Walk-in
+INV-00544,2026-07-30,2026,July,7,Thursday,P012,Butter 100g,Dairy,1,55.94,0,55.94,Cash,Regular
+INV-00545,2026-07-30,2026,July,7,Thursday,P009,Coffee 100g,Beverages,4,111.1,0,444.4,UPI,Walk-in
+INV-00546,2026-07-30,2026,July,7,Thursday,P005,Sugar 1kg,Essentials,3,46.62,0,139.86,UPI,Walk-in
+INV-00547,2026-07-30,2026,July,7,Thursday,P010,Milk 1L,Dairy,4,65.32,0,261.28,UPI,Walk-in
+INV-00548,2026-07-30,2026,July,7,Thursday,P025,Instant Noodles,Packaged Food,6,14.63,0,87.78,UPI,Walk-in
+INV-00549,2026-07-31,2026,July,7,Friday,P030,Eggs 6 Pack,Dairy & Eggs,4,47.72,5,181.34,UPI,Walk-in
+INV-00550,2026-07-31,2026,July,7,Friday,P006,Salt 1kg,Essentials,2,21.28,2,41.71,UPI,Regular
+INV-00551,2026-07-31,2026,July,7,Friday,P016,Onion 1kg,Vegetables,4,40.23,0,160.92,Cash,Walk-in
+INV-00552,2026-07-31,2026,July,7,Friday,P023,Dishwash Liquid,Home Care,3,87.4,0,262.2,UPI,Regular
+INV-00553,2026-07-31,2026,July,7,Friday,P010,Milk 1L,Dairy,3,61.49,0,184.47,UPI,Walk-in
+INV-00554,2026-07-31,2026,July,7,Friday,P011,Curd 500g,Dairy,2,38.19,0,76.38,Cash,Walk-in
+INV-00555,2026-07-31,2026,July,7,Friday,P004,Moong Dal 1kg,Pulses,1,149.36,0,149.36,UPI,Walk-in
+INV-00556,2026-07-31,2026,July,7,Friday,P010,Milk 1L,Dairy,3,59.99,10,161.97,UPI,Walk-in
+INV-00557,2026-07-31,2026,July,7,Friday,P016,Onion 1kg,Vegetables,2,37.19,0,74.38,Cash,Regular
+INV-00558,2026-07-31,2026,July,7,Friday,P006,Salt 1kg,Essentials,2,22.6,10,40.68,UPI,Regular
+INV-00559,2026-07-31,2026,July,7,Friday,P002,Wheat Flour 5kg,Grains,1,249.63,0,249.63,UPI,Regular
+INV-00560,2026-07-31,2026,July,7,Friday,P025,Instant Noodles,Packaged Food,4,14.68,5,55.78,UPI,Walk-in
+INV-00561,2026-07-31,2026,July,7,Friday,P009,Coffee 100g,Beverages,4,114.7,0,458.8,UPI,Walk-in
+INV-00562,2026-08-01,2026,August,8,Saturday,P012,Butter 100g,Dairy,6,58.59,0,351.54,UPI,Walk-in
+INV-00563,2026-08-01,2026,August,8,Saturday,P030,Eggs 6 Pack,Dairy & Eggs,2,46.54,0,93.08,Debit/Credit Card,Walk-in
+INV-00564,2026-08-01,2026,August,8,Saturday,P007,Sunflower Oil 1L,Oil & Ghee,1,140.3,0,140.3,Debit/Credit Card,Regular
+INV-00565,2026-08-01,2026,August,8,Saturday,P010,Milk 1L,Dairy,3,64.89,0,194.67,UPI,Walk-in
+INV-00566,2026-08-01,2026,August,8,Saturday,P013,Bread,Bakery,4,39.29,2,154.02,UPI,Walk-in
+INV-00567,2026-08-01,2026,August,8,Saturday,P014,Biscuits Pack,Snacks,6,31.47,0,188.82,Cash,Walk-in
+INV-00568,2026-08-01,2026,August,8,Saturday,P007,Sunflower Oil 1L,Oil & Ghee,1,152.43,0,152.43,UPI,Walk-in
+INV-00569,2026-08-01,2026,August,8,Saturday,P022,Detergent 1kg,Home Care,10,104.39,0,1043.9,UPI,Walk-in
+INV-00570,2026-08-01,2026,August,8,Saturday,P013,Bread,Bakery,6,41.36,0,248.16,Debit/Credit Card,Walk-in
+INV-00571,2026-08-01,2026,August,8,Saturday,P023,Dishwash Liquid,Home Care,2,89.44,0,178.88,Cash,Walk-in
+INV-00572,2026-08-01,2026,August,8,Saturday,P029,Cold Drink 750ml,Beverages,4,46.33,0,185.32,UPI,Walk-in
+INV-00573,2026-08-01,2026,August,8,Saturday,P008,Tea 250g,Beverages,5,120.96,5,574.56,Debit/Credit Card,Walk-in
+INV-00574,2026-08-01,2026,August,8,Saturday,P022,Detergent 1kg,Home Care,3,109.56,0,328.68,UPI,Walk-in
+INV-00575,2026-08-01,2026,August,8,Saturday,P008,Tea 250g,Beverages,5,127.62,0,638.1,UPI,Regular
+INV-00576,2026-08-01,2026,August,8,Saturday,P013,Bread,Bakery,5,38.79,0,193.95,Cash,Walk-in
+INV-00577,2026-08-01,2026,August,8,Saturday,P003,Toor Dal 1kg,Pulses,2,161.63,5,307.1,Cash,Regular
+INV-00578,2026-08-01,2026,August,8,Saturday,P030,Eggs 6 Pack,Dairy & Eggs,2,49.04,0,98.08,Cash,Walk-in
+INV-00579,2026-08-01,2026,August,8,Saturday,P001,Rice 5kg,Grains,5,327.87,0,1639.35,Cash,Walk-in
+INV-00580,2026-08-01,2026,August,8,Saturday,P015,Potato 1kg,Vegetables,5,33.89,10,152.5,Cash,Walk-in
+INV-00581,2026-08-01,2026,August,8,Saturday,P014,Biscuits Pack,Snacks,1,30.95,0,30.95,UPI,Regular
+INV-00582,2026-08-01,2026,August,8,Saturday,P011,Curd 500g,Dairy,2,37.75,0,75.5,Cash,Regular
+INV-00583,2026-08-01,2026,August,8,Saturday,P025,Instant Noodles,Packaged Food,1,15.73,0,15.73,Debit/Credit Card,Regular
+INV-00584,2026-08-02,2026,August,8,Sunday,P006,Salt 1kg,Essentials,1,22.34,0,22.34,Cash,Regular
+INV-00585,2026-08-02,2026,August,8,Sunday,P012,Butter 100g,Dairy,5,61.17,0,305.85,UPI,Walk-in
+INV-00586,2026-08-02,2026,August,8,Sunday,P005,Sugar 1kg,Essentials,10,47.3,2,463.54,Cash,Walk-in
+INV-00587,2026-08-02,2026,August,8,Sunday,P023,Dishwash Liquid,Home Care,2,88.43,0,176.86,Debit/Credit Card,Walk-in
+INV-00588,2026-08-02,2026,August,8,Sunday,P009,Coffee 100g,Beverages,5,113.35,0,566.75,UPI,Walk-in
+INV-00589,2026-08-02,2026,August,8,Sunday,P024,Toothpaste,Personal Care,3,68.76,5,195.97,UPI,Walk-in
+INV-00590,2026-08-02,2026,August,8,Sunday,P014,Biscuits Pack,Snacks,1,31.51,0,31.51,UPI,Walk-in
+INV-00591,2026-08-02,2026,August,8,Sunday,P012,Butter 100g,Dairy,2,60.34,0,120.68,Debit/Credit Card,Walk-in
+INV-00592,2026-08-02,2026,August,8,Sunday,P013,Bread,Bakery,4,40.55,0,162.2,Cash,Regular
+INV-00593,2026-08-02,2026,August,8,Sunday,P013,Bread,Bakery,1,40.43,0,40.43,UPI,Walk-in
+INV-00594,2026-08-02,2026,August,8,Sunday,P017,Tomato 1kg,Vegetables,2,43.58,0,87.16,Cash,Walk-in
+INV-00595,2026-08-02,2026,August,8,Sunday,P017,Tomato 1kg,Vegetables,2,40.86,0,81.72,UPI,Walk-in
+INV-00596,2026-08-02,2026,August,8,Sunday,P016,Onion 1kg,Vegetables,1,39.63,0,39.63,Debit/Credit Card,Walk-in
+INV-00597,2026-08-02,2026,August,8,Sunday,P004,Moong Dal 1kg,Pulses,1,152.88,2,149.82,UPI,Walk-in
+INV-00598,2026-08-02,2026,August,8,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,2,144.78,0,289.56,UPI,Walk-in
+INV-00599,2026-08-02,2026,August,8,Sunday,P005,Sugar 1kg,Essentials,1,48.7,0,48.7,UPI,Regular
+INV-00600,2026-08-02,2026,August,8,Sunday,P028,Peanuts 500g,Snacks,5,77.76,0,388.8,UPI,Walk-in
+INV-00601,2026-08-02,2026,August,8,Sunday,P025,Instant Noodles,Packaged Food,1,15.72,2,15.41,Cash,Walk-in
+INV-00602,2026-08-02,2026,August,8,Sunday,P010,Milk 1L,Dairy,1,61.31,0,61.31,Cash,Walk-in
+INV-00603,2026-08-02,2026,August,8,Sunday,P017,Tomato 1kg,Vegetables,2,43.79,0,87.58,UPI,Regular
+INV-00604,2026-08-02,2026,August,8,Sunday,P025,Instant Noodles,Packaged Food,5,15.56,0,77.8,UPI,Walk-in
+INV-00605,2026-08-02,2026,August,8,Sunday,P006,Salt 1kg,Essentials,2,22.89,0,45.78,UPI,Walk-in
+INV-00606,2026-08-02,2026,August,8,Sunday,P006,Salt 1kg,Essentials,2,22.11,0,44.22,UPI,Walk-in
+INV-00607,2026-08-02,2026,August,8,Sunday,P027,Turmeric Powder 200g,Spices,1,48.18,0,48.18,UPI,Regular
+INV-00608,2026-08-02,2026,August,8,Sunday,P019,Banana Dozen,Fruits,3,61.45,0,184.35,Cash,Walk-in
+INV-00609,2026-08-03,2026,August,8,Monday,P013,Bread,Bakery,8,42.26,0,338.08,Cash,Walk-in
+INV-00610,2026-08-03,2026,August,8,Monday,P012,Butter 100g,Dairy,6,60.98,0,365.88,UPI,Walk-in
+INV-00611,2026-08-03,2026,August,8,Monday,P004,Moong Dal 1kg,Pulses,8,146.25,2,1146.6,Cash,Walk-in
+INV-00612,2026-08-03,2026,August,8,Monday,P003,Toor Dal 1kg,Pulses,3,167.99,0,503.97,Cash,Walk-in
+INV-00613,2026-08-03,2026,August,8,Monday,P018,Apples 1kg,Fruits,4,156.84,0,627.36,Debit/Credit Card,Walk-in
+INV-00614,2026-08-03,2026,August,8,Monday,P010,Milk 1L,Dairy,1,62.28,0,62.28,UPI,Walk-in
+INV-00615,2026-08-03,2026,August,8,Monday,P014,Biscuits Pack,Snacks,1,30.04,5,28.54,Cash,Walk-in
+INV-00616,2026-08-03,2026,August,8,Monday,P014,Biscuits Pack,Snacks,4,30.95,0,123.8,Debit/Credit Card,Walk-in
+INV-00617,2026-08-03,2026,August,8,Monday,P020,Bath Soap,Personal Care,1,40.24,0,40.24,Cash,Walk-in
+INV-00618,2026-08-03,2026,August,8,Monday,P017,Tomato 1kg,Vegetables,3,41.76,0,125.28,UPI,Walk-in
+INV-00619,2026-08-03,2026,August,8,Monday,P024,Toothpaste,Personal Care,1,70.97,10,63.87,Cash,Walk-in
+INV-00620,2026-08-03,2026,August,8,Monday,P026,Chilli Powder 200g,Spices,1,58.44,5,55.52,Cash,Walk-in
+INV-00621,2026-08-03,2026,August,8,Monday,P009,Coffee 100g,Beverages,2,107.61,0,215.22,UPI,Regular
+INV-00622,2026-08-03,2026,August,8,Monday,P026,Chilli Powder 200g,Spices,1,61.25,0,61.25,UPI,Walk-in
+INV-00623,2026-08-03,2026,August,8,Monday,P023,Dishwash Liquid,Home Care,1,88.68,0,88.68,UPI,Regular
+INV-00624,2026-08-03,2026,August,8,Monday,P001,Rice 5kg,Grains,2,317.33,0,634.66,Debit/Credit Card,Walk-in
+INV-00625,2026-08-03,2026,August,8,Monday,P028,Peanuts 500g,Snacks,4,76.46,0,305.84,UPI,Walk-in
+INV-00626,2026-08-03,2026,August,8,Monday,P007,Sunflower Oil 1L,Oil & Ghee,1,140.88,5,133.84,UPI,Walk-in
+INV-00627,2026-08-03,2026,August,8,Monday,P016,Onion 1kg,Vegetables,4,40.25,0,161.0,UPI,Walk-in
+INV-00628,2026-08-03,2026,August,8,Monday,P023,Dishwash Liquid,Home Care,3,84.37,2,248.05,UPI,Walk-in
+INV-00629,2026-08-03,2026,August,8,Monday,P015,Potato 1kg,Vegetables,8,33.1,10,238.32,Cash,Walk-in
+INV-00630,2026-08-03,2026,August,8,Monday,P004,Moong Dal 1kg,Pulses,4,140.85,0,563.4,Cash,Regular
+INV-00631,2026-08-03,2026,August,8,Monday,P010,Milk 1L,Dairy,3,64.86,0,194.58,Cash,Regular
+INV-00632,2026-08-04,2026,August,8,Tuesday,P002,Wheat Flour 5kg,Grains,1,265.36,0,265.36,UPI,Regular
+INV-00633,2026-08-04,2026,August,8,Tuesday,P005,Sugar 1kg,Essentials,6,47.34,0,284.04,UPI,Regular
+INV-00634,2026-08-04,2026,August,8,Tuesday,P017,Tomato 1kg,Vegetables,1,42.68,2,41.83,UPI,Walk-in
+INV-00635,2026-08-04,2026,August,8,Tuesday,P019,Banana Dozen,Fruits,6,61.17,2,359.68,Debit/Credit Card,Walk-in
+INV-00636,2026-08-04,2026,August,8,Tuesday,P015,Potato 1kg,Vegetables,2,33.17,0,66.34,UPI,Regular
+INV-00637,2026-08-04,2026,August,8,Tuesday,P013,Bread,Bakery,6,40.65,0,243.9,Debit/Credit Card,Walk-in
+INV-00638,2026-08-04,2026,August,8,Tuesday,P027,Turmeric Powder 200g,Spices,1,48.09,0,48.09,Cash,Walk-in
+INV-00639,2026-08-04,2026,August,8,Tuesday,P025,Instant Noodles,Packaged Food,1,15.2,2,14.9,UPI,Regular
+INV-00640,2026-08-04,2026,August,8,Tuesday,P013,Bread,Bakery,10,41.84,0,418.4,UPI,Walk-in
+INV-00641,2026-08-05,2026,August,8,Wednesday,P014,Biscuits Pack,Snacks,5,29.45,5,139.89,Cash,Regular
+INV-00642,2026-08-05,2026,August,8,Wednesday,P002,Wheat Flour 5kg,Grains,4,258.99,0,1035.96,UPI,Walk-in
+INV-00643,2026-08-05,2026,August,8,Wednesday,P023,Dishwash Liquid,Home Care,3,82.88,5,236.21,Cash,Walk-in
+INV-00644,2026-08-05,2026,August,8,Wednesday,P024,Toothpaste,Personal Care,1,65.85,0,65.85,Cash,Regular
+INV-00645,2026-08-05,2026,August,8,Wednesday,P023,Dishwash Liquid,Home Care,1,87.99,10,79.19,UPI,Walk-in
+INV-00646,2026-08-05,2026,August,8,Wednesday,P026,Chilli Powder 200g,Spices,3,56.28,0,168.84,UPI,Walk-in
+INV-00647,2026-08-05,2026,August,8,Wednesday,P006,Salt 1kg,Essentials,1,21.18,0,21.18,UPI,Regular
+INV-00648,2026-08-05,2026,August,8,Wednesday,P006,Salt 1kg,Essentials,2,21.61,0,43.22,UPI,Walk-in
+INV-00649,2026-08-05,2026,August,8,Wednesday,P028,Peanuts 500g,Snacks,2,76.81,0,153.62,UPI,Walk-in
+INV-00650,2026-08-05,2026,August,8,Wednesday,P001,Rice 5kg,Grains,5,330.26,5,1568.74,UPI,Walk-in
+INV-00651,2026-08-05,2026,August,8,Wednesday,P010,Milk 1L,Dairy,1,59.52,10,53.57,Cash,Walk-in
+INV-00652,2026-08-05,2026,August,8,Wednesday,P017,Tomato 1kg,Vegetables,3,41.23,0,123.69,Debit/Credit Card,Walk-in
+INV-00653,2026-08-05,2026,August,8,Wednesday,P021,Shampoo 180ml,Personal Care,4,121.22,10,436.39,Cash,Walk-in
+INV-00654,2026-08-05,2026,August,8,Wednesday,P027,Turmeric Powder 200g,Spices,1,48.0,0,48.0,UPI,Walk-in
+INV-00655,2026-08-05,2026,August,8,Wednesday,P003,Toor Dal 1kg,Pulses,2,163.21,0,326.42,UPI,Walk-in
+INV-00656,2026-08-06,2026,August,8,Thursday,P021,Shampoo 180ml,Personal Care,1,120.56,0,120.56,UPI,Walk-in
+INV-00657,2026-08-06,2026,August,8,Thursday,P017,Tomato 1kg,Vegetables,1,41.66,0,41.66,Cash,Walk-in
+INV-00658,2026-08-06,2026,August,8,Thursday,P011,Curd 500g,Dairy,2,39.03,0,78.06,UPI,Walk-in
+INV-00659,2026-08-06,2026,August,8,Thursday,P009,Coffee 100g,Beverages,3,111.42,0,334.26,UPI,Walk-in
+INV-00660,2026-08-06,2026,August,8,Thursday,P023,Dishwash Liquid,Home Care,3,89.44,0,268.32,UPI,Walk-in
+INV-00661,2026-08-06,2026,August,8,Thursday,P027,Turmeric Powder 200g,Spices,3,50.41,0,151.23,UPI,Walk-in
+INV-00662,2026-08-06,2026,August,8,Thursday,P001,Rice 5kg,Grains,2,333.81,0,667.62,Cash,Walk-in
+INV-00663,2026-08-06,2026,August,8,Thursday,P016,Onion 1kg,Vegetables,6,37.04,0,222.24,UPI,Regular
+INV-00664,2026-08-06,2026,August,8,Thursday,P012,Butter 100g,Dairy,2,58.88,0,117.76,UPI,Regular
+INV-00665,2026-08-06,2026,August,8,Thursday,P028,Peanuts 500g,Snacks,2,77.1,0,154.2,UPI,Regular
+INV-00666,2026-08-06,2026,August,8,Thursday,P008,Tea 250g,Beverages,1,131.63,2,129.0,UPI,Walk-in
+INV-00667,2026-08-06,2026,August,8,Thursday,P024,Toothpaste,Personal Care,5,70.28,0,351.4,Cash,Walk-in
+INV-00668,2026-08-06,2026,August,8,Thursday,P006,Salt 1kg,Essentials,1,21.5,0,21.5,UPI,Walk-in
+INV-00669,2026-08-06,2026,August,8,Thursday,P005,Sugar 1kg,Essentials,2,48.35,0,96.7,Cash,Walk-in
+INV-00670,2026-08-06,2026,August,8,Thursday,P020,Bath Soap,Personal Care,1,38.87,0,38.87,Cash,Regular
+INV-00671,2026-08-06,2026,August,8,Thursday,P024,Toothpaste,Personal Care,3,66.14,0,198.42,UPI,Regular
+INV-00672,2026-08-06,2026,August,8,Thursday,P011,Curd 500g,Dairy,1,37.0,2,36.26,UPI,Walk-in
+INV-00673,2026-08-06,2026,August,8,Thursday,P001,Rice 5kg,Grains,5,317.33,2,1554.92,Debit/Credit Card,Regular
+INV-00674,2026-08-06,2026,August,8,Thursday,P015,Potato 1kg,Vegetables,2,32.24,5,61.26,Cash,Walk-in
+INV-00675,2026-08-07,2026,August,8,Friday,P016,Onion 1kg,Vegetables,2,40.25,0,80.5,UPI,Regular
+INV-00676,2026-08-07,2026,August,8,Friday,P004,Moong Dal 1kg,Pulses,2,141.81,0,283.62,Debit/Credit Card,Walk-in
+INV-00677,2026-08-07,2026,August,8,Friday,P003,Toor Dal 1kg,Pulses,1,170.84,0,170.84,UPI,Walk-in
+INV-00678,2026-08-07,2026,August,8,Friday,P021,Shampoo 180ml,Personal Care,3,124.38,0,373.14,Debit/Credit Card,Regular
+INV-00679,2026-08-07,2026,August,8,Friday,P027,Turmeric Powder 200g,Spices,2,50.12,0,100.24,UPI,Regular
+INV-00680,2026-08-07,2026,August,8,Friday,P029,Cold Drink 750ml,Beverages,1,45.56,10,41.0,Cash,Regular
+INV-00681,2026-08-07,2026,August,8,Friday,P027,Turmeric Powder 200g,Spices,2,47.28,0,94.56,UPI,Walk-in
+INV-00682,2026-08-07,2026,August,8,Friday,P024,Toothpaste,Personal Care,2,68.91,5,130.93,UPI,Regular
+INV-00683,2026-08-07,2026,August,8,Friday,P006,Salt 1kg,Essentials,2,22.91,0,45.82,UPI,Regular
+INV-00684,2026-08-07,2026,August,8,Friday,P028,Peanuts 500g,Snacks,1,78.32,0,78.32,Cash,Walk-in
+INV-00685,2026-08-08,2026,August,8,Saturday,P010,Milk 1L,Dairy,3,65.44,0,196.32,UPI,Walk-in
+INV-00686,2026-08-08,2026,August,8,Saturday,P005,Sugar 1kg,Essentials,1,48.59,0,48.59,UPI,Walk-in
+INV-00687,2026-08-08,2026,August,8,Saturday,P007,Sunflower Oil 1L,Oil & Ghee,1,143.84,0,143.84,UPI,Walk-in
+INV-00688,2026-08-08,2026,August,8,Saturday,P016,Onion 1kg,Vegetables,1,38.53,0,38.53,UPI,Walk-in
+INV-00689,2026-08-08,2026,August,8,Saturday,P017,Tomato 1kg,Vegetables,1,43.28,0,43.28,UPI,Walk-in
+INV-00690,2026-08-08,2026,August,8,Saturday,P012,Butter 100g,Dairy,1,58.21,0,58.21,Cash,Regular
+INV-00691,2026-08-08,2026,August,8,Saturday,P019,Banana Dozen,Fruits,1,59.23,0,59.23,UPI,Walk-in
+INV-00692,2026-08-08,2026,August,8,Saturday,P029,Cold Drink 750ml,Beverages,3,43.64,2,128.3,UPI,Walk-in
+INV-00693,2026-08-08,2026,August,8,Saturday,P017,Tomato 1kg,Vegetables,4,40.95,0,163.8,UPI,Walk-in
+INV-00694,2026-08-08,2026,August,8,Saturday,P009,Coffee 100g,Beverages,2,110.7,0,221.4,UPI,Walk-in
+INV-00695,2026-08-08,2026,August,8,Saturday,P011,Curd 500g,Dairy,5,40.24,0,201.2,UPI,Walk-in
+INV-00696,2026-08-08,2026,August,8,Saturday,P015,Potato 1kg,Vegetables,2,30.85,0,61.7,Debit/Credit Card,Walk-in
+INV-00697,2026-08-08,2026,August,8,Saturday,P015,Potato 1kg,Vegetables,5,30.94,0,154.7,UPI,Walk-in
+INV-00698,2026-08-08,2026,August,8,Saturday,P026,Chilli Powder 200g,Spices,1,60.0,0,60.0,Cash,Regular
+INV-00699,2026-08-08,2026,August,8,Saturday,P030,Eggs 6 Pack,Dairy & Eggs,2,47.14,0,94.28,UPI,Walk-in
+INV-00700,2026-08-08,2026,August,8,Saturday,P017,Tomato 1kg,Vegetables,2,41.48,0,82.96,UPI,Walk-in
+INV-00701,2026-08-08,2026,August,8,Saturday,P016,Onion 1kg,Vegetables,6,38.58,0,231.48,UPI,Walk-in
+INV-00702,2026-08-08,2026,August,8,Saturday,P029,Cold Drink 750ml,Beverages,2,46.81,0,93.62,UPI,Regular
+INV-00703,2026-08-08,2026,August,8,Saturday,P003,Toor Dal 1kg,Pulses,4,166.08,0,664.32,Debit/Credit Card,Walk-in
+INV-00704,2026-08-08,2026,August,8,Saturday,P007,Sunflower Oil 1L,Oil & Ghee,1,144.71,10,130.24,Debit/Credit Card,Walk-in
+INV-00705,2026-08-08,2026,August,8,Saturday,P015,Potato 1kg,Vegetables,6,32.55,2,191.39,Debit/Credit Card,Walk-in
+INV-00706,2026-08-08,2026,August,8,Saturday,P007,Sunflower Oil 1L,Oil & Ghee,3,140.91,10,380.46,Cash,Walk-in
+INV-00707,2026-08-09,2026,August,8,Sunday,P002,Wheat Flour 5kg,Grains,2,274.73,0,549.46,UPI,Walk-in
+INV-00708,2026-08-09,2026,August,8,Sunday,P010,Milk 1L,Dairy,3,64.91,0,194.73,UPI,Regular
+INV-00709,2026-08-09,2026,August,8,Sunday,P014,Biscuits Pack,Snacks,1,31.09,0,31.09,Debit/Credit Card,Regular
+INV-00710,2026-08-09,2026,August,8,Sunday,P001,Rice 5kg,Grains,3,329.8,0,989.4,Cash,Walk-in
+INV-00711,2026-08-09,2026,August,8,Sunday,P011,Curd 500g,Dairy,2,37.52,0,75.04,UPI,Walk-in
+INV-00712,2026-08-09,2026,August,8,Sunday,P001,Rice 5kg,Grains,1,318.9,2,312.52,Cash,Walk-in
+INV-00713,2026-08-09,2026,August,8,Sunday,P013,Bread,Bakery,3,39.34,0,118.02,UPI,Walk-in
+INV-00714,2026-08-09,2026,August,8,Sunday,P003,Toor Dal 1kg,Pulses,1,168.37,0,168.37,UPI,Walk-in
+INV-00715,2026-08-09,2026,August,8,Sunday,P008,Tea 250g,Beverages,2,123.05,0,246.1,Cash,Walk-in
+INV-00716,2026-08-09,2026,August,8,Sunday,P021,Shampoo 180ml,Personal Care,2,121.57,0,243.14,UPI,Walk-in
+INV-00717,2026-08-09,2026,August,8,Sunday,P018,Apples 1kg,Fruits,3,149.58,0,448.74,UPI,Regular
+INV-00718,2026-08-09,2026,August,8,Sunday,P027,Turmeric Powder 200g,Spices,2,50.64,0,101.28,Debit/Credit Card,Walk-in
+INV-00719,2026-08-09,2026,August,8,Sunday,P011,Curd 500g,Dairy,1,37.6,5,35.72,UPI,Walk-in
+INV-00720,2026-08-09,2026,August,8,Sunday,P015,Potato 1kg,Vegetables,8,32.12,5,244.11,UPI,Regular
+INV-00721,2026-08-09,2026,August,8,Sunday,P025,Instant Noodles,Packaged Food,10,15.9,0,159.0,Cash,Walk-in
+INV-00722,2026-08-09,2026,August,8,Sunday,P019,Banana Dozen,Fruits,3,59.19,0,177.57,Cash,Walk-in
+INV-00723,2026-08-09,2026,August,8,Sunday,P003,Toor Dal 1kg,Pulses,4,174.45,0,697.8,UPI,Walk-in
+INV-00724,2026-08-10,2026,August,8,Monday,P008,Tea 250g,Beverages,5,128.94,0,644.7,Cash,Regular
+INV-00725,2026-08-10,2026,August,8,Monday,P028,Peanuts 500g,Snacks,2,73.34,0,146.68,UPI,Walk-in
+INV-00726,2026-08-10,2026,August,8,Monday,P016,Onion 1kg,Vegetables,6,38.91,0,233.46,UPI,Walk-in
+INV-00727,2026-08-10,2026,August,8,Monday,P019,Banana Dozen,Fruits,4,63.31,0,253.24,UPI,Walk-in
+INV-00728,2026-08-10,2026,August,8,Monday,P027,Turmeric Powder 200g,Spices,2,50.33,0,100.66,UPI,Walk-in
+INV-00729,2026-08-10,2026,August,8,Monday,P018,Apples 1kg,Fruits,3,153.62,0,460.86,Cash,Walk-in
+INV-00730,2026-08-10,2026,August,8,Monday,P009,Coffee 100g,Beverages,1,106.48,0,106.48,Cash,Walk-in
+INV-00731,2026-08-10,2026,August,8,Monday,P003,Toor Dal 1kg,Pulses,2,162.96,0,325.92,UPI,Walk-in
+INV-00732,2026-08-10,2026,August,8,Monday,P028,Peanuts 500g,Snacks,1,77.62,5,73.74,Cash,Regular
+INV-00733,2026-08-10,2026,August,8,Monday,P016,Onion 1kg,Vegetables,1,36.64,0,36.64,Cash,Regular
+INV-00734,2026-08-10,2026,August,8,Monday,P027,Turmeric Powder 200g,Spices,5,48.22,2,236.28,UPI,Walk-in
+INV-00735,2026-08-10,2026,August,8,Monday,P016,Onion 1kg,Vegetables,2,39.88,5,75.77,UPI,Regular
+INV-00736,2026-08-10,2026,August,8,Monday,P021,Shampoo 180ml,Personal Care,2,128.63,0,257.26,Cash,Regular
+INV-00737,2026-08-10,2026,August,8,Monday,P020,Bath Soap,Personal Care,1,37.66,0,37.66,UPI,Walk-in
+INV-00738,2026-08-10,2026,August,8,Monday,P003,Toor Dal 1kg,Pulses,3,170.22,10,459.59,Cash,Walk-in
+INV-00739,2026-08-10,2026,August,8,Monday,P025,Instant Noodles,Packaged Food,2,14.86,0,29.72,UPI,Walk-in
+INV-00740,2026-08-10,2026,August,8,Monday,P024,Toothpaste,Personal Care,4,69.55,10,250.38,UPI,Walk-in
+INV-00741,2026-08-10,2026,August,8,Monday,P021,Shampoo 180ml,Personal Care,2,122.6,0,245.2,UPI,Walk-in
+INV-00742,2026-08-10,2026,August,8,Monday,P005,Sugar 1kg,Essentials,2,46.93,0,93.86,Cash,Walk-in
+INV-00743,2026-08-11,2026,August,8,Tuesday,P012,Butter 100g,Dairy,3,57.77,0,173.31,UPI,Walk-in
+INV-00744,2026-08-11,2026,August,8,Tuesday,P019,Banana Dozen,Fruits,2,62.06,10,111.71,Cash,Walk-in
+INV-00745,2026-08-11,2026,August,8,Tuesday,P018,Apples 1kg,Fruits,8,158.97,0,1271.76,UPI,Walk-in
+INV-00746,2026-08-11,2026,August,8,Tuesday,P014,Biscuits Pack,Snacks,4,29.38,0,117.52,UPI,Walk-in
+INV-00747,2026-08-11,2026,August,8,Tuesday,P020,Bath Soap,Personal Care,1,37.13,0,37.13,UPI,Regular
+INV-00748,2026-08-11,2026,August,8,Tuesday,P009,Coffee 100g,Beverages,5,110.48,0,552.4,Debit/Credit Card,Walk-in
+INV-00749,2026-08-11,2026,August,8,Tuesday,P001,Rice 5kg,Grains,2,329.34,0,658.68,UPI,Walk-in
+INV-00750,2026-08-11,2026,August,8,Tuesday,P029,Cold Drink 750ml,Beverages,5,46.61,0,233.05,Cash,Walk-in
+INV-00751,2026-08-11,2026,August,8,Tuesday,P010,Milk 1L,Dairy,1,64.84,0,64.84,UPI,Walk-in
+INV-00752,2026-08-11,2026,August,8,Tuesday,P011,Curd 500g,Dairy,1,37.61,0,37.61,Debit/Credit Card,Regular
+INV-00753,2026-08-11,2026,August,8,Tuesday,P005,Sugar 1kg,Essentials,1,46.67,0,46.67,UPI,Walk-in
+INV-00754,2026-08-12,2026,August,8,Wednesday,P026,Chilli Powder 200g,Spices,4,60.48,0,241.92,UPI,Regular
+INV-00755,2026-08-12,2026,August,8,Wednesday,P021,Shampoo 180ml,Personal Care,5,122.22,0,611.1,UPI,Regular
+INV-00756,2026-08-12,2026,August,8,Wednesday,P003,Toor Dal 1kg,Pulses,4,166.19,0,664.76,Cash,Walk-in
+INV-00757,2026-08-12,2026,August,8,Wednesday,P019,Banana Dozen,Fruits,2,62.26,0,124.52,UPI,Walk-in
+INV-00758,2026-08-12,2026,August,8,Wednesday,P015,Potato 1kg,Vegetables,2,31.95,0,63.9,UPI,Walk-in
+INV-00759,2026-08-12,2026,August,8,Wednesday,P001,Rice 5kg,Grains,6,323.11,0,1938.66,UPI,Walk-in
+INV-00760,2026-08-12,2026,August,8,Wednesday,P015,Potato 1kg,Vegetables,1,32.21,5,30.6,UPI,Regular
+INV-00761,2026-08-12,2026,August,8,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,6,152.34,0,914.04,Cash,Walk-in
+INV-00762,2026-08-12,2026,August,8,Wednesday,P012,Butter 100g,Dairy,6,55.89,0,335.34,Debit/Credit Card,Walk-in
+INV-00763,2026-08-12,2026,August,8,Wednesday,P025,Instant Noodles,Packaged Food,6,14.57,0,87.42,Cash,Walk-in
+INV-00764,2026-08-12,2026,August,8,Wednesday,P020,Bath Soap,Personal Care,2,37.51,0,75.02,UPI,Walk-in
+INV-00765,2026-08-12,2026,August,8,Wednesday,P027,Turmeric Powder 200g,Spices,1,50.63,0,50.63,Cash,Regular
+INV-00766,2026-08-13,2026,August,8,Thursday,P011,Curd 500g,Dairy,3,36.78,2,108.13,UPI,Walk-in
+INV-00767,2026-08-13,2026,August,8,Thursday,P030,Eggs 6 Pack,Dairy & Eggs,2,50.02,0,100.04,Cash,Regular
+INV-00768,2026-08-13,2026,August,8,Thursday,P014,Biscuits Pack,Snacks,8,30.64,5,232.86,Debit/Credit Card,Regular
+INV-00769,2026-08-13,2026,August,8,Thursday,P002,Wheat Flour 5kg,Grains,8,262.3,0,2098.4,Cash,Walk-in
+INV-00770,2026-08-13,2026,August,8,Thursday,P002,Wheat Flour 5kg,Grains,4,255.61,0,1022.44,UPI,Walk-in
+INV-00771,2026-08-13,2026,August,8,Thursday,P015,Potato 1kg,Vegetables,5,30.72,0,153.6,UPI,Walk-in
+INV-00772,2026-08-13,2026,August,8,Thursday,P004,Moong Dal 1kg,Pulses,2,150.43,5,285.82,UPI,Regular
+INV-00773,2026-08-13,2026,August,8,Thursday,P022,Detergent 1kg,Home Care,6,106.52,0,639.12,Cash,Walk-in
+INV-00774,2026-08-13,2026,August,8,Thursday,P015,Potato 1kg,Vegetables,2,31.25,10,56.25,UPI,Walk-in
+INV-00775,2026-08-13,2026,August,8,Thursday,P019,Banana Dozen,Fruits,1,58.54,0,58.54,Cash,Walk-in
+INV-00776,2026-08-13,2026,August,8,Thursday,P013,Bread,Bakery,2,41.75,0,83.5,UPI,Walk-in
+INV-00777,2026-08-14,2026,August,8,Friday,P020,Bath Soap,Personal Care,2,39.74,0,79.48,Cash,Walk-in
+INV-00778,2026-08-14,2026,August,8,Friday,P010,Milk 1L,Dairy,1,64.59,0,64.59,UPI,Regular
+INV-00779,2026-08-14,2026,August,8,Friday,P002,Wheat Flour 5kg,Grains,1,266.23,0,266.23,UPI,Walk-in
+INV-00780,2026-08-14,2026,August,8,Friday,P013,Bread,Bakery,2,40.36,5,76.68,Cash,Regular
+INV-00781,2026-08-14,2026,August,8,Friday,P024,Toothpaste,Personal Care,2,71.68,5,136.19,UPI,Walk-in
+INV-00782,2026-08-14,2026,August,8,Friday,P016,Onion 1kg,Vegetables,5,40.12,10,180.54,Cash,Walk-in
+INV-00783,2026-08-14,2026,August,8,Friday,P018,Apples 1kg,Fruits,1,157.96,0,157.96,UPI,Regular
+INV-00784,2026-08-14,2026,August,8,Friday,P007,Sunflower Oil 1L,Oil & Ghee,1,146.36,0,146.36,Debit/Credit Card,Walk-in
+INV-00785,2026-08-14,2026,August,8,Friday,P009,Coffee 100g,Beverages,1,112.89,2,110.63,UPI,Walk-in
+INV-00786,2026-08-14,2026,August,8,Friday,P004,Moong Dal 1kg,Pulses,5,141.28,5,671.08,Cash,Walk-in
+INV-00787,2026-08-14,2026,August,8,Friday,P002,Wheat Flour 5kg,Grains,2,275.17,0,550.34,UPI,Regular
+INV-00788,2026-08-14,2026,August,8,Friday,P026,Chilli Powder 200g,Spices,5,59.23,0,296.15,UPI,Walk-in
+INV-00789,2026-08-14,2026,August,8,Friday,P002,Wheat Flour 5kg,Grains,1,252.35,0,252.35,Cash,Walk-in
+INV-00790,2026-08-14,2026,August,8,Friday,P011,Curd 500g,Dairy,2,39.77,0,79.54,Debit/Credit Card,Walk-in
+INV-00791,2026-08-14,2026,August,8,Friday,P030,Eggs 6 Pack,Dairy & Eggs,6,49.25,0,295.5,Cash,Regular
+INV-00792,2026-08-14,2026,August,8,Friday,P018,Apples 1kg,Fruits,2,149.93,0,299.86,Debit/Credit Card,Walk-in
+INV-00793,2026-08-14,2026,August,8,Friday,P013,Bread,Bakery,2,41.69,0,83.38,UPI,Regular
+INV-00794,2026-08-14,2026,August,8,Friday,P012,Butter 100g,Dairy,5,56.21,0,281.05,Cash,Walk-in
+INV-00795,2026-08-14,2026,August,8,Friday,P028,Peanuts 500g,Snacks,4,72.66,5,276.11,UPI,Walk-in
+INV-00796,2026-08-14,2026,August,8,Friday,P018,Apples 1kg,Fruits,1,150.44,0,150.44,Debit/Credit Card,Regular
+INV-00797,2026-08-14,2026,August,8,Friday,P005,Sugar 1kg,Essentials,5,46.62,5,221.44,Cash,Walk-in
+INV-00798,2026-08-14,2026,August,8,Friday,P020,Bath Soap,Personal Care,1,40.25,0,40.25,UPI,Regular
+INV-00799,2026-08-14,2026,August,8,Friday,P011,Curd 500g,Dairy,3,38.48,2,113.13,UPI,Regular
+INV-00800,2026-08-14,2026,August,8,Friday,P011,Curd 500g,Dairy,1,38.77,0,38.77,UPI,Walk-in
+INV-00801,2026-08-15,2026,August,8,Saturday,P016,Onion 1kg,Vegetables,8,37.2,0,297.6,Cash,Walk-in
+INV-00802,2026-08-15,2026,August,8,Saturday,P018,Apples 1kg,Fruits,5,150.79,0,753.95,UPI,Walk-in
+INV-00803,2026-08-15,2026,August,8,Saturday,P020,Bath Soap,Personal Care,1,39.86,5,37.87,Cash,Walk-in
+INV-00804,2026-08-15,2026,August,8,Saturday,P027,Turmeric Powder 200g,Spices,2,46.16,0,92.32,UPI,Walk-in
+INV-00805,2026-08-15,2026,August,8,Saturday,P015,Potato 1kg,Vegetables,6,32.9,0,197.4,Cash,Walk-in
+INV-00806,2026-08-15,2026,August,8,Saturday,P014,Biscuits Pack,Snacks,1,29.21,0,29.21,UPI,Walk-in
+INV-00807,2026-08-15,2026,August,8,Saturday,P023,Dishwash Liquid,Home Care,3,85.31,0,255.93,Cash,Walk-in
+INV-00808,2026-08-15,2026,August,8,Saturday,P020,Bath Soap,Personal Care,8,37.33,0,298.64,Debit/Credit Card,Walk-in
+INV-00809,2026-08-15,2026,August,8,Saturday,P006,Salt 1kg,Essentials,1,21.94,0,21.94,Cash,Walk-in
+INV-00810,2026-08-15,2026,August,8,Saturday,P016,Onion 1kg,Vegetables,5,36.63,0,183.15,Cash,Regular
+INV-00811,2026-08-15,2026,August,8,Saturday,P023,Dishwash Liquid,Home Care,4,81.88,0,327.52,UPI,Walk-in
+INV-00812,2026-08-15,2026,August,8,Saturday,P010,Milk 1L,Dairy,3,64.01,0,192.03,UPI,Regular
+INV-00813,2026-08-15,2026,August,8,Saturday,P005,Sugar 1kg,Essentials,1,46.26,0,46.26,UPI,Walk-in
+INV-00814,2026-08-15,2026,August,8,Saturday,P021,Shampoo 180ml,Personal Care,8,123.6,0,988.8,UPI,Walk-in
+INV-00815,2026-08-15,2026,August,8,Saturday,P002,Wheat Flour 5kg,Grains,2,263.18,0,526.36,UPI,Walk-in
+INV-00816,2026-08-15,2026,August,8,Saturday,P017,Tomato 1kg,Vegetables,2,42.67,0,85.34,Cash,Walk-in
+INV-00817,2026-08-15,2026,August,8,Saturday,P012,Butter 100g,Dairy,2,60.19,0,120.38,UPI,Walk-in
+INV-00818,2026-08-15,2026,August,8,Saturday,P002,Wheat Flour 5kg,Grains,2,273.98,0,547.96,UPI,Regular
+INV-00819,2026-08-16,2026,August,8,Sunday,P001,Rice 5kg,Grains,1,332.19,0,332.19,Debit/Credit Card,Walk-in
+INV-00820,2026-08-16,2026,August,8,Sunday,P017,Tomato 1kg,Vegetables,3,44.11,0,132.33,Cash,Walk-in
+INV-00821,2026-08-16,2026,August,8,Sunday,P022,Detergent 1kg,Home Care,2,103.97,0,207.94,UPI,Walk-in
+INV-00822,2026-08-16,2026,August,8,Sunday,P023,Dishwash Liquid,Home Care,1,88.18,0,88.18,UPI,Regular
+INV-00823,2026-08-16,2026,August,8,Sunday,P013,Bread,Bakery,2,40.54,0,81.08,UPI,Walk-in
+INV-00824,2026-08-16,2026,August,8,Sunday,P023,Dishwash Liquid,Home Care,5,84.96,10,382.32,Cash,Walk-in
+INV-00825,2026-08-16,2026,August,8,Sunday,P022,Detergent 1kg,Home Care,5,110.26,0,551.3,UPI,Walk-in
+INV-00826,2026-08-16,2026,August,8,Sunday,P005,Sugar 1kg,Essentials,2,47.78,0,95.56,UPI,Walk-in
+INV-00827,2026-08-16,2026,August,8,Sunday,P029,Cold Drink 750ml,Beverages,6,43.95,10,237.33,UPI,Regular
+INV-00828,2026-08-16,2026,August,8,Sunday,P017,Tomato 1kg,Vegetables,5,42.51,10,191.3,UPI,Walk-in
+INV-00829,2026-08-16,2026,August,8,Sunday,P011,Curd 500g,Dairy,4,38.1,0,152.4,UPI,Walk-in
+INV-00830,2026-08-16,2026,August,8,Sunday,P020,Bath Soap,Personal Care,2,38.96,0,77.92,UPI,Walk-in
+INV-00831,2026-08-16,2026,August,8,Sunday,P011,Curd 500g,Dairy,4,39.8,5,151.24,UPI,Walk-in
+INV-00832,2026-08-16,2026,August,8,Sunday,P009,Coffee 100g,Beverages,1,115.31,0,115.31,Debit/Credit Card,Walk-in
+INV-00833,2026-08-16,2026,August,8,Sunday,P026,Chilli Powder 200g,Spices,1,57.81,2,56.65,UPI,Walk-in
+INV-00834,2026-08-16,2026,August,8,Sunday,P017,Tomato 1kg,Vegetables,3,43.18,0,129.54,UPI,Regular
+INV-00835,2026-08-16,2026,August,8,Sunday,P013,Bread,Bakery,1,40.11,0,40.11,Cash,Walk-in
+INV-00836,2026-08-16,2026,August,8,Sunday,P005,Sugar 1kg,Essentials,2,49.73,0,99.46,Cash,Walk-in
+INV-00837,2026-08-16,2026,August,8,Sunday,P006,Salt 1kg,Essentials,1,23.29,0,23.29,UPI,Walk-in
+INV-00838,2026-08-17,2026,August,8,Monday,P006,Salt 1kg,Essentials,3,21.98,0,65.94,Cash,Walk-in
+INV-00839,2026-08-17,2026,August,8,Monday,P004,Moong Dal 1kg,Pulses,6,150.01,0,900.06,UPI,Regular
+INV-00840,2026-08-17,2026,August,8,Monday,P004,Moong Dal 1kg,Pulses,2,144.51,5,274.57,UPI,Regular
+INV-00841,2026-08-17,2026,August,8,Monday,P025,Instant Noodles,Packaged Food,6,15.71,0,94.26,Debit/Credit Card,Regular
+INV-00842,2026-08-17,2026,August,8,Monday,P020,Bath Soap,Personal Care,3,39.31,2,115.57,UPI,Walk-in
+INV-00843,2026-08-17,2026,August,8,Monday,P001,Rice 5kg,Grains,6,333.74,0,2002.44,Debit/Credit Card,Walk-in
+INV-00844,2026-08-17,2026,August,8,Monday,P005,Sugar 1kg,Essentials,1,49.01,0,49.01,Cash,Walk-in
+INV-00845,2026-08-17,2026,August,8,Monday,P011,Curd 500g,Dairy,8,37.71,5,286.6,UPI,Walk-in
+INV-00846,2026-08-17,2026,August,8,Monday,P029,Cold Drink 750ml,Beverages,3,44.46,0,133.38,Cash,Walk-in
+INV-00847,2026-08-17,2026,August,8,Monday,P024,Toothpaste,Personal Care,2,71.08,10,127.94,UPI,Walk-in
+INV-00848,2026-08-18,2026,August,8,Tuesday,P011,Curd 500g,Dairy,4,36.64,2,143.63,Debit/Credit Card,Regular
+INV-00849,2026-08-18,2026,August,8,Tuesday,P026,Chilli Powder 200g,Spices,2,60.87,10,109.57,UPI,Regular
+INV-00850,2026-08-18,2026,August,8,Tuesday,P008,Tea 250g,Beverages,1,123.29,2,120.82,Cash,Regular
+INV-00851,2026-08-18,2026,August,8,Tuesday,P004,Moong Dal 1kg,Pulses,5,153.43,0,767.15,Debit/Credit Card,Walk-in
+INV-00852,2026-08-18,2026,August,8,Tuesday,P011,Curd 500g,Dairy,5,38.27,0,191.35,UPI,Walk-in
+INV-00853,2026-08-18,2026,August,8,Tuesday,P030,Eggs 6 Pack,Dairy & Eggs,10,50.27,5,477.56,Debit/Credit Card,Walk-in
+INV-00854,2026-08-18,2026,August,8,Tuesday,P015,Potato 1kg,Vegetables,8,30.85,0,246.8,Cash,Regular
+INV-00855,2026-08-18,2026,August,8,Tuesday,P029,Cold Drink 750ml,Beverages,3,45.05,0,135.15,UPI,Regular
+INV-00856,2026-08-18,2026,August,8,Tuesday,P024,Toothpaste,Personal Care,2,69.01,0,138.02,UPI,Walk-in
+INV-00857,2026-08-18,2026,August,8,Tuesday,P014,Biscuits Pack,Snacks,1,29.47,10,26.52,Debit/Credit Card,Walk-in
+INV-00858,2026-08-18,2026,August,8,Tuesday,P028,Peanuts 500g,Snacks,2,79.11,2,155.06,UPI,Walk-in
+INV-00859,2026-08-18,2026,August,8,Tuesday,P005,Sugar 1kg,Essentials,4,46.45,0,185.8,Cash,Regular
+INV-00860,2026-08-18,2026,August,8,Tuesday,P004,Moong Dal 1kg,Pulses,2,147.86,0,295.72,Cash,Regular
+INV-00861,2026-08-18,2026,August,8,Tuesday,P007,Sunflower Oil 1L,Oil & Ghee,1,140.34,0,140.34,UPI,Walk-in
+INV-00862,2026-08-18,2026,August,8,Tuesday,P013,Bread,Bakery,1,39.44,5,37.47,Debit/Credit Card,Walk-in
+INV-00863,2026-08-18,2026,August,8,Tuesday,P011,Curd 500g,Dairy,3,38.47,0,115.41,UPI,Regular
+INV-00864,2026-08-19,2026,August,8,Wednesday,P004,Moong Dal 1kg,Pulses,1,149.54,2,146.55,Cash,Walk-in
+INV-00865,2026-08-19,2026,August,8,Wednesday,P026,Chilli Powder 200g,Spices,3,56.28,0,168.84,Cash,Walk-in
+INV-00866,2026-08-19,2026,August,8,Wednesday,P029,Cold Drink 750ml,Beverages,3,44.67,0,134.01,UPI,Regular
+INV-00867,2026-08-19,2026,August,8,Wednesday,P013,Bread,Bakery,4,40.48,5,153.82,Cash,Walk-in
+INV-00868,2026-08-19,2026,August,8,Wednesday,P015,Potato 1kg,Vegetables,2,33.89,0,67.78,Cash,Regular
+INV-00869,2026-08-19,2026,August,8,Wednesday,P022,Detergent 1kg,Home Care,3,110.99,0,332.97,Cash,Walk-in
+INV-00870,2026-08-19,2026,August,8,Wednesday,P021,Shampoo 180ml,Personal Care,1,130.23,10,117.21,Cash,Walk-in
+INV-00871,2026-08-19,2026,August,8,Wednesday,P001,Rice 5kg,Grains,3,313.05,0,939.15,UPI,Walk-in
+INV-00872,2026-08-19,2026,August,8,Wednesday,P017,Tomato 1kg,Vegetables,1,43.94,10,39.55,Cash,Walk-in
+INV-00873,2026-08-19,2026,August,8,Wednesday,P016,Onion 1kg,Vegetables,1,39.91,0,39.91,Cash,Regular
+INV-00874,2026-08-19,2026,August,8,Wednesday,P011,Curd 500g,Dairy,3,38.19,2,112.28,Cash,Walk-in
+INV-00875,2026-08-19,2026,August,8,Wednesday,P011,Curd 500g,Dairy,2,38.04,0,76.08,UPI,Walk-in
+INV-00876,2026-08-19,2026,August,8,Wednesday,P027,Turmeric Powder 200g,Spices,2,47.69,0,95.38,UPI,Regular
+INV-00877,2026-08-19,2026,August,8,Wednesday,P008,Tea 250g,Beverages,2,128.99,0,257.98,Debit/Credit Card,Walk-in
+INV-00878,2026-08-19,2026,August,8,Wednesday,P028,Peanuts 500g,Snacks,1,79.47,0,79.47,Debit/Credit Card,Regular
+INV-00879,2026-08-19,2026,August,8,Wednesday,P006,Salt 1kg,Essentials,1,22.85,10,20.56,UPI,Walk-in
+INV-00880,2026-08-19,2026,August,8,Wednesday,P029,Cold Drink 750ml,Beverages,1,46.18,5,43.87,UPI,Regular
+INV-00881,2026-08-19,2026,August,8,Wednesday,P024,Toothpaste,Personal Care,3,66.29,0,198.87,Cash,Walk-in
+INV-00882,2026-08-19,2026,August,8,Wednesday,P011,Curd 500g,Dairy,1,40.24,0,40.24,UPI,Regular
+INV-00883,2026-08-19,2026,August,8,Wednesday,P024,Toothpaste,Personal Care,2,67.56,0,135.12,Cash,Regular
+INV-00884,2026-08-19,2026,August,8,Wednesday,P015,Potato 1kg,Vegetables,1,32.43,0,32.43,UPI,Regular
+INV-00885,2026-08-19,2026,August,8,Wednesday,P020,Bath Soap,Personal Care,2,37.68,5,71.59,UPI,Walk-in
+INV-00886,2026-08-19,2026,August,8,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,1,149.39,0,149.39,Cash,Walk-in
+INV-00887,2026-08-19,2026,August,8,Wednesday,P015,Potato 1kg,Vegetables,2,31.82,0,63.64,UPI,Regular
+INV-00888,2026-08-19,2026,August,8,Wednesday,P003,Toor Dal 1kg,Pulses,1,165.46,0,165.46,Debit/Credit Card,Regular
+INV-00889,2026-08-19,2026,August,8,Wednesday,P009,Coffee 100g,Beverages,1,110.11,10,99.1,Cash,Walk-in
+INV-00890,2026-08-19,2026,August,8,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,1,142.27,0,142.27,UPI,Walk-in
+INV-00891,2026-08-19,2026,August,8,Wednesday,P020,Bath Soap,Personal Care,6,39.2,5,223.44,Cash,Walk-in
+INV-00892,2026-08-19,2026,August,8,Wednesday,P010,Milk 1L,Dairy,1,60.39,5,57.37,Debit/Credit Card,Walk-in
+INV-00893,2026-08-20,2026,August,8,Thursday,P006,Salt 1kg,Essentials,1,23.28,0,23.28,Cash,Walk-in
+INV-00894,2026-08-20,2026,August,8,Thursday,P027,Turmeric Powder 200g,Spices,4,46.4,0,185.6,Cash,Regular
+INV-00895,2026-08-20,2026,August,8,Thursday,P020,Bath Soap,Personal Care,1,39.19,0,39.19,Cash,Walk-in
+INV-00896,2026-08-20,2026,August,8,Thursday,P025,Instant Noodles,Packaged Food,1,15.4,0,15.4,UPI,Regular
+INV-00897,2026-08-20,2026,August,8,Thursday,P030,Eggs 6 Pack,Dairy & Eggs,4,48.57,0,194.28,Cash,Walk-in
+INV-00898,2026-08-20,2026,August,8,Thursday,P026,Chilli Powder 200g,Spices,1,61.27,0,61.27,UPI,Regular
+INV-00899,2026-08-20,2026,August,8,Thursday,P009,Coffee 100g,Beverages,10,113.14,0,1131.4,UPI,Regular
+INV-00900,2026-08-20,2026,August,8,Thursday,P005,Sugar 1kg,Essentials,1,49.23,0,49.23,Cash,Regular
+INV-00901,2026-08-20,2026,August,8,Thursday,P011,Curd 500g,Dairy,3,37.71,0,113.13,UPI,Regular
+INV-00902,2026-08-20,2026,August,8,Thursday,P012,Butter 100g,Dairy,2,58.01,0,116.02,Cash,Walk-in
+INV-00903,2026-08-20,2026,August,8,Thursday,P002,Wheat Flour 5kg,Grains,3,269.96,0,809.88,UPI,Walk-in
+INV-00904,2026-08-20,2026,August,8,Thursday,P012,Butter 100g,Dairy,1,59.34,2,58.15,Debit/Credit Card,Walk-in
+INV-00905,2026-08-21,2026,August,8,Friday,P007,Sunflower Oil 1L,Oil & Ghee,2,144.64,0,289.28,Cash,Walk-in
+INV-00906,2026-08-21,2026,August,8,Friday,P006,Salt 1kg,Essentials,8,21.13,0,169.04,UPI,Regular
+INV-00907,2026-08-21,2026,August,8,Friday,P012,Butter 100g,Dairy,3,58.65,0,175.95,Cash,Walk-in
+INV-00908,2026-08-21,2026,August,8,Friday,P011,Curd 500g,Dairy,2,39.07,10,70.33,UPI,Walk-in
+INV-00909,2026-08-21,2026,August,8,Friday,P024,Toothpaste,Personal Care,10,69.93,0,699.3,Cash,Walk-in
+INV-00910,2026-08-21,2026,August,8,Friday,P016,Onion 1kg,Vegetables,3,39.68,0,119.04,Cash,Walk-in
+INV-00911,2026-08-21,2026,August,8,Friday,P029,Cold Drink 750ml,Beverages,5,45.31,0,226.55,Cash,Regular
+INV-00912,2026-08-21,2026,August,8,Friday,P005,Sugar 1kg,Essentials,3,49.53,0,148.59,UPI,Walk-in
+INV-00913,2026-08-21,2026,August,8,Friday,P006,Salt 1kg,Essentials,5,21.77,5,103.41,Cash,Regular
+INV-00914,2026-08-21,2026,August,8,Friday,P009,Coffee 100g,Beverages,1,112.57,10,101.31,UPI,Walk-in
+INV-00915,2026-08-21,2026,August,8,Friday,P017,Tomato 1kg,Vegetables,3,40.96,0,122.88,Cash,Walk-in
+INV-00916,2026-08-21,2026,August,8,Friday,P006,Salt 1kg,Essentials,3,22.99,0,68.97,UPI,Walk-in
+INV-00917,2026-08-21,2026,August,8,Friday,P015,Potato 1kg,Vegetables,3,32.4,0,97.2,UPI,Walk-in
+INV-00918,2026-08-22,2026,August,8,Saturday,P015,Potato 1kg,Vegetables,2,31.75,2,62.23,Cash,Walk-in
+INV-00919,2026-08-22,2026,August,8,Saturday,P003,Toor Dal 1kg,Pulses,3,165.03,2,485.19,Cash,Walk-in
+INV-00920,2026-08-22,2026,August,8,Saturday,P023,Dishwash Liquid,Home Care,3,88.62,0,265.86,UPI,Walk-in
+INV-00921,2026-08-22,2026,August,8,Saturday,P011,Curd 500g,Dairy,2,38.04,0,76.08,Cash,Walk-in
+INV-00922,2026-08-22,2026,August,8,Saturday,P027,Turmeric Powder 200g,Spices,10,47.67,0,476.7,Cash,Regular
+INV-00923,2026-08-22,2026,August,8,Saturday,P028,Peanuts 500g,Snacks,4,73.6,0,294.4,UPI,Walk-in
+INV-00924,2026-08-22,2026,August,8,Saturday,P021,Shampoo 180ml,Personal Care,1,123.64,0,123.64,Debit/Credit Card,Walk-in
+INV-00925,2026-08-22,2026,August,8,Saturday,P018,Apples 1kg,Fruits,6,155.4,0,932.4,UPI,Walk-in
+INV-00926,2026-08-22,2026,August,8,Saturday,P006,Salt 1kg,Essentials,6,21.3,0,127.8,UPI,Walk-in
+INV-00927,2026-08-22,2026,August,8,Saturday,P006,Salt 1kg,Essentials,1,23.28,0,23.28,UPI,Walk-in
+INV-00928,2026-08-22,2026,August,8,Saturday,P005,Sugar 1kg,Essentials,2,47.03,0,94.06,UPI,Walk-in
+INV-00929,2026-08-22,2026,August,8,Saturday,P015,Potato 1kg,Vegetables,2,30.98,0,61.96,UPI,Walk-in
+INV-00930,2026-08-22,2026,August,8,Saturday,P029,Cold Drink 750ml,Beverages,10,46.86,0,468.6,Cash,Walk-in
+INV-00931,2026-08-22,2026,August,8,Saturday,P015,Potato 1kg,Vegetables,3,32.72,0,98.16,UPI,Walk-in
+INV-00932,2026-08-22,2026,August,8,Saturday,P020,Bath Soap,Personal Care,1,38.2,10,34.38,UPI,Walk-in
+INV-00933,2026-08-22,2026,August,8,Saturday,P024,Toothpaste,Personal Care,2,71.25,0,142.5,UPI,Walk-in
+INV-00934,2026-08-22,2026,August,8,Saturday,P022,Detergent 1kg,Home Care,3,106.45,0,319.35,Debit/Credit Card,Walk-in
+INV-00935,2026-08-22,2026,August,8,Saturday,P010,Milk 1L,Dairy,5,64.08,0,320.4,UPI,Walk-in
+INV-00936,2026-08-22,2026,August,8,Saturday,P008,Tea 250g,Beverages,1,130.38,0,130.38,UPI,Walk-in
+INV-00937,2026-08-22,2026,August,8,Saturday,P014,Biscuits Pack,Snacks,3,30.96,0,92.88,Cash,Walk-in
+INV-00938,2026-08-22,2026,August,8,Saturday,P030,Eggs 6 Pack,Dairy & Eggs,2,48.57,10,87.43,UPI,Walk-in
+INV-00939,2026-08-22,2026,August,8,Saturday,P027,Turmeric Powder 200g,Spices,2,48.97,0,97.94,Cash,Regular
+INV-00940,2026-08-23,2026,August,8,Sunday,P010,Milk 1L,Dairy,2,62.9,0,125.8,UPI,Walk-in
+INV-00941,2026-08-23,2026,August,8,Sunday,P015,Potato 1kg,Vegetables,1,33.42,0,33.42,UPI,Walk-in
+INV-00942,2026-08-23,2026,August,8,Sunday,P022,Detergent 1kg,Home Care,5,101.38,0,506.9,Cash,Regular
+INV-00943,2026-08-23,2026,August,8,Sunday,P021,Shampoo 180ml,Personal Care,2,125.22,0,250.44,Cash,Regular
+INV-00944,2026-08-23,2026,August,8,Sunday,P019,Banana Dozen,Fruits,10,62.21,0,622.1,UPI,Regular
+INV-00945,2026-08-23,2026,August,8,Sunday,P016,Onion 1kg,Vegetables,2,36.69,0,73.38,Debit/Credit Card,Walk-in
+INV-00946,2026-08-23,2026,August,8,Sunday,P009,Coffee 100g,Beverages,2,114.05,0,228.1,UPI,Regular
+INV-00947,2026-08-23,2026,August,8,Sunday,P016,Onion 1kg,Vegetables,1,40.03,0,40.03,UPI,Regular
+INV-00948,2026-08-23,2026,August,8,Sunday,P006,Salt 1kg,Essentials,2,23.19,2,45.45,Cash,Walk-in
+INV-00949,2026-08-23,2026,August,8,Sunday,P016,Onion 1kg,Vegetables,2,39.98,0,79.96,UPI,Walk-in
+INV-00950,2026-08-23,2026,August,8,Sunday,P015,Potato 1kg,Vegetables,2,32.14,0,64.28,UPI,Walk-in
+INV-00951,2026-08-23,2026,August,8,Sunday,P010,Milk 1L,Dairy,3,61.57,0,184.71,Cash,Walk-in
+INV-00952,2026-08-23,2026,August,8,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,10,146.98,10,1322.82,Cash,Regular
+INV-00953,2026-08-23,2026,August,8,Sunday,P010,Milk 1L,Dairy,2,61.93,0,123.86,Cash,Walk-in
+INV-00954,2026-08-23,2026,August,8,Sunday,P013,Bread,Bakery,5,39.51,10,177.8,Cash,Walk-in
+INV-00955,2026-08-23,2026,August,8,Sunday,P029,Cold Drink 750ml,Beverages,2,47.12,0,94.24,UPI,Regular
+INV-00956,2026-08-23,2026,August,8,Sunday,P030,Eggs 6 Pack,Dairy & Eggs,2,50.85,0,101.7,UPI,Walk-in
+INV-00957,2026-08-23,2026,August,8,Sunday,P016,Onion 1kg,Vegetables,4,38.66,0,154.64,UPI,Walk-in
+INV-00958,2026-08-23,2026,August,8,Sunday,P024,Toothpaste,Personal Care,1,68.91,2,67.53,Cash,Walk-in
+INV-00959,2026-08-23,2026,August,8,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,4,144.32,0,577.28,Debit/Credit Card,Walk-in
+INV-00960,2026-08-23,2026,August,8,Sunday,P011,Curd 500g,Dairy,1,39.2,2,38.42,UPI,Walk-in
+INV-00961,2026-08-23,2026,August,8,Sunday,P012,Butter 100g,Dairy,5,59.45,5,282.39,UPI,Regular
+INV-00962,2026-08-23,2026,August,8,Sunday,P025,Instant Noodles,Packaged Food,1,15.0,0,15.0,Cash,Walk-in
+INV-00963,2026-08-23,2026,August,8,Sunday,P005,Sugar 1kg,Essentials,3,49.53,0,148.59,UPI,Walk-in
+INV-00964,2026-08-24,2026,August,8,Monday,P006,Salt 1kg,Essentials,1,22.89,0,22.89,Cash,Regular
+INV-00965,2026-08-24,2026,August,8,Monday,P029,Cold Drink 750ml,Beverages,1,46.67,0,46.67,Cash,Walk-in
+INV-00966,2026-08-24,2026,August,8,Monday,P030,Eggs 6 Pack,Dairy & Eggs,2,48.61,0,97.22,Debit/Credit Card,Regular
+INV-00967,2026-08-24,2026,August,8,Monday,P011,Curd 500g,Dairy,3,38.99,0,116.97,UPI,Walk-in
+INV-00968,2026-08-24,2026,August,8,Monday,P003,Toor Dal 1kg,Pulses,1,169.26,0,169.26,UPI,Walk-in
+INV-00969,2026-08-24,2026,August,8,Monday,P016,Onion 1kg,Vegetables,2,36.69,0,73.38,UPI,Walk-in
+INV-00970,2026-08-24,2026,August,8,Monday,P012,Butter 100g,Dairy,8,57.31,0,458.48,Cash,Walk-in
+INV-00971,2026-08-24,2026,August,8,Monday,P016,Onion 1kg,Vegetables,6,37.17,10,200.72,Cash,Walk-in
+INV-00972,2026-08-24,2026,August,8,Monday,P027,Turmeric Powder 200g,Spices,3,50.33,0,150.99,UPI,Walk-in
+INV-00973,2026-08-24,2026,August,8,Monday,P026,Chilli Powder 200g,Spices,8,59.81,0,478.48,Debit/Credit Card,Walk-in
+INV-00974,2026-08-24,2026,August,8,Monday,P018,Apples 1kg,Fruits,1,149.57,2,146.58,UPI,Regular
+INV-00975,2026-08-24,2026,August,8,Monday,P027,Turmeric Powder 200g,Spices,10,49.12,2,481.38,UPI,Walk-in
+INV-00976,2026-08-24,2026,August,8,Monday,P001,Rice 5kg,Grains,4,320.43,2,1256.09,UPI,Walk-in
+INV-00977,2026-08-24,2026,August,8,Monday,P009,Coffee 100g,Beverages,4,112.38,2,440.53,UPI,Walk-in
+INV-00978,2026-08-24,2026,August,8,Monday,P027,Turmeric Powder 200g,Spices,3,49.95,0,149.85,Cash,Walk-in
+INV-00979,2026-08-25,2026,August,8,Tuesday,P013,Bread,Bakery,2,39.9,0,79.8,Debit/Credit Card,Walk-in
+INV-00980,2026-08-25,2026,August,8,Tuesday,P024,Toothpaste,Personal Care,1,68.36,0,68.36,Cash,Walk-in
+INV-00981,2026-08-25,2026,August,8,Tuesday,P030,Eggs 6 Pack,Dairy & Eggs,3,47.36,0,142.08,Cash,Walk-in
+INV-00982,2026-08-25,2026,August,8,Tuesday,P016,Onion 1kg,Vegetables,5,39.91,0,199.55,Cash,Regular
+INV-00983,2026-08-25,2026,August,8,Tuesday,P021,Shampoo 180ml,Personal Care,1,122.26,0,122.26,Cash,Regular
+INV-00984,2026-08-25,2026,August,8,Tuesday,P002,Wheat Flour 5kg,Grains,1,273.17,5,259.51,Cash,Walk-in
+INV-00985,2026-08-25,2026,August,8,Tuesday,P016,Onion 1kg,Vegetables,2,39.49,5,75.03,Cash,Walk-in
+INV-00986,2026-08-25,2026,August,8,Tuesday,P012,Butter 100g,Dairy,1,59.74,2,58.55,Cash,Regular
+INV-00987,2026-08-25,2026,August,8,Tuesday,P030,Eggs 6 Pack,Dairy & Eggs,8,47.96,2,376.01,Cash,Regular
+INV-00988,2026-08-25,2026,August,8,Tuesday,P013,Bread,Bakery,3,40.65,5,115.85,Cash,Walk-in
+INV-00989,2026-08-25,2026,August,8,Tuesday,P011,Curd 500g,Dairy,6,38.44,0,230.64,UPI,Regular
+INV-00990,2026-08-25,2026,August,8,Tuesday,P015,Potato 1kg,Vegetables,5,30.76,0,153.8,UPI,Walk-in
+INV-00991,2026-08-25,2026,August,8,Tuesday,P028,Peanuts 500g,Snacks,2,74.0,0,148.0,UPI,Regular
+INV-00992,2026-08-25,2026,August,8,Tuesday,P003,Toor Dal 1kg,Pulses,1,160.74,10,144.67,Debit/Credit Card,Regular
+INV-00993,2026-08-25,2026,August,8,Tuesday,P003,Toor Dal 1kg,Pulses,2,171.75,2,336.63,Cash,Walk-in
+INV-00994,2026-08-25,2026,August,8,Tuesday,P026,Chilli Powder 200g,Spices,8,56.47,5,429.17,Debit/Credit Card,Walk-in
+INV-00995,2026-08-25,2026,August,8,Tuesday,P030,Eggs 6 Pack,Dairy & Eggs,1,46.94,2,46.0,Debit/Credit Card,Regular
+INV-00996,2026-08-25,2026,August,8,Tuesday,P006,Salt 1kg,Essentials,5,21.38,0,106.9,UPI,Regular
+INV-00997,2026-08-25,2026,August,8,Tuesday,P008,Tea 250g,Beverages,1,126.34,0,126.34,Debit/Credit Card,Walk-in
+INV-00998,2026-08-26,2026,August,8,Wednesday,P014,Biscuits Pack,Snacks,8,30.83,0,246.64,Debit/Credit Card,Walk-in
+INV-00999,2026-08-26,2026,August,8,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,4,150.17,0,600.68,UPI,Regular
+INV-01000,2026-08-26,2026,August,8,Wednesday,P014,Biscuits Pack,Snacks,4,28.89,5,109.78,Cash,Regular
+INV-01001,2026-08-26,2026,August,8,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,1,142.27,5,135.16,Cash,Regular
+INV-01002,2026-08-26,2026,August,8,Wednesday,P015,Potato 1kg,Vegetables,2,32.4,0,64.8,Cash,Walk-in
+INV-01003,2026-08-26,2026,August,8,Wednesday,P005,Sugar 1kg,Essentials,2,50.16,0,100.32,Cash,Regular
+INV-01004,2026-08-26,2026,August,8,Wednesday,P011,Curd 500g,Dairy,2,40.26,0,80.52,Cash,Regular
+INV-01005,2026-08-26,2026,August,8,Wednesday,P014,Biscuits Pack,Snacks,2,29.53,0,59.06,Cash,Walk-in
+INV-01006,2026-08-26,2026,August,8,Wednesday,P003,Toor Dal 1kg,Pulses,2,173.29,0,346.58,UPI,Regular
+INV-01007,2026-08-26,2026,August,8,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,2,144.02,0,288.04,UPI,Regular
+INV-01008,2026-08-26,2026,August,8,Wednesday,P023,Dishwash Liquid,Home Care,2,88.91,0,177.82,UPI,Regular
+INV-01009,2026-08-26,2026,August,8,Wednesday,P017,Tomato 1kg,Vegetables,1,42.19,0,42.19,Cash,Regular
+INV-01010,2026-08-26,2026,August,8,Wednesday,P029,Cold Drink 750ml,Beverages,3,45.63,0,136.89,Cash,Walk-in
+INV-01011,2026-08-26,2026,August,8,Wednesday,P013,Bread,Bakery,3,38.86,0,116.58,Cash,Walk-in
+INV-01012,2026-08-26,2026,August,8,Wednesday,P013,Bread,Bakery,4,41.84,0,167.36,UPI,Regular
+INV-01013,2026-08-26,2026,August,8,Wednesday,P011,Curd 500g,Dairy,2,37.19,0,74.38,UPI,Walk-in
+INV-01014,2026-08-26,2026,August,8,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,8,152.82,0,1222.56,Debit/Credit Card,Walk-in
+INV-01015,2026-08-26,2026,August,8,Wednesday,P015,Potato 1kg,Vegetables,8,32.9,0,263.2,UPI,Walk-in
+INV-01016,2026-08-26,2026,August,8,Wednesday,P026,Chilli Powder 200g,Spices,2,61.38,2,120.3,UPI,Walk-in
+INV-01017,2026-08-26,2026,August,8,Wednesday,P029,Cold Drink 750ml,Beverages,1,45.83,2,44.91,UPI,Regular
+INV-01018,2026-08-26,2026,August,8,Wednesday,P003,Toor Dal 1kg,Pulses,2,167.99,0,335.98,UPI,Walk-in
+INV-01019,2026-08-27,2026,August,8,Thursday,P017,Tomato 1kg,Vegetables,2,41.76,0,83.52,Debit/Credit Card,Regular
+INV-01020,2026-08-27,2026,August,8,Thursday,P017,Tomato 1kg,Vegetables,5,42.87,0,214.35,Cash,Walk-in
+INV-01021,2026-08-27,2026,August,8,Thursday,P001,Rice 5kg,Grains,5,337.84,0,1689.2,UPI,Walk-in
+INV-01022,2026-08-27,2026,August,8,Thursday,P022,Detergent 1kg,Home Care,1,102.82,0,102.82,Cash,Walk-in
+INV-01023,2026-08-27,2026,August,8,Thursday,P029,Cold Drink 750ml,Beverages,2,45.88,0,91.76,Cash,Regular
+INV-01024,2026-08-27,2026,August,8,Thursday,P008,Tea 250g,Beverages,2,120.56,5,229.06,Cash,Regular
+INV-01025,2026-08-27,2026,August,8,Thursday,P030,Eggs 6 Pack,Dairy & Eggs,1,49.42,5,46.95,UPI,Regular
+INV-01026,2026-08-27,2026,August,8,Thursday,P012,Butter 100g,Dairy,3,58.17,0,174.51,UPI,Walk-in
+INV-01027,2026-08-27,2026,August,8,Thursday,P006,Salt 1kg,Essentials,4,21.87,0,87.48,Cash,Walk-in
+INV-01028,2026-08-27,2026,August,8,Thursday,P023,Dishwash Liquid,Home Care,1,85.48,0,85.48,Cash,Walk-in
+INV-01029,2026-08-27,2026,August,8,Thursday,P005,Sugar 1kg,Essentials,4,46.93,0,187.72,Cash,Walk-in
+INV-01030,2026-08-27,2026,August,8,Thursday,P015,Potato 1kg,Vegetables,1,32.18,0,32.18,UPI,Walk-in
+INV-01031,2026-08-27,2026,August,8,Thursday,P004,Moong Dal 1kg,Pulses,2,144.92,0,289.84,Cash,Regular
+INV-01032,2026-08-27,2026,August,8,Thursday,P006,Salt 1kg,Essentials,2,23.23,5,44.14,Cash,Walk-in
+INV-01033,2026-08-28,2026,August,8,Friday,P002,Wheat Flour 5kg,Grains,2,273.54,0,547.08,UPI,Walk-in
+INV-01034,2026-08-28,2026,August,8,Friday,P019,Banana Dozen,Fruits,5,63.23,0,316.15,UPI,Regular
+INV-01035,2026-08-28,2026,August,8,Friday,P024,Toothpaste,Personal Care,1,66.89,0,66.89,Cash,Walk-in
+INV-01036,2026-08-28,2026,August,8,Friday,P013,Bread,Bakery,3,41.34,0,124.02,Cash,Walk-in
+INV-01037,2026-08-28,2026,August,8,Friday,P005,Sugar 1kg,Essentials,1,48.55,5,46.12,Debit/Credit Card,Walk-in
+INV-01038,2026-08-28,2026,August,8,Friday,P015,Potato 1kg,Vegetables,10,30.98,5,294.31,Debit/Credit Card,Walk-in
+INV-01039,2026-08-28,2026,August,8,Friday,P011,Curd 500g,Dairy,1,38.61,2,37.84,UPI,Regular
+INV-01040,2026-08-28,2026,August,8,Friday,P008,Tea 250g,Beverages,2,132.14,0,264.28,UPI,Walk-in
+INV-01041,2026-08-28,2026,August,8,Friday,P017,Tomato 1kg,Vegetables,6,44.18,0,265.08,Debit/Credit Card,Walk-in
+INV-01042,2026-08-28,2026,August,8,Friday,P029,Cold Drink 750ml,Beverages,2,44.47,0,88.94,UPI,Regular
+INV-01043,2026-08-28,2026,August,8,Friday,P025,Instant Noodles,Packaged Food,2,14.64,5,27.82,UPI,Walk-in
+INV-01044,2026-08-28,2026,August,8,Friday,P009,Coffee 100g,Beverages,2,113.35,0,226.7,Cash,Walk-in
+INV-01045,2026-08-28,2026,August,8,Friday,P025,Instant Noodles,Packaged Food,5,15.09,0,75.45,UPI,Walk-in
+INV-01046,2026-08-28,2026,August,8,Friday,P006,Salt 1kg,Essentials,3,21.46,0,64.38,Debit/Credit Card,Walk-in
+INV-01047,2026-08-28,2026,August,8,Friday,P014,Biscuits Pack,Snacks,2,31.04,0,62.08,Cash,Walk-in
+INV-01048,2026-08-28,2026,August,8,Friday,P001,Rice 5kg,Grains,8,311.37,5,2366.41,Debit/Credit Card,Walk-in
+INV-01049,2026-08-28,2026,August,8,Friday,P004,Moong Dal 1kg,Pulses,6,153.57,0,921.42,Cash,Walk-in
+INV-01050,2026-08-28,2026,August,8,Friday,P024,Toothpaste,Personal Care,5,68.34,0,341.7,UPI,Walk-in
+INV-01051,2026-08-28,2026,August,8,Friday,P019,Banana Dozen,Fruits,2,61.05,0,122.1,UPI,Walk-in
+INV-01052,2026-08-28,2026,August,8,Friday,P017,Tomato 1kg,Vegetables,4,42.72,0,170.88,UPI,Walk-in
+INV-01053,2026-08-28,2026,August,8,Friday,P015,Potato 1kg,Vegetables,3,33.77,10,91.18,UPI,Walk-in
+INV-01054,2026-08-28,2026,August,8,Friday,P006,Salt 1kg,Essentials,2,23.08,0,46.16,Debit/Credit Card,Walk-in
+INV-01055,2026-08-28,2026,August,8,Friday,P018,Apples 1kg,Fruits,5,149.72,5,711.17,Cash,Regular
+INV-01056,2026-08-29,2026,August,8,Saturday,P015,Potato 1kg,Vegetables,3,32.0,0,96.0,UPI,Walk-in
+INV-01057,2026-08-29,2026,August,8,Saturday,P030,Eggs 6 Pack,Dairy & Eggs,4,49.11,10,176.8,UPI,Walk-in
+INV-01058,2026-08-29,2026,August,8,Saturday,P002,Wheat Flour 5kg,Grains,2,260.22,0,520.44,UPI,Walk-in
+INV-01059,2026-08-29,2026,August,8,Saturday,P007,Sunflower Oil 1L,Oil & Ghee,1,141.33,10,127.2,Cash,Walk-in
+INV-01060,2026-08-29,2026,August,8,Saturday,P027,Turmeric Powder 200g,Spices,4,46.37,0,185.48,UPI,Regular
+INV-01061,2026-08-29,2026,August,8,Saturday,P012,Butter 100g,Dairy,2,57.12,5,108.53,Cash,Regular
+INV-01062,2026-08-29,2026,August,8,Saturday,P001,Rice 5kg,Grains,2,316.56,0,633.12,UPI,Walk-in
+INV-01063,2026-08-29,2026,August,8,Saturday,P003,Toor Dal 1kg,Pulses,4,161.52,0,646.08,UPI,Walk-in
+INV-01064,2026-08-29,2026,August,8,Saturday,P012,Butter 100g,Dairy,1,59.35,0,59.35,Debit/Credit Card,Regular
+INV-01065,2026-08-29,2026,August,8,Saturday,P014,Biscuits Pack,Snacks,1,31.04,0,31.04,UPI,Walk-in
+INV-01066,2026-08-29,2026,August,8,Saturday,P006,Salt 1kg,Essentials,4,21.5,0,86.0,UPI,Walk-in
+INV-01067,2026-08-29,2026,August,8,Saturday,P022,Detergent 1kg,Home Care,1,108.51,2,106.34,Cash,Walk-in
+INV-01068,2026-08-29,2026,August,8,Saturday,P008,Tea 250g,Beverages,4,126.96,0,507.84,UPI,Regular
+INV-01069,2026-08-29,2026,August,8,Saturday,P020,Bath Soap,Personal Care,5,39.63,0,198.15,Cash,Walk-in
+INV-01070,2026-08-29,2026,August,8,Saturday,P030,Eggs 6 Pack,Dairy & Eggs,2,48.58,0,97.16,Debit/Credit Card,Walk-in
+INV-01071,2026-08-29,2026,August,8,Saturday,P008,Tea 250g,Beverages,4,125.98,0,503.92,Cash,Walk-in
+INV-01072,2026-08-29,2026,August,8,Saturday,P028,Peanuts 500g,Snacks,5,79.09,5,375.68,UPI,Walk-in
+INV-01073,2026-08-29,2026,August,8,Saturday,P011,Curd 500g,Dairy,1,37.41,0,37.41,UPI,Walk-in
+INV-01074,2026-08-29,2026,August,8,Saturday,P004,Moong Dal 1kg,Pulses,6,147.55,0,885.3,Cash,Walk-in
+INV-01075,2026-08-29,2026,August,8,Saturday,P003,Toor Dal 1kg,Pulses,4,166.77,2,653.74,Debit/Credit Card,Walk-in
+INV-01076,2026-08-29,2026,August,8,Saturday,P017,Tomato 1kg,Vegetables,3,41.76,2,122.77,UPI,Regular
+INV-01077,2026-08-29,2026,August,8,Saturday,P030,Eggs 6 Pack,Dairy & Eggs,1,47.55,0,47.55,Cash,Regular
+INV-01078,2026-08-29,2026,August,8,Saturday,P021,Shampoo 180ml,Personal Care,1,131.04,0,131.04,UPI,Walk-in
+INV-01079,2026-08-29,2026,August,8,Saturday,P010,Milk 1L,Dairy,5,59.95,0,299.75,Debit/Credit Card,Walk-in
+INV-01080,2026-08-29,2026,August,8,Saturday,P014,Biscuits Pack,Snacks,2,31.04,0,62.08,Cash,Walk-in
+INV-01081,2026-08-29,2026,August,8,Saturday,P008,Tea 250g,Beverages,4,124.0,0,496.0,UPI,Walk-in
+INV-01082,2026-08-30,2026,August,8,Sunday,P001,Rice 5kg,Grains,2,314.96,0,629.92,UPI,Walk-in
+INV-01083,2026-08-30,2026,August,8,Sunday,P025,Instant Noodles,Packaged Food,1,14.64,0,14.64,UPI,Regular
+INV-01084,2026-08-30,2026,August,8,Sunday,P023,Dishwash Liquid,Home Care,1,88.91,0,88.91,UPI,Regular
+INV-01085,2026-08-30,2026,August,8,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,8,142.86,0,1142.88,Cash,Regular
+INV-01086,2026-08-30,2026,August,8,Sunday,P011,Curd 500g,Dairy,1,40.14,0,40.14,UPI,Walk-in
+INV-01087,2026-08-30,2026,August,8,Sunday,P016,Onion 1kg,Vegetables,5,39.63,0,198.15,Cash,Walk-in
+INV-01088,2026-08-30,2026,August,8,Sunday,P006,Salt 1kg,Essentials,5,21.3,5,101.18,UPI,Regular
+INV-01089,2026-08-30,2026,August,8,Sunday,P006,Salt 1kg,Essentials,1,22.42,0,22.42,Debit/Credit Card,Walk-in
+INV-01090,2026-08-30,2026,August,8,Sunday,P014,Biscuits Pack,Snacks,3,28.87,0,86.61,Debit/Credit Card,Walk-in
+INV-01091,2026-08-30,2026,August,8,Sunday,P002,Wheat Flour 5kg,Grains,2,262.3,0,524.6,UPI,Walk-in
+INV-01092,2026-08-30,2026,August,8,Sunday,P026,Chilli Powder 200g,Spices,3,58.39,0,175.17,Cash,Walk-in
+INV-01093,2026-08-30,2026,August,8,Sunday,P023,Dishwash Liquid,Home Care,1,82.1,5,77.99,Cash,Walk-in
+INV-01094,2026-08-30,2026,August,8,Sunday,P013,Bread,Bakery,1,39.77,2,38.97,UPI,Walk-in
+INV-01095,2026-08-30,2026,August,8,Sunday,P022,Detergent 1kg,Home Care,3,107.09,0,321.27,Debit/Credit Card,Walk-in
+INV-01096,2026-08-30,2026,August,8,Sunday,P008,Tea 250g,Beverages,4,124.24,10,447.26,UPI,Walk-in
+INV-01097,2026-08-30,2026,August,8,Sunday,P017,Tomato 1kg,Vegetables,2,41.71,2,81.75,Debit/Credit Card,Walk-in
+INV-01098,2026-08-30,2026,August,8,Sunday,P016,Onion 1kg,Vegetables,1,38.16,0,38.16,UPI,Walk-in
+INV-01099,2026-08-30,2026,August,8,Sunday,P010,Milk 1L,Dairy,1,60.51,0,60.51,UPI,Walk-in
+INV-01100,2026-08-31,2026,August,8,Monday,P001,Rice 5kg,Grains,4,329.34,0,1317.36,UPI,Walk-in
+INV-01101,2026-08-31,2026,August,8,Monday,P010,Milk 1L,Dairy,1,60.46,0,60.46,Cash,Walk-in
+INV-01102,2026-08-31,2026,August,8,Monday,P021,Shampoo 180ml,Personal Care,2,126.99,0,253.98,UPI,Walk-in
+INV-01103,2026-08-31,2026,August,8,Monday,P015,Potato 1kg,Vegetables,2,32.35,0,64.7,Cash,Walk-in
+INV-01104,2026-08-31,2026,August,8,Monday,P011,Curd 500g,Dairy,3,39.07,0,117.21,UPI,Walk-in
+INV-01105,2026-08-31,2026,August,8,Monday,P014,Biscuits Pack,Snacks,1,31.7,5,30.12,UPI,Regular
+INV-01106,2026-08-31,2026,August,8,Monday,P003,Toor Dal 1kg,Pulses,4,171.57,0,686.28,Debit/Credit Card,Walk-in
+INV-01107,2026-08-31,2026,August,8,Monday,P030,Eggs 6 Pack,Dairy & Eggs,2,48.81,0,97.62,UPI,Walk-in
+INV-01108,2026-08-31,2026,August,8,Monday,P023,Dishwash Liquid,Home Care,1,89.87,0,89.87,UPI,Walk-in
+INV-01109,2026-08-31,2026,August,8,Monday,P004,Moong Dal 1kg,Pulses,2,148.86,0,297.72,UPI,Walk-in
+INV-01110,2026-08-31,2026,August,8,Monday,P001,Rice 5kg,Grains,2,316.56,0,633.12,Cash,Walk-in
+INV-01111,2026-08-31,2026,August,8,Monday,P015,Potato 1kg,Vegetables,2,31.09,0,62.18,Cash,Walk-in
+INV-01112,2026-08-31,2026,August,8,Monday,P009,Coffee 100g,Beverages,4,110.48,0,441.92,Cash,Walk-in
+INV-01113,2026-08-31,2026,August,8,Monday,P025,Instant Noodles,Packaged Food,2,15.05,5,28.6,Cash,Regular
+INV-01114,2026-08-31,2026,August,8,Monday,P010,Milk 1L,Dairy,1,60.92,0,60.92,Debit/Credit Card,Walk-in
+INV-01115,2026-08-31,2026,August,8,Monday,P001,Rice 5kg,Grains,3,335.04,5,954.86,Cash,Walk-in
+INV-01116,2026-08-31,2026,August,8,Monday,P012,Butter 100g,Dairy,1,58.83,2,57.65,Debit/Credit Card,Walk-in
+INV-01117,2026-08-31,2026,August,8,Monday,P019,Banana Dozen,Fruits,5,61.56,0,307.8,Debit/Credit Card,Walk-in
+INV-01118,2026-08-31,2026,August,8,Monday,P001,Rice 5kg,Grains,1,312.85,0,312.85,Debit/Credit Card,Regular
+INV-01119,2026-08-31,2026,August,8,Monday,P005,Sugar 1kg,Essentials,3,48.42,0,145.26,UPI,Walk-in
+INV-01120,2026-08-31,2026,August,8,Monday,P006,Salt 1kg,Essentials,1,22.13,0,22.13,UPI,Walk-in
+INV-01121,2026-08-31,2026,August,8,Monday,P003,Toor Dal 1kg,Pulses,4,168.67,0,674.68,Cash,Walk-in
+INV-01122,2026-08-31,2026,August,8,Monday,P019,Banana Dozen,Fruits,3,63.4,0,190.2,UPI,Walk-in
+INV-01123,2026-09-01,2026,September,9,Tuesday,P016,Onion 1kg,Vegetables,2,36.81,0,73.62,Cash,Regular
+INV-01124,2026-09-01,2026,September,9,Tuesday,P003,Toor Dal 1kg,Pulses,1,169.18,0,169.18,Debit/Credit Card,Regular
+INV-01125,2026-09-01,2026,September,9,Tuesday,P006,Salt 1kg,Essentials,1,21.65,0,21.65,Cash,Walk-in
+INV-01126,2026-09-01,2026,September,9,Tuesday,P025,Instant Noodles,Packaged Food,1,14.93,0,14.93,Cash,Regular
+INV-01127,2026-09-01,2026,September,9,Tuesday,P004,Moong Dal 1kg,Pulses,6,140.7,0,844.2,Cash,Walk-in
+INV-01128,2026-09-01,2026,September,9,Tuesday,P020,Bath Soap,Personal Care,1,37.13,10,33.42,Cash,Walk-in
+INV-01129,2026-09-01,2026,September,9,Tuesday,P015,Potato 1kg,Vegetables,2,33.89,0,67.78,UPI,Walk-in
+INV-01130,2026-09-01,2026,September,9,Tuesday,P006,Salt 1kg,Essentials,4,22.89,0,91.56,Cash,Walk-in
+INV-01131,2026-09-01,2026,September,9,Tuesday,P022,Detergent 1kg,Home Care,5,106.09,0,530.45,UPI,Walk-in
+INV-01132,2026-09-01,2026,September,9,Tuesday,P003,Toor Dal 1kg,Pulses,1,165.26,0,165.26,UPI,Walk-in
+INV-01133,2026-09-01,2026,September,9,Tuesday,P010,Milk 1L,Dairy,1,61.89,0,61.89,UPI,Regular
+INV-01134,2026-09-01,2026,September,9,Tuesday,P005,Sugar 1kg,Essentials,1,49.56,0,49.56,UPI,Regular
+INV-01135,2026-09-01,2026,September,9,Tuesday,P013,Bread,Bakery,2,39.41,0,78.82,Cash,Walk-in
+INV-01136,2026-09-01,2026,September,9,Tuesday,P001,Rice 5kg,Grains,4,324.59,0,1298.36,Cash,Regular
+INV-01137,2026-09-01,2026,September,9,Tuesday,P029,Cold Drink 750ml,Beverages,2,45.04,0,90.08,UPI,Walk-in
+INV-01138,2026-09-01,2026,September,9,Tuesday,P005,Sugar 1kg,Essentials,5,49.97,0,249.85,UPI,Walk-in
+INV-01139,2026-09-01,2026,September,9,Tuesday,P027,Turmeric Powder 200g,Spices,2,50.33,0,100.66,Debit/Credit Card,Walk-in
+INV-01140,2026-09-01,2026,September,9,Tuesday,P002,Wheat Flour 5kg,Grains,1,255.5,0,255.5,UPI,Regular
+INV-01141,2026-09-01,2026,September,9,Tuesday,P001,Rice 5kg,Grains,2,314.15,2,615.73,Cash,Walk-in
+INV-01142,2026-09-02,2026,September,9,Wednesday,P009,Coffee 100g,Beverages,3,105.89,0,317.67,UPI,Walk-in
+INV-01143,2026-09-02,2026,September,9,Wednesday,P025,Instant Noodles,Packaged Food,5,15.34,0,76.7,Cash,Walk-in
+INV-01144,2026-09-02,2026,September,9,Wednesday,P008,Tea 250g,Beverages,1,125.52,0,125.52,Cash,Walk-in
+INV-01145,2026-09-02,2026,September,9,Wednesday,P015,Potato 1kg,Vegetables,1,30.97,10,27.87,UPI,Walk-in
+INV-01146,2026-09-02,2026,September,9,Wednesday,P030,Eggs 6 Pack,Dairy & Eggs,2,46.16,10,83.09,Cash,Regular
+INV-01147,2026-09-02,2026,September,9,Wednesday,P006,Salt 1kg,Essentials,2,22.64,0,45.28,UPI,Walk-in
+INV-01148,2026-09-02,2026,September,9,Wednesday,P019,Banana Dozen,Fruits,5,60.82,0,304.1,UPI,Walk-in
+INV-01149,2026-09-02,2026,September,9,Wednesday,P013,Bread,Bakery,1,39.44,2,38.65,Cash,Walk-in
+INV-01150,2026-09-02,2026,September,9,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,1,152.34,0,152.34,Cash,Regular
+INV-01151,2026-09-02,2026,September,9,Wednesday,P015,Potato 1kg,Vegetables,1,30.92,0,30.92,UPI,Walk-in
+INV-01152,2026-09-02,2026,September,9,Wednesday,P004,Moong Dal 1kg,Pulses,3,140.31,5,399.88,Cash,Regular
+INV-01153,2026-09-02,2026,September,9,Wednesday,P030,Eggs 6 Pack,Dairy & Eggs,1,48.58,0,48.58,Cash,Regular
+INV-01154,2026-09-02,2026,September,9,Wednesday,P016,Onion 1kg,Vegetables,2,38.53,2,75.52,Debit/Credit Card,Walk-in
+INV-01155,2026-09-02,2026,September,9,Wednesday,P003,Toor Dal 1kg,Pulses,1,169.61,0,169.61,UPI,Walk-in
+INV-01156,2026-09-02,2026,September,9,Wednesday,P026,Chilli Powder 200g,Spices,1,61.43,0,61.43,UPI,Walk-in
+INV-01157,2026-09-02,2026,September,9,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,2,144.82,0,289.64,Cash,Regular
+INV-01158,2026-09-02,2026,September,9,Wednesday,P002,Wheat Flour 5kg,Grains,1,263.66,0,263.66,UPI,Walk-in
+INV-01159,2026-09-02,2026,September,9,Wednesday,P013,Bread,Bakery,2,40.32,0,80.64,UPI,Walk-in
+INV-01160,2026-09-02,2026,September,9,Wednesday,P028,Peanuts 500g,Snacks,1,76.81,0,76.81,UPI,Regular
+INV-01161,2026-09-02,2026,September,9,Wednesday,P017,Tomato 1kg,Vegetables,5,40.4,0,202.0,Cash,Walk-in
+INV-01162,2026-09-02,2026,September,9,Wednesday,P026,Chilli Powder 200g,Spices,5,58.17,0,290.85,UPI,Regular
+INV-01163,2026-09-03,2026,September,9,Thursday,P019,Banana Dozen,Fruits,4,61.38,5,233.24,Cash,Walk-in
+INV-01164,2026-09-03,2026,September,9,Thursday,P017,Tomato 1kg,Vegetables,2,41.63,0,83.26,UPI,Regular
+INV-01165,2026-09-03,2026,September,9,Thursday,P015,Potato 1kg,Vegetables,6,31.85,2,187.28,UPI,Walk-in
+INV-01166,2026-09-03,2026,September,9,Thursday,P010,Milk 1L,Dairy,2,62.19,0,124.38,Cash,Regular
+INV-01167,2026-09-03,2026,September,9,Thursday,P024,Toothpaste,Personal Care,1,68.54,0,68.54,Cash,Walk-in
+INV-01168,2026-09-03,2026,September,9,Thursday,P005,Sugar 1kg,Essentials,2,50.15,2,98.29,UPI,Walk-in
+INV-01169,2026-09-03,2026,September,9,Thursday,P001,Rice 5kg,Grains,3,327.35,0,982.05,Debit/Credit Card,Regular
+INV-01170,2026-09-03,2026,September,9,Thursday,P030,Eggs 6 Pack,Dairy & Eggs,1,48.57,0,48.57,Cash,Walk-in
+INV-01171,2026-09-03,2026,September,9,Thursday,P022,Detergent 1kg,Home Care,3,103.52,0,310.56,UPI,Regular
+INV-01172,2026-09-03,2026,September,9,Thursday,P013,Bread,Bakery,2,40.7,0,81.4,Cash,Regular
+INV-01173,2026-09-03,2026,September,9,Thursday,P019,Banana Dozen,Fruits,5,58.37,5,277.26,Cash,Regular
+INV-01174,2026-09-03,2026,September,9,Thursday,P015,Potato 1kg,Vegetables,1,33.61,0,33.61,Cash,Walk-in
+INV-01175,2026-09-03,2026,September,9,Thursday,P023,Dishwash Liquid,Home Care,1,86.67,0,86.67,Cash,Walk-in
+INV-01176,2026-09-03,2026,September,9,Thursday,P016,Onion 1kg,Vegetables,1,39.92,0,39.92,UPI,Walk-in
+INV-01177,2026-09-03,2026,September,9,Thursday,P013,Bread,Bakery,2,41.57,0,83.14,UPI,Walk-in
+INV-01178,2026-09-03,2026,September,9,Thursday,P001,Rice 5kg,Grains,6,319.1,2,1876.31,UPI,Walk-in
+INV-01179,2026-09-03,2026,September,9,Thursday,P001,Rice 5kg,Grains,4,332.11,0,1328.44,UPI,Regular
+INV-01180,2026-09-03,2026,September,9,Thursday,P018,Apples 1kg,Fruits,3,157.82,0,473.46,UPI,Walk-in
+INV-01181,2026-09-03,2026,September,9,Thursday,P022,Detergent 1kg,Home Care,2,107.35,0,214.7,Cash,Walk-in
+INV-01182,2026-09-03,2026,September,9,Thursday,P029,Cold Drink 750ml,Beverages,1,44.23,0,44.23,Cash,Walk-in
+INV-01183,2026-09-03,2026,September,9,Thursday,P007,Sunflower Oil 1L,Oil & Ghee,4,144.46,0,577.84,Cash,Walk-in
+INV-01184,2026-09-03,2026,September,9,Thursday,P022,Detergent 1kg,Home Care,2,107.28,0,214.56,UPI,Regular
+INV-01185,2026-09-03,2026,September,9,Thursday,P006,Salt 1kg,Essentials,2,22.0,0,44.0,UPI,Regular
+INV-01186,2026-09-04,2026,September,9,Friday,P003,Toor Dal 1kg,Pulses,8,161.63,0,1293.04,Cash,Regular
+INV-01187,2026-09-04,2026,September,9,Friday,P002,Wheat Flour 5kg,Grains,3,269.3,2,791.74,Debit/Credit Card,Walk-in
+INV-01188,2026-09-04,2026,September,9,Friday,P029,Cold Drink 750ml,Beverages,2,43.64,5,82.92,UPI,Regular
+INV-01189,2026-09-04,2026,September,9,Friday,P021,Shampoo 180ml,Personal Care,6,121.95,0,731.7,UPI,Walk-in
+INV-01190,2026-09-04,2026,September,9,Friday,P025,Instant Noodles,Packaged Food,6,14.7,0,88.2,Cash,Regular
+INV-01191,2026-09-04,2026,September,9,Friday,P028,Peanuts 500g,Snacks,8,79.47,0,635.76,Cash,Regular
+INV-01192,2026-09-04,2026,September,9,Friday,P023,Dishwash Liquid,Home Care,1,82.1,0,82.1,Cash,Walk-in
+INV-01193,2026-09-04,2026,September,9,Friday,P001,Rice 5kg,Grains,1,324.13,0,324.13,Debit/Credit Card,Regular
+INV-01194,2026-09-04,2026,September,9,Friday,P025,Instant Noodles,Packaged Food,5,15.04,2,73.7,UPI,Walk-in
+INV-01195,2026-09-04,2026,September,9,Friday,P005,Sugar 1kg,Essentials,4,48.28,0,193.12,Debit/Credit Card,Regular
+INV-01196,2026-09-04,2026,September,9,Friday,P023,Dishwash Liquid,Home Care,1,87.99,0,87.99,Cash,Walk-in
+INV-01197,2026-09-05,2026,September,9,Saturday,P023,Dishwash Liquid,Home Care,3,83.01,0,249.03,Cash,Regular
+INV-01198,2026-09-05,2026,September,9,Saturday,P002,Wheat Flour 5kg,Grains,5,272.19,0,1360.95,UPI,Walk-in
+INV-01199,2026-09-05,2026,September,9,Saturday,P008,Tea 250g,Beverages,1,126.29,0,126.29,UPI,Walk-in
+INV-01200,2026-09-05,2026,September,9,Saturday,P002,Wheat Flour 5kg,Grains,4,263.57,0,1054.28,UPI,Walk-in
+INV-01201,2026-09-05,2026,September,9,Saturday,P010,Milk 1L,Dairy,1,60.92,0,60.92,Cash,Walk-in
+INV-01202,2026-09-05,2026,September,9,Saturday,P001,Rice 5kg,Grains,1,309.81,0,309.81,Cash,Regular
+INV-01203,2026-09-05,2026,September,9,Saturday,P010,Milk 1L,Dairy,1,60.21,0,60.21,Cash,Walk-in
+INV-01204,2026-09-05,2026,September,9,Saturday,P024,Toothpaste,Personal Care,5,69.14,2,338.79,Debit/Credit Card,Regular
+INV-01205,2026-09-05,2026,September,9,Saturday,P001,Rice 5kg,Grains,5,332.35,2,1628.52,Cash,Regular
+INV-01206,2026-09-05,2026,September,9,Saturday,P006,Salt 1kg,Essentials,8,21.17,10,152.42,Debit/Credit Card,Walk-in
+INV-01207,2026-09-05,2026,September,9,Saturday,P001,Rice 5kg,Grains,1,318.9,10,287.01,Cash,Regular
+INV-01208,2026-09-05,2026,September,9,Saturday,P013,Bread,Bakery,3,41.48,2,121.95,Cash,Walk-in
+INV-01209,2026-09-05,2026,September,9,Saturday,P004,Moong Dal 1kg,Pulses,3,150.49,2,442.44,UPI,Walk-in
+INV-01210,2026-09-05,2026,September,9,Saturday,P002,Wheat Flour 5kg,Grains,1,264.32,0,264.32,UPI,Regular
+INV-01211,2026-09-05,2026,September,9,Saturday,P027,Turmeric Powder 200g,Spices,5,48.22,0,241.1,Cash,Regular
+INV-01212,2026-09-05,2026,September,9,Saturday,P012,Butter 100g,Dairy,2,57.26,10,103.07,UPI,Walk-in
+INV-01213,2026-09-05,2026,September,9,Saturday,P029,Cold Drink 750ml,Beverages,8,47.08,2,369.11,UPI,Walk-in
+INV-01214,2026-09-05,2026,September,9,Saturday,P017,Tomato 1kg,Vegetables,5,43.94,5,208.71,Debit/Credit Card,Regular
+INV-01215,2026-09-06,2026,September,9,Sunday,P029,Cold Drink 750ml,Beverages,1,43.26,5,41.1,Debit/Credit Card,Walk-in
+INV-01216,2026-09-06,2026,September,9,Sunday,P024,Toothpaste,Personal Care,6,69.82,0,418.92,Cash,Regular
+INV-01217,2026-09-06,2026,September,9,Sunday,P019,Banana Dozen,Fruits,6,59.6,0,357.6,UPI,Walk-in
+INV-01218,2026-09-06,2026,September,9,Sunday,P014,Biscuits Pack,Snacks,2,30.75,5,58.42,UPI,Walk-in
+INV-01219,2026-09-06,2026,September,9,Sunday,P018,Apples 1kg,Fruits,3,150.44,0,451.32,UPI,Regular
+INV-01220,2026-09-06,2026,September,9,Sunday,P008,Tea 250g,Beverages,1,126.83,0,126.83,Debit/Credit Card,Walk-in
+INV-01221,2026-09-06,2026,September,9,Sunday,P002,Wheat Flour 5kg,Grains,1,259.28,0,259.28,UPI,Regular
+INV-01222,2026-09-06,2026,September,9,Sunday,P026,Chilli Powder 200g,Spices,2,55.96,0,111.92,UPI,Walk-in
+INV-01223,2026-09-06,2026,September,9,Sunday,P015,Potato 1kg,Vegetables,10,30.98,0,309.8,UPI,Walk-in
+INV-01224,2026-09-06,2026,September,9,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,1,153.34,0,153.34,UPI,Walk-in
+INV-01225,2026-09-06,2026,September,9,Sunday,P019,Banana Dozen,Fruits,3,59.25,2,174.2,Cash,Regular
+INV-01226,2026-09-06,2026,September,9,Sunday,P011,Curd 500g,Dairy,2,39.66,0,79.32,UPI,Walk-in
+INV-01227,2026-09-06,2026,September,9,Sunday,P016,Onion 1kg,Vegetables,1,39.18,2,38.4,Cash,Walk-in
+INV-01228,2026-09-06,2026,September,9,Sunday,P013,Bread,Bakery,3,39.8,0,119.4,UPI,Walk-in
+INV-01229,2026-09-06,2026,September,9,Sunday,P023,Dishwash Liquid,Home Care,3,82.08,0,246.24,Debit/Credit Card,Walk-in
+INV-01230,2026-09-06,2026,September,9,Sunday,P006,Salt 1kg,Essentials,1,22.64,0,22.64,UPI,Walk-in
+INV-01231,2026-09-06,2026,September,9,Sunday,P004,Moong Dal 1kg,Pulses,6,147.31,0,883.86,UPI,Walk-in
+INV-01232,2026-09-06,2026,September,9,Sunday,P004,Moong Dal 1kg,Pulses,1,150.18,2,147.18,Cash,Walk-in
+INV-01233,2026-09-06,2026,September,9,Sunday,P024,Toothpaste,Personal Care,5,67.26,0,336.3,Cash,Regular
+INV-01234,2026-09-06,2026,September,9,Sunday,P011,Curd 500g,Dairy,1,36.94,0,36.94,UPI,Walk-in
+INV-01235,2026-09-06,2026,September,9,Sunday,P024,Toothpaste,Personal Care,4,68.47,10,246.49,UPI,Regular
+INV-01236,2026-09-06,2026,September,9,Sunday,P002,Wheat Flour 5kg,Grains,2,260.45,0,520.9,Debit/Credit Card,Walk-in
+INV-01237,2026-09-06,2026,September,9,Sunday,P008,Tea 250g,Beverages,1,130.35,10,117.32,UPI,Walk-in
+INV-01238,2026-09-06,2026,September,9,Sunday,P006,Salt 1kg,Essentials,3,21.65,0,64.95,Debit/Credit Card,Walk-in
+INV-01239,2026-09-06,2026,September,9,Sunday,P014,Biscuits Pack,Snacks,6,29.21,2,171.75,UPI,Regular
+INV-01240,2026-09-06,2026,September,9,Sunday,P017,Tomato 1kg,Vegetables,4,43.92,0,175.68,UPI,Regular
+INV-01241,2026-09-07,2026,September,9,Monday,P027,Turmeric Powder 200g,Spices,3,50.45,0,151.35,Cash,Walk-in
+INV-01242,2026-09-07,2026,September,9,Monday,P021,Shampoo 180ml,Personal Care,4,125.76,0,503.04,UPI,Walk-in
+INV-01243,2026-09-07,2026,September,9,Monday,P028,Peanuts 500g,Snacks,2,77.36,0,154.72,Cash,Walk-in
+INV-01244,2026-09-07,2026,September,9,Monday,P013,Bread,Bakery,1,39.51,0,39.51,Cash,Regular
+INV-01245,2026-09-07,2026,September,9,Monday,P017,Tomato 1kg,Vegetables,10,44.17,0,441.7,UPI,Walk-in
+INV-01246,2026-09-07,2026,September,9,Monday,P017,Tomato 1kg,Vegetables,5,43.06,0,215.3,UPI,Walk-in
+INV-01247,2026-09-07,2026,September,9,Monday,P018,Apples 1kg,Fruits,1,151.02,0,151.02,Cash,Regular
+INV-01248,2026-09-07,2026,September,9,Monday,P016,Onion 1kg,Vegetables,1,39.98,0,39.98,Cash,Regular
+INV-01249,2026-09-07,2026,September,9,Monday,P013,Bread,Bakery,10,41.6,2,407.68,Cash,Regular
+INV-01250,2026-09-07,2026,September,9,Monday,P027,Turmeric Powder 200g,Spices,6,49.55,5,282.43,UPI,Walk-in
+INV-01251,2026-09-07,2026,September,9,Monday,P001,Rice 5kg,Grains,3,317.62,2,933.8,Debit/Credit Card,Walk-in
+INV-01252,2026-09-07,2026,September,9,Monday,P020,Bath Soap,Personal Care,1,39.59,0,39.59,Cash,Regular
+INV-01253,2026-09-07,2026,September,9,Monday,P014,Biscuits Pack,Snacks,2,30.17,2,59.13,Debit/Credit Card,Walk-in
+INV-01254,2026-09-07,2026,September,9,Monday,P022,Detergent 1kg,Home Care,1,102.73,0,102.73,Cash,Walk-in
+INV-01255,2026-09-07,2026,September,9,Monday,P028,Peanuts 500g,Snacks,4,72.47,0,289.88,Cash,Walk-in
+INV-01256,2026-09-07,2026,September,9,Monday,P026,Chilli Powder 200g,Spices,3,59.09,0,177.27,Debit/Credit Card,Walk-in
+INV-01257,2026-09-07,2026,September,9,Monday,P014,Biscuits Pack,Snacks,5,28.93,0,144.65,UPI,Walk-in
+INV-01258,2026-09-07,2026,September,9,Monday,P028,Peanuts 500g,Snacks,1,77.12,2,75.58,UPI,Walk-in
+INV-01259,2026-09-07,2026,September,9,Monday,P004,Moong Dal 1kg,Pulses,2,153.43,0,306.86,Debit/Credit Card,Walk-in
+INV-01260,2026-09-07,2026,September,9,Monday,P013,Bread,Bakery,1,38.66,10,34.79,Debit/Credit Card,Regular
+INV-01261,2026-09-07,2026,September,9,Monday,P016,Onion 1kg,Vegetables,2,37.56,0,75.12,UPI,Regular
+INV-01262,2026-09-07,2026,September,9,Monday,P013,Bread,Bakery,2,41.12,10,74.02,Cash,Walk-in
+INV-01263,2026-09-08,2026,September,9,Tuesday,P016,Onion 1kg,Vegetables,1,39.49,0,39.49,UPI,Walk-in
+INV-01264,2026-09-08,2026,September,9,Tuesday,P024,Toothpaste,Personal Care,2,70.28,0,140.56,Debit/Credit Card,Regular
+INV-01265,2026-09-08,2026,September,9,Tuesday,P012,Butter 100g,Dairy,3,58.42,0,175.26,Cash,Walk-in
+INV-01266,2026-09-08,2026,September,9,Tuesday,P025,Instant Noodles,Packaged Food,2,14.88,10,26.78,Cash,Walk-in
+INV-01267,2026-09-08,2026,September,9,Tuesday,P020,Bath Soap,Personal Care,2,37.33,2,73.17,UPI,Walk-in
+INV-01268,2026-09-08,2026,September,9,Tuesday,P005,Sugar 1kg,Essentials,3,49.0,0,147.0,UPI,Walk-in
+INV-01269,2026-09-08,2026,September,9,Tuesday,P005,Sugar 1kg,Essentials,3,47.78,2,140.47,UPI,Walk-in
+INV-01270,2026-09-08,2026,September,9,Tuesday,P005,Sugar 1kg,Essentials,2,49.36,2,96.75,UPI,Regular
+INV-01271,2026-09-08,2026,September,9,Tuesday,P005,Sugar 1kg,Essentials,5,48.7,2,238.63,UPI,Regular
+INV-01272,2026-09-08,2026,September,9,Tuesday,P010,Milk 1L,Dairy,3,63.66,0,190.98,UPI,Walk-in
+INV-01273,2026-09-08,2026,September,9,Tuesday,P009,Coffee 100g,Beverages,1,113.94,0,113.94,UPI,Walk-in
+INV-01274,2026-09-08,2026,September,9,Tuesday,P015,Potato 1kg,Vegetables,1,31.24,0,31.24,Cash,Regular
+INV-01275,2026-09-08,2026,September,9,Tuesday,P010,Milk 1L,Dairy,1,61.55,2,60.32,Cash,Regular
+INV-01276,2026-09-08,2026,September,9,Tuesday,P016,Onion 1kg,Vegetables,1,39.72,0,39.72,Cash,Regular
+INV-01277,2026-09-08,2026,September,9,Tuesday,P006,Salt 1kg,Essentials,5,21.38,0,106.9,UPI,Walk-in
+INV-01278,2026-09-08,2026,September,9,Tuesday,P009,Coffee 100g,Beverages,5,112.82,0,564.1,Cash,Walk-in
+INV-01279,2026-09-08,2026,September,9,Tuesday,P010,Milk 1L,Dairy,4,59.62,0,238.48,Cash,Walk-in
+INV-01280,2026-09-08,2026,September,9,Tuesday,P029,Cold Drink 750ml,Beverages,1,45.31,0,45.31,UPI,Regular
+INV-01281,2026-09-08,2026,September,9,Tuesday,P011,Curd 500g,Dairy,2,37.32,0,74.64,UPI,Walk-in
+INV-01282,2026-09-08,2026,September,9,Tuesday,P005,Sugar 1kg,Essentials,3,47.43,0,142.29,Debit/Credit Card,Walk-in
+INV-01283,2026-09-08,2026,September,9,Tuesday,P002,Wheat Flour 5kg,Grains,2,267.65,0,535.3,UPI,Regular
+INV-01284,2026-09-08,2026,September,9,Tuesday,P028,Peanuts 500g,Snacks,2,72.66,0,145.32,Debit/Credit Card,Regular
+INV-01285,2026-09-09,2026,September,9,Wednesday,P002,Wheat Flour 5kg,Grains,1,273.54,0,273.54,UPI,Regular
+INV-01286,2026-09-09,2026,September,9,Wednesday,P015,Potato 1kg,Vegetables,3,31.26,10,84.4,Cash,Walk-in
+INV-01287,2026-09-09,2026,September,9,Wednesday,P016,Onion 1kg,Vegetables,1,37.04,0,37.04,Cash,Walk-in
+INV-01288,2026-09-09,2026,September,9,Wednesday,P014,Biscuits Pack,Snacks,1,30.17,5,28.66,Debit/Credit Card,Walk-in
+INV-01289,2026-09-09,2026,September,9,Wednesday,P027,Turmeric Powder 200g,Spices,3,50.64,0,151.92,Cash,Walk-in
+INV-01290,2026-09-09,2026,September,9,Wednesday,P030,Eggs 6 Pack,Dairy & Eggs,3,47.07,5,134.15,Cash,Walk-in
+INV-01291,2026-09-09,2026,September,9,Wednesday,P023,Dishwash Liquid,Home Care,2,83.22,0,166.44,Cash,Regular
+INV-01292,2026-09-09,2026,September,9,Wednesday,P021,Shampoo 180ml,Personal Care,2,129.23,0,258.46,Cash,Walk-in
+INV-01293,2026-09-09,2026,September,9,Wednesday,P006,Salt 1kg,Essentials,3,21.79,0,65.37,UPI,Walk-in
+INV-01294,2026-09-09,2026,September,9,Wednesday,P010,Milk 1L,Dairy,2,65.37,2,128.13,Cash,Walk-in
+INV-01295,2026-09-09,2026,September,9,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,4,152.82,0,611.28,Cash,Walk-in
+INV-01296,2026-09-09,2026,September,9,Wednesday,P010,Milk 1L,Dairy,4,65.09,2,255.15,UPI,Walk-in
+INV-01297,2026-09-09,2026,September,9,Wednesday,P015,Potato 1kg,Vegetables,3,32.43,2,95.34,Cash,Walk-in
+INV-01298,2026-09-09,2026,September,9,Wednesday,P023,Dishwash Liquid,Home Care,6,85.67,2,503.74,UPI,Walk-in
+INV-01299,2026-09-09,2026,September,9,Wednesday,P015,Potato 1kg,Vegetables,2,31.83,0,63.66,Cash,Walk-in
+INV-01300,2026-09-09,2026,September,9,Wednesday,P011,Curd 500g,Dairy,1,36.66,2,35.93,Debit/Credit Card,Regular
+INV-01301,2026-09-09,2026,September,9,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,1,152.73,0,152.73,Cash,Walk-in
+INV-01302,2026-09-09,2026,September,9,Wednesday,P026,Chilli Powder 200g,Spices,4,57.19,0,228.76,UPI,Walk-in
+INV-01303,2026-09-09,2026,September,9,Wednesday,P012,Butter 100g,Dairy,4,56.59,0,226.36,Cash,Walk-in
+INV-01304,2026-09-10,2026,September,9,Thursday,P011,Curd 500g,Dairy,3,39.02,0,117.06,Cash,Walk-in
+INV-01305,2026-09-10,2026,September,9,Thursday,P026,Chilli Powder 200g,Spices,2,58.3,0,116.6,Cash,Regular
+INV-01306,2026-09-10,2026,September,9,Thursday,P022,Detergent 1kg,Home Care,2,109.85,0,219.7,Cash,Regular
+INV-01307,2026-09-10,2026,September,9,Thursday,P006,Salt 1kg,Essentials,6,21.19,0,127.14,Cash,Walk-in
+INV-01308,2026-09-10,2026,September,9,Thursday,P019,Banana Dozen,Fruits,2,60.71,0,121.42,UPI,Walk-in
+INV-01309,2026-09-10,2026,September,9,Thursday,P004,Moong Dal 1kg,Pulses,5,146.47,0,732.35,UPI,Walk-in
+INV-01310,2026-09-10,2026,September,9,Thursday,P025,Instant Noodles,Packaged Food,2,14.48,2,28.38,UPI,Walk-in
+INV-01311,2026-09-10,2026,September,9,Thursday,P003,Toor Dal 1kg,Pulses,5,165.26,2,809.77,UPI,Walk-in
+INV-01312,2026-09-10,2026,September,9,Thursday,P001,Rice 5kg,Grains,5,318.07,0,1590.35,Cash,Walk-in
+INV-01313,2026-09-10,2026,September,9,Thursday,P011,Curd 500g,Dairy,1,39.27,0,39.27,Debit/Credit Card,Regular
+INV-01314,2026-09-10,2026,September,9,Thursday,P003,Toor Dal 1kg,Pulses,2,171.57,10,308.83,UPI,Walk-in
+INV-01315,2026-09-10,2026,September,9,Thursday,P005,Sugar 1kg,Essentials,2,49.56,0,99.12,UPI,Regular
+INV-01316,2026-09-10,2026,September,9,Thursday,P004,Moong Dal 1kg,Pulses,2,139.38,0,278.76,Cash,Regular
+INV-01317,2026-09-10,2026,September,9,Thursday,P017,Tomato 1kg,Vegetables,1,41.83,0,41.83,Cash,Walk-in
+INV-01318,2026-09-10,2026,September,9,Thursday,P015,Potato 1kg,Vegetables,3,31.83,0,95.49,Cash,Regular
+INV-01319,2026-09-10,2026,September,9,Thursday,P014,Biscuits Pack,Snacks,1,31.47,0,31.47,Cash,Regular
+INV-01320,2026-09-10,2026,September,9,Thursday,P022,Detergent 1kg,Home Care,2,109.56,5,208.16,UPI,Walk-in
+INV-01321,2026-09-10,2026,September,9,Thursday,P014,Biscuits Pack,Snacks,4,30.43,0,121.72,UPI,Regular
+INV-01322,2026-09-11,2026,September,9,Friday,P006,Salt 1kg,Essentials,5,22.73,0,113.65,Cash,Regular
+INV-01323,2026-09-11,2026,September,9,Friday,P014,Biscuits Pack,Snacks,3,30.08,0,90.24,Cash,Walk-in
+INV-01324,2026-09-11,2026,September,9,Friday,P001,Rice 5kg,Grains,3,324.05,0,972.15,UPI,Walk-in
+INV-01325,2026-09-11,2026,September,9,Friday,P020,Bath Soap,Personal Care,4,39.52,2,154.92,Debit/Credit Card,Walk-in
+INV-01326,2026-09-11,2026,September,9,Friday,P018,Apples 1kg,Fruits,5,147.04,0,735.2,UPI,Walk-in
+INV-01327,2026-09-11,2026,September,9,Friday,P025,Instant Noodles,Packaged Food,1,15.63,0,15.63,UPI,Walk-in
+INV-01328,2026-09-11,2026,September,9,Friday,P026,Chilli Powder 200g,Spices,2,58.76,0,117.52,Cash,Walk-in
+INV-01329,2026-09-11,2026,September,9,Friday,P006,Salt 1kg,Essentials,4,23.03,0,92.12,UPI,Walk-in
+INV-01330,2026-09-11,2026,September,9,Friday,P009,Coffee 100g,Beverages,10,112.34,0,1123.4,UPI,Walk-in
+INV-01331,2026-09-11,2026,September,9,Friday,P016,Onion 1kg,Vegetables,1,38.79,2,38.01,UPI,Walk-in
+INV-01332,2026-09-11,2026,September,9,Friday,P025,Instant Noodles,Packaged Food,3,15.47,0,46.41,UPI,Walk-in
+INV-01333,2026-09-11,2026,September,9,Friday,P011,Curd 500g,Dairy,2,37.76,0,75.52,Debit/Credit Card,Walk-in
+INV-01334,2026-09-11,2026,September,9,Friday,P020,Bath Soap,Personal Care,5,40.22,0,201.1,Cash,Regular
+INV-01335,2026-09-11,2026,September,9,Friday,P022,Detergent 1kg,Home Care,2,110.81,0,221.62,Cash,Regular
+INV-01336,2026-09-11,2026,September,9,Friday,P021,Shampoo 180ml,Personal Care,5,120.56,0,602.8,Debit/Credit Card,Walk-in
+INV-01337,2026-09-11,2026,September,9,Friday,P020,Bath Soap,Personal Care,4,37.13,0,148.52,UPI,Walk-in
+INV-01338,2026-09-11,2026,September,9,Friday,P008,Tea 250g,Beverages,4,124.73,0,498.92,UPI,Walk-in
+INV-01339,2026-09-11,2026,September,9,Friday,P009,Coffee 100g,Beverages,5,114.14,0,570.7,UPI,Walk-in
+INV-01340,2026-09-11,2026,September,9,Friday,P020,Bath Soap,Personal Care,1,39.96,0,39.96,UPI,Walk-in
+INV-01341,2026-09-11,2026,September,9,Friday,P013,Bread,Bakery,2,39.34,2,77.11,Cash,Regular
+INV-01342,2026-09-11,2026,September,9,Friday,P014,Biscuits Pack,Snacks,1,29.93,0,29.93,Debit/Credit Card,Walk-in
+INV-01343,2026-09-11,2026,September,9,Friday,P018,Apples 1kg,Fruits,5,149.46,0,747.3,Cash,Walk-in
+INV-01344,2026-09-11,2026,September,9,Friday,P011,Curd 500g,Dairy,1,38.73,0,38.73,UPI,Walk-in
+INV-01345,2026-09-11,2026,September,9,Friday,P008,Tea 250g,Beverages,10,124.31,0,1243.1,Debit/Credit Card,Walk-in
+INV-01346,2026-09-11,2026,September,9,Friday,P008,Tea 250g,Beverages,1,124.94,0,124.94,Debit/Credit Card,Regular
+INV-01347,2026-09-11,2026,September,9,Friday,P002,Wheat Flour 5kg,Grains,2,269.3,0,538.6,UPI,Walk-in
+INV-01348,2026-09-11,2026,September,9,Friday,P023,Dishwash Liquid,Home Care,1,84.37,5,80.15,UPI,Walk-in
+INV-01349,2026-09-11,2026,September,9,Friday,P003,Toor Dal 1kg,Pulses,2,172.97,2,339.02,Cash,Walk-in
+INV-01350,2026-09-12,2026,September,9,Saturday,P011,Curd 500g,Dairy,3,39.39,0,118.17,UPI,Walk-in
+INV-01351,2026-09-12,2026,September,9,Saturday,P017,Tomato 1kg,Vegetables,2,43.88,10,78.98,UPI,Walk-in
+INV-01352,2026-09-12,2026,September,9,Saturday,P019,Banana Dozen,Fruits,6,61.13,0,366.78,Cash,Walk-in
+INV-01353,2026-09-12,2026,September,9,Saturday,P026,Chilli Powder 200g,Spices,2,57.69,5,109.61,UPI,Regular
+INV-01354,2026-09-12,2026,September,9,Saturday,P016,Onion 1kg,Vegetables,5,39.9,0,199.5,Cash,Walk-in
+INV-01355,2026-09-12,2026,September,9,Saturday,P016,Onion 1kg,Vegetables,4,37.93,0,151.72,UPI,Walk-in
+INV-01356,2026-09-12,2026,September,9,Saturday,P005,Sugar 1kg,Essentials,1,50.42,0,50.42,UPI,Walk-in
+INV-01357,2026-09-12,2026,September,9,Saturday,P003,Toor Dal 1kg,Pulses,2,165.68,0,331.36,Cash,Walk-in
+INV-01358,2026-09-12,2026,September,9,Saturday,P016,Onion 1kg,Vegetables,4,38.85,2,152.29,Cash,Regular
+INV-01359,2026-09-12,2026,September,9,Saturday,P028,Peanuts 500g,Snacks,3,78.14,0,234.42,Debit/Credit Card,Walk-in
+INV-01360,2026-09-12,2026,September,9,Saturday,P001,Rice 5kg,Grains,3,335.87,5,957.23,UPI,Walk-in
+INV-01361,2026-09-12,2026,September,9,Saturday,P006,Salt 1kg,Essentials,1,21.65,2,21.22,UPI,Walk-in
+INV-01362,2026-09-12,2026,September,9,Saturday,P028,Peanuts 500g,Snacks,3,77.82,0,233.46,Debit/Credit Card,Regular
+INV-01363,2026-09-12,2026,September,9,Saturday,P008,Tea 250g,Beverages,3,131.02,0,393.06,UPI,Regular
+INV-01364,2026-09-13,2026,September,9,Sunday,P010,Milk 1L,Dairy,4,60.98,0,243.92,UPI,Regular
+INV-01365,2026-09-13,2026,September,9,Sunday,P008,Tea 250g,Beverages,2,130.93,0,261.86,UPI,Regular
+INV-01366,2026-09-13,2026,September,9,Sunday,P030,Eggs 6 Pack,Dairy & Eggs,3,49.0,0,147.0,Cash,Walk-in
+INV-01367,2026-09-13,2026,September,9,Sunday,P020,Bath Soap,Personal Care,1,39.96,0,39.96,Cash,Walk-in
+INV-01368,2026-09-13,2026,September,9,Sunday,P013,Bread,Bakery,5,39.32,0,196.6,Cash,Walk-in
+INV-01369,2026-09-13,2026,September,9,Sunday,P010,Milk 1L,Dairy,1,62.31,0,62.31,UPI,Regular
+INV-01370,2026-09-13,2026,September,9,Sunday,P010,Milk 1L,Dairy,1,61.32,0,61.32,Cash,Walk-in
+INV-01371,2026-09-13,2026,September,9,Sunday,P005,Sugar 1kg,Essentials,2,46.62,5,88.58,Cash,Walk-in
+INV-01372,2026-09-13,2026,September,9,Sunday,P017,Tomato 1kg,Vegetables,1,40.67,0,40.67,UPI,Walk-in
+INV-01373,2026-09-13,2026,September,9,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,5,149.5,5,710.12,UPI,Walk-in
+INV-01374,2026-09-13,2026,September,9,Sunday,P011,Curd 500g,Dairy,6,39.59,0,237.54,Cash,Regular
+INV-01375,2026-09-13,2026,September,9,Sunday,P004,Moong Dal 1kg,Pulses,1,146.47,10,131.82,Cash,Walk-in
+INV-01376,2026-09-13,2026,September,9,Sunday,P001,Rice 5kg,Grains,3,324.74,10,876.8,Cash,Walk-in
+INV-01377,2026-09-13,2026,September,9,Sunday,P016,Onion 1kg,Vegetables,3,37.04,0,111.12,UPI,Walk-in
+INV-01378,2026-09-13,2026,September,9,Sunday,P004,Moong Dal 1kg,Pulses,3,144.93,0,434.79,Cash,Walk-in
+INV-01379,2026-09-14,2026,September,9,Monday,P017,Tomato 1kg,Vegetables,1,40.49,0,40.49,Cash,Walk-in
+INV-01380,2026-09-14,2026,September,9,Monday,P011,Curd 500g,Dairy,3,39.66,5,113.03,Debit/Credit Card,Walk-in
+INV-01381,2026-09-14,2026,September,9,Monday,P028,Peanuts 500g,Snacks,4,74.45,0,297.8,Cash,Walk-in
+INV-01382,2026-09-14,2026,September,9,Monday,P011,Curd 500g,Dairy,2,39.8,0,79.6,UPI,Regular
+INV-01383,2026-09-14,2026,September,9,Monday,P016,Onion 1kg,Vegetables,1,36.7,0,36.7,UPI,Walk-in
+INV-01384,2026-09-14,2026,September,9,Monday,P004,Moong Dal 1kg,Pulses,2,153.57,0,307.14,Cash,Walk-in
+INV-01385,2026-09-14,2026,September,9,Monday,P020,Bath Soap,Personal Care,4,39.9,0,159.6,Debit/Credit Card,Walk-in
+INV-01386,2026-09-14,2026,September,9,Monday,P016,Onion 1kg,Vegetables,2,38.34,2,75.15,UPI,Regular
+INV-01387,2026-09-14,2026,September,9,Monday,P016,Onion 1kg,Vegetables,1,39.28,5,37.32,UPI,Walk-in
+INV-01388,2026-09-14,2026,September,9,Monday,P014,Biscuits Pack,Snacks,4,30.75,0,123.0,Debit/Credit Card,Regular
+INV-01389,2026-09-14,2026,September,9,Monday,P025,Instant Noodles,Packaged Food,1,14.81,0,14.81,Cash,Walk-in
+INV-01390,2026-09-14,2026,September,9,Monday,P007,Sunflower Oil 1L,Oil & Ghee,1,148.58,0,148.58,UPI,Walk-in
+INV-01391,2026-09-14,2026,September,9,Monday,P022,Detergent 1kg,Home Care,1,102.46,0,102.46,UPI,Regular
+INV-01392,2026-09-14,2026,September,9,Monday,P027,Turmeric Powder 200g,Spices,2,50.41,5,95.78,UPI,Walk-in
+INV-01393,2026-09-14,2026,September,9,Monday,P013,Bread,Bakery,6,40.7,0,244.2,UPI,Regular
+INV-01394,2026-09-14,2026,September,9,Monday,P008,Tea 250g,Beverages,1,127.95,0,127.95,UPI,Walk-in
+INV-01395,2026-09-14,2026,September,9,Monday,P016,Onion 1kg,Vegetables,3,40.27,0,120.81,UPI,Regular
+INV-01396,2026-09-14,2026,September,9,Monday,P001,Rice 5kg,Grains,8,335.87,0,2686.96,UPI,Walk-in
+INV-01397,2026-09-15,2026,September,9,Tuesday,P002,Wheat Flour 5kg,Grains,8,273.16,0,2185.28,Debit/Credit Card,Walk-in
+INV-01398,2026-09-15,2026,September,9,Tuesday,P029,Cold Drink 750ml,Beverages,1,45.89,0,45.89,Cash,Regular
+INV-01399,2026-09-15,2026,September,9,Tuesday,P006,Salt 1kg,Essentials,1,21.54,2,21.11,UPI,Regular
+INV-01400,2026-09-15,2026,September,9,Tuesday,P011,Curd 500g,Dairy,2,38.63,0,77.26,UPI,Walk-in
+INV-01401,2026-09-15,2026,September,9,Tuesday,P012,Butter 100g,Dairy,6,58.9,0,353.4,UPI,Walk-in
+INV-01402,2026-09-15,2026,September,9,Tuesday,P024,Toothpaste,Personal Care,2,69.67,0,139.34,UPI,Walk-in
+INV-01403,2026-09-15,2026,September,9,Tuesday,P001,Rice 5kg,Grains,2,329.02,0,658.04,UPI,Regular
+INV-01404,2026-09-15,2026,September,9,Tuesday,P020,Bath Soap,Personal Care,3,37.62,0,112.86,UPI,Walk-in
+INV-01405,2026-09-15,2026,September,9,Tuesday,P010,Milk 1L,Dairy,1,63.55,0,63.55,UPI,Walk-in
+INV-01406,2026-09-15,2026,September,9,Tuesday,P015,Potato 1kg,Vegetables,4,30.96,0,123.84,Cash,Walk-in
+INV-01407,2026-09-15,2026,September,9,Tuesday,P017,Tomato 1kg,Vegetables,1,41.98,0,41.98,UPI,Walk-in
+INV-01408,2026-09-15,2026,September,9,Tuesday,P025,Instant Noodles,Packaged Food,2,14.67,5,27.87,UPI,Walk-in
+INV-01409,2026-09-15,2026,September,9,Tuesday,P022,Detergent 1kg,Home Care,1,101.98,0,101.98,Debit/Credit Card,Walk-in
+INV-01410,2026-09-15,2026,September,9,Tuesday,P024,Toothpaste,Personal Care,2,71.56,10,128.81,Debit/Credit Card,Regular
+INV-01411,2026-09-15,2026,September,9,Tuesday,P025,Instant Noodles,Packaged Food,2,14.97,5,28.44,UPI,Regular
+INV-01412,2026-09-15,2026,September,9,Tuesday,P002,Wheat Flour 5kg,Grains,1,258.65,0,258.65,Cash,Regular
+INV-01413,2026-09-15,2026,September,9,Tuesday,P007,Sunflower Oil 1L,Oil & Ghee,1,148.28,2,145.31,UPI,Regular
+INV-01414,2026-09-15,2026,September,9,Tuesday,P004,Moong Dal 1kg,Pulses,1,153.57,5,145.89,UPI,Walk-in
+INV-01415,2026-09-16,2026,September,9,Wednesday,P010,Milk 1L,Dairy,4,59.96,10,215.86,UPI,Walk-in
+INV-01416,2026-09-16,2026,September,9,Wednesday,P006,Salt 1kg,Essentials,5,22.54,0,112.7,UPI,Walk-in
+INV-01417,2026-09-16,2026,September,9,Wednesday,P003,Toor Dal 1kg,Pulses,1,170.05,0,170.05,UPI,Regular
+INV-01418,2026-09-16,2026,September,9,Wednesday,P014,Biscuits Pack,Snacks,3,30.43,0,91.29,UPI,Regular
+INV-01419,2026-09-16,2026,September,9,Wednesday,P007,Sunflower Oil 1L,Oil & Ghee,1,150.17,0,150.17,Cash,Walk-in
+INV-01420,2026-09-16,2026,September,9,Wednesday,P017,Tomato 1kg,Vegetables,1,42.83,0,42.83,Debit/Credit Card,Walk-in
+INV-01421,2026-09-16,2026,September,9,Wednesday,P003,Toor Dal 1kg,Pulses,5,165.97,0,829.85,Cash,Regular
+INV-01422,2026-09-16,2026,September,9,Wednesday,P015,Potato 1kg,Vegetables,1,32.26,0,32.26,Cash,Walk-in
+INV-01423,2026-09-16,2026,September,9,Wednesday,P029,Cold Drink 750ml,Beverages,8,46.96,5,356.9,UPI,Walk-in
+INV-01424,2026-09-16,2026,September,9,Wednesday,P015,Potato 1kg,Vegetables,3,32.01,0,96.03,Cash,Walk-in
+INV-01425,2026-09-16,2026,September,9,Wednesday,P010,Milk 1L,Dairy,1,65.04,0,65.04,Cash,Regular
+INV-01426,2026-09-16,2026,September,9,Wednesday,P027,Turmeric Powder 200g,Spices,3,46.81,5,133.41,UPI,Regular
+INV-01427,2026-09-16,2026,September,9,Wednesday,P002,Wheat Flour 5kg,Grains,2,260.8,2,511.17,Cash,Walk-in
+INV-01428,2026-09-16,2026,September,9,Wednesday,P002,Wheat Flour 5kg,Grains,1,250.52,0,250.52,Cash,Walk-in
+INV-01429,2026-09-17,2026,September,9,Thursday,P013,Bread,Bakery,5,40.36,0,201.8,UPI,Walk-in
+INV-01430,2026-09-17,2026,September,9,Thursday,P020,Bath Soap,Personal Care,8,37.13,2,291.1,Cash,Walk-in
+INV-01431,2026-09-17,2026,September,9,Thursday,P015,Potato 1kg,Vegetables,2,31.32,0,62.64,Debit/Credit Card,Walk-in
+INV-01432,2026-09-17,2026,September,9,Thursday,P023,Dishwash Liquid,Home Care,3,84.96,0,254.88,UPI,Walk-in
+INV-01433,2026-09-17,2026,September,9,Thursday,P016,Onion 1kg,Vegetables,1,36.59,0,36.59,Debit/Credit Card,Regular
+INV-01434,2026-09-17,2026,September,9,Thursday,P001,Rice 5kg,Grains,5,329.81,0,1649.05,UPI,Walk-in
+INV-01435,2026-09-17,2026,September,9,Thursday,P011,Curd 500g,Dairy,1,36.56,0,36.56,Cash,Walk-in
+INV-01436,2026-09-17,2026,September,9,Thursday,P013,Bread,Bakery,1,39.84,2,39.04,Cash,Walk-in
+INV-01437,2026-09-17,2026,September,9,Thursday,P016,Onion 1kg,Vegetables,2,36.98,0,73.96,Debit/Credit Card,Regular
+INV-01438,2026-09-17,2026,September,9,Thursday,P012,Butter 100g,Dairy,3,56.13,0,168.39,Cash,Walk-in
+INV-01439,2026-09-17,2026,September,9,Thursday,P027,Turmeric Powder 200g,Spices,3,48.59,0,145.77,Cash,Regular
+INV-01440,2026-09-17,2026,September,9,Thursday,P019,Banana Dozen,Fruits,1,60.7,0,60.7,Cash,Regular
+INV-01441,2026-09-17,2026,September,9,Thursday,P002,Wheat Flour 5kg,Grains,3,274.85,5,783.32,Debit/Credit Card,Walk-in
+INV-01442,2026-09-18,2026,September,9,Friday,P018,Apples 1kg,Fruits,5,149.89,5,711.98,UPI,Regular
+INV-01443,2026-09-18,2026,September,9,Friday,P028,Peanuts 500g,Snacks,2,76.44,0,152.88,Debit/Credit Card,Regular
+INV-01444,2026-09-18,2026,September,9,Friday,P030,Eggs 6 Pack,Dairy & Eggs,3,49.93,0,149.79,Cash,Regular
+INV-01445,2026-09-18,2026,September,9,Friday,P007,Sunflower Oil 1L,Oil & Ghee,1,143.84,0,143.84,Cash,Regular
+INV-01446,2026-09-18,2026,September,9,Friday,P018,Apples 1kg,Fruits,2,157.38,10,283.28,UPI,Walk-in
+INV-01447,2026-09-18,2026,September,9,Friday,P029,Cold Drink 750ml,Beverages,1,45.68,0,45.68,Cash,Walk-in
+INV-01448,2026-09-18,2026,September,9,Friday,P021,Shampoo 180ml,Personal Care,3,120.47,0,361.41,UPI,Walk-in
+INV-01449,2026-09-18,2026,September,9,Friday,P006,Salt 1kg,Essentials,1,22.15,0,22.15,Debit/Credit Card,Regular
+INV-01450,2026-09-18,2026,September,9,Friday,P017,Tomato 1kg,Vegetables,4,43.06,0,172.24,Cash,Walk-in
+INV-01451,2026-09-18,2026,September,9,Friday,P002,Wheat Flour 5kg,Grains,3,270.37,0,811.11,UPI,Walk-in
+INV-01452,2026-09-18,2026,September,9,Friday,P019,Banana Dozen,Fruits,1,59.41,0,59.41,UPI,Walk-in
+INV-01453,2026-09-18,2026,September,9,Friday,P010,Milk 1L,Dairy,1,60.09,0,60.09,UPI,Walk-in
+INV-01454,2026-09-18,2026,September,9,Friday,P025,Instant Noodles,Packaged Food,2,15.45,0,30.9,UPI,Walk-in
+INV-01455,2026-09-18,2026,September,9,Friday,P026,Chilli Powder 200g,Spices,1,58.17,0,58.17,UPI,Walk-in
+INV-01456,2026-09-18,2026,September,9,Friday,P006,Salt 1kg,Essentials,4,22.17,10,79.81,Debit/Credit Card,Walk-in
+INV-01457,2026-09-18,2026,September,9,Friday,P011,Curd 500g,Dairy,10,37.99,0,379.9,UPI,Walk-in
+INV-01458,2026-09-18,2026,September,9,Friday,P009,Coffee 100g,Beverages,8,112.82,0,902.56,UPI,Walk-in
+INV-01459,2026-09-18,2026,September,9,Friday,P028,Peanuts 500g,Snacks,2,74.76,0,149.52,Cash,Walk-in
+INV-01460,2026-09-18,2026,September,9,Friday,P019,Banana Dozen,Fruits,3,60.2,0,180.6,Debit/Credit Card,Walk-in
+INV-01461,2026-09-18,2026,September,9,Friday,P009,Coffee 100g,Beverages,5,108.75,0,543.75,Cash,Walk-in
+INV-01462,2026-09-18,2026,September,9,Friday,P005,Sugar 1kg,Essentials,1,49.52,5,47.04,Debit/Credit Card,Walk-in
+INV-01463,2026-09-18,2026,September,9,Friday,P007,Sunflower Oil 1L,Oil & Ghee,3,143.82,2,422.83,UPI,Walk-in
+INV-01464,2026-09-19,2026,September,9,Saturday,P026,Chilli Powder 200g,Spices,1,57.81,0,57.81,Cash,Regular
+INV-01465,2026-09-19,2026,September,9,Saturday,P001,Rice 5kg,Grains,1,310.92,2,304.7,Cash,Walk-in
+INV-01466,2026-09-19,2026,September,9,Saturday,P027,Turmeric Powder 200g,Spices,2,49.55,0,99.1,UPI,Walk-in
+INV-01467,2026-09-19,2026,September,9,Saturday,P015,Potato 1kg,Vegetables,8,31.86,0,254.88,UPI,Walk-in
+INV-01468,2026-09-19,2026,September,9,Saturday,P024,Toothpaste,Personal Care,3,69.36,0,208.08,UPI,Walk-in
+INV-01469,2026-09-19,2026,September,9,Saturday,P030,Eggs 6 Pack,Dairy & Eggs,1,48.36,10,43.52,UPI,Regular
+INV-01470,2026-09-19,2026,September,9,Saturday,P001,Rice 5kg,Grains,4,333.22,0,1332.88,UPI,Walk-in
+INV-01471,2026-09-19,2026,September,9,Saturday,P021,Shampoo 180ml,Personal Care,4,125.58,0,502.32,UPI,Walk-in
+INV-01472,2026-09-19,2026,September,9,Saturday,P015,Potato 1kg,Vegetables,4,33.54,0,134.16,UPI,Regular
+INV-01473,2026-09-19,2026,September,9,Saturday,P024,Toothpaste,Personal Care,8,66.04,0,528.32,Cash,Walk-in
+INV-01474,2026-09-19,2026,September,9,Saturday,P004,Moong Dal 1kg,Pulses,4,141.46,2,554.52,Cash,Walk-in
+INV-01475,2026-09-19,2026,September,9,Saturday,P014,Biscuits Pack,Snacks,5,29.34,0,146.7,UPI,Walk-in
+INV-01476,2026-09-19,2026,September,9,Saturday,P006,Salt 1kg,Essentials,2,22.32,0,44.64,UPI,Walk-in
+INV-01477,2026-09-20,2026,September,9,Sunday,P005,Sugar 1kg,Essentials,3,46.62,0,139.86,UPI,Walk-in
+INV-01478,2026-09-20,2026,September,9,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,1,152.08,0,152.08,Cash,Walk-in
+INV-01479,2026-09-20,2026,September,9,Sunday,P006,Salt 1kg,Essentials,4,22.89,0,91.56,Cash,Walk-in
+INV-01480,2026-09-20,2026,September,9,Sunday,P012,Butter 100g,Dairy,1,60.49,0,60.49,UPI,Walk-in
+INV-01481,2026-09-20,2026,September,9,Sunday,P022,Detergent 1kg,Home Care,1,107.65,0,107.65,UPI,Walk-in
+INV-01482,2026-09-20,2026,September,9,Sunday,P030,Eggs 6 Pack,Dairy & Eggs,2,48.11,0,96.22,UPI,Walk-in
+INV-01483,2026-09-20,2026,September,9,Sunday,P008,Tea 250g,Beverages,3,121.19,5,345.39,UPI,Walk-in
+INV-01484,2026-09-20,2026,September,9,Sunday,P015,Potato 1kg,Vegetables,1,32.8,0,32.8,UPI,Walk-in
+INV-01485,2026-09-20,2026,September,9,Sunday,P016,Onion 1kg,Vegetables,3,40.18,0,120.54,Debit/Credit Card,Walk-in
+INV-01486,2026-09-20,2026,September,9,Sunday,P026,Chilli Powder 200g,Spices,2,55.96,0,111.92,UPI,Regular
+INV-01487,2026-09-20,2026,September,9,Sunday,P020,Bath Soap,Personal Care,1,38.56,0,38.56,UPI,Walk-in
+INV-01488,2026-09-20,2026,September,9,Sunday,P008,Tea 250g,Beverages,3,124.73,0,374.19,Cash,Walk-in
+INV-01489,2026-09-20,2026,September,9,Sunday,P010,Milk 1L,Dairy,2,62.15,5,118.08,UPI,Regular
+INV-01490,2026-09-20,2026,September,9,Sunday,P006,Salt 1kg,Essentials,5,22.44,0,112.2,Cash,Walk-in
+INV-01491,2026-09-20,2026,September,9,Sunday,P008,Tea 250g,Beverages,10,129.98,0,1299.8,UPI,Walk-in
+INV-01492,2026-09-20,2026,September,9,Sunday,P027,Turmeric Powder 200g,Spices,2,47.67,0,95.34,UPI,Walk-in
+INV-01493,2026-09-20,2026,September,9,Sunday,P010,Milk 1L,Dairy,1,60.31,0,60.31,UPI,Walk-in
+INV-01494,2026-09-20,2026,September,9,Sunday,P007,Sunflower Oil 1L,Oil & Ghee,1,143.52,0,143.52,UPI,Regular
+INV-01495,2026-09-20,2026,September,9,Sunday,P015,Potato 1kg,Vegetables,4,31.93,0,127.72,UPI,Walk-in
+INV-01496,2026-09-20,2026,September,9,Sunday,P023,Dishwash Liquid,Home Care,1,82.31,0,82.31,UPI,Walk-in
+INV-01497,2026-09-20,2026,September,9,Sunday,P016,Onion 1kg,Vegetables,1,36.92,0,36.92,Debit/Credit Card,Walk-in
+INV-01498,2026-09-20,2026,September,9,Sunday,P012,Butter 100g,Dairy,2,58.49,2,114.64,Cash,Walk-in
+INV-01499,2026-09-20,2026,September,9,Sunday,P015,Potato 1kg,Vegetables,2,32.4,0,64.8,Cash,Walk-in
+INV-01500,2026-09-20,2026,September,9,Sunday,P001,Rice 5kg,Grains,1,319.16,0,319.16,Debit/Credit Card,Walk-in
