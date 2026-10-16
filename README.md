@@ -207,7 +207,7 @@ Suggested visuals: KPI cards, weekly or daily sales line chart, top 10 products 
 
 ## Acknowledgement
 
-We thank our mentor, **Prof. Shaheen Shaikh**, for her guidance throughout this field project, and the shop owner for providing the sales records.
+We thank our mentor for the guidance given throughout this field project, and the shop owner for providing the sales records.
 
 ---
 
