@@ -1,22 +1,3 @@
-"""
-Local Business Sales Analysis - Grocery Shop
-Data period : 3 July 2026 to 20 September 2026 (1500 records)
-Students    : Payal Awaghade, Mitali Chavan, Dipali Lande
-Mentor      : Prof. Shaheen Shaikh
-
-Produces these reports plus recommendations:
-    1. Total Sales            4. Sales Trend (weekly and monthly)
-    2. Best-Selling Products  5. Top Revenue Products
-    3. Category-wise Sales    6. Quantity Sold
-
-Input  : D:\\DS\\local_business_sales_analysis_1500_records.csv
-Output : D:\\DS\\sales_cleaned.csv, D:\\DS\\sales_summary.xlsx
-         D:\\DS\\output\\  (one CSV / TXT file per report)
-
-Install once : pip install pandas openpyxl
-Run          : cd D:\\DS   then   python sales_analysis.py
-"""
-
 import os
 import sys
 
